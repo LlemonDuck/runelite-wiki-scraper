@@ -21861,6 +21861,7 @@
   "27010" : {
     "itemId" : 27010,
     "name" : "Preform",
+    "speed" : 4,
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "UNARMED"
