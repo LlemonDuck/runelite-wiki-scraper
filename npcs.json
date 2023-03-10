@@ -3051,7 +3051,7 @@
     },
     "attributes" : {
       "npcId" : 794,
-      "name" : "Scarab mage",
+      "name" : "Scarab Mage",
       "isKalphite" : true,
       "size" : 1,
       "accuracyMagic" : 70
@@ -5627,12 +5627,12 @@
   "4863" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 21,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 5,
+        "DEFENCE" : 6,
+        "STRENGTH" : 5,
+        "HITPOINTS" : 0,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -5806,7 +5806,7 @@
     },
     "attributes" : {
       "npcId" : 11246,
-      "name" : "Revenant maledictus",
+      "name" : "Revenant Maledictus",
       "isUndead" : true,
       "size" : 5,
       "accuracyMagic" : 60
@@ -14941,28 +14941,6 @@
       "size" : 3
     }
   },
-  "1204" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 10,
-        "DEFENCE" : 4,
-        "STRENGTH" : 10,
-        "HITPOINTS" : 25,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 5,
-      "defenseSlash" : 6,
-      "defenseCrush" : 8
-    },
-    "attributes" : {
-      "npcId" : 1204,
-      "name" : "Alomone",
-      "size" : 1
-    }
-  },
   "6465" : {
     "skills" : {
       "levels" : {
@@ -15025,6 +15003,31 @@
       "npcId" : 6725,
       "name" : "Rock Golem (Lvl 14)",
       "size" : 1
+    }
+  },
+  "12080" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 280,
+        "DEFENCE" : 200,
+        "STRENGTH" : 280,
+        "HITPOINTS" : 850,
+        "RANGED" : 335,
+        "MAGIC" : 179
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 185,
+      "defenseSlash" : 134,
+      "defenseCrush" : 120,
+      "defenseRanged" : 56,
+      "defenseMagic" : 437
+    },
+    "attributes" : {
+      "npcId" : 12080,
+      "name" : "Phantom Muspah (2)",
+      "size" : 5,
+      "accuracyMagic" : 280
     }
   },
   "7964" : {
@@ -17108,6 +17111,28 @@
       "size" : 1
     }
   },
+  "12092" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 10,
+        "DEFENCE" : 4,
+        "STRENGTH" : 10,
+        "HITPOINTS" : 25,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 5,
+      "defenseSlash" : 6,
+      "defenseCrush" : 8
+    },
+    "attributes" : {
+      "npcId" : 12092,
+      "name" : "Alomone",
+      "size" : 1
+    }
+  },
   "5765" : {
     "skills" : {
       "levels" : {
@@ -19097,7 +19122,7 @@
     },
     "attributes" : {
       "npcId" : 11508,
-      "name" : "Scarab mage (Lvl 119)",
+      "name" : "Scarab Mage (Lvl 119)",
       "isKalphite" : true,
       "size" : 1,
       "accuracyMagic" : 30
@@ -20196,7 +20221,7 @@
     },
     "attributes" : {
       "npcId" : 799,
-      "name" : "Scarab mage (Lvl 66)",
+      "name" : "Scarab Mage (Lvl 66)",
       "isKalphite" : true,
       "size" : 1,
       "accuracyMagic" : 70
