@@ -3051,7 +3051,7 @@
     },
     "attributes" : {
       "npcId" : 794,
-      "name" : "Scarab mage",
+      "name" : "Scarab Mage",
       "isKalphite" : true,
       "size" : 1,
       "accuracyMagic" : 70
@@ -5627,12 +5627,12 @@
   "4863" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 21,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 5,
+        "DEFENCE" : 6,
+        "STRENGTH" : 5,
+        "HITPOINTS" : 0,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -14941,28 +14941,6 @@
       "size" : 3
     }
   },
-  "1204" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 10,
-        "DEFENCE" : 4,
-        "STRENGTH" : 10,
-        "HITPOINTS" : 25,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 5,
-      "defenseSlash" : 6,
-      "defenseCrush" : 8
-    },
-    "attributes" : {
-      "npcId" : 1204,
-      "name" : "Alomone",
-      "size" : 1
-    }
-  },
   "6465" : {
     "skills" : {
       "levels" : {
@@ -15025,6 +15003,31 @@
       "npcId" : 6725,
       "name" : "Rock Golem (Lvl 14)",
       "size" : 1
+    }
+  },
+  "12080" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 280,
+        "DEFENCE" : 200,
+        "STRENGTH" : 280,
+        "HITPOINTS" : 850,
+        "RANGED" : 335,
+        "MAGIC" : 179
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 185,
+      "defenseSlash" : 134,
+      "defenseCrush" : 120,
+      "defenseRanged" : 56,
+      "defenseMagic" : 437
+    },
+    "attributes" : {
+      "npcId" : 12080,
+      "name" : "Phantom Muspah (2)",
+      "size" : 5,
+      "accuracyMagic" : 280
     }
   },
   "7964" : {
@@ -17108,6 +17111,28 @@
       "size" : 1
     }
   },
+  "12092" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 10,
+        "DEFENCE" : 4,
+        "STRENGTH" : 10,
+        "HITPOINTS" : 25,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 5,
+      "defenseSlash" : 6,
+      "defenseCrush" : 8
+    },
+    "attributes" : {
+      "npcId" : 12092,
+      "name" : "Alomone",
+      "size" : 1
+    }
+  },
   "5765" : {
     "skills" : {
       "levels" : {
@@ -17850,6 +17875,30 @@
       "name" : "Monkey Zombie (Lvl 98)",
       "isUndead" : true,
       "size" : 1
+    }
+  },
+  "11993" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 250,
+        "DEFENCE" : 225,
+        "STRENGTH" : 250,
+        "HITPOINTS" : 150,
+        "RANGED" : 1,
+        "MAGIC" : 178
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 130,
+      "defenseSlash" : 128,
+      "defenseCrush" : -10,
+      "defenseRanged" : 211,
+      "defenseMagic" : 198
+    },
+    "attributes" : {
+      "npcId" : 11993,
+      "name" : "Calvar'ion",
+      "size" : 3
     }
   },
   "8995" : {
@@ -19097,7 +19146,7 @@
     },
     "attributes" : {
       "npcId" : 11508,
-      "name" : "Scarab mage (Lvl 119)",
+      "name" : "Scarab Mage (Lvl 119)",
       "isKalphite" : true,
       "size" : 1,
       "accuracyMagic" : 30
@@ -20196,7 +20245,7 @@
     },
     "attributes" : {
       "npcId" : 799,
-      "name" : "Scarab mage (Lvl 66)",
+      "name" : "Scarab Mage (Lvl 66)",
       "isKalphite" : true,
       "size" : 1,
       "accuracyMagic" : 70
@@ -21191,24 +21240,6 @@
       "size" : 3
     }
   },
-  "3544" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 4,
-        "DEFENCE" : 3,
-        "STRENGTH" : 5,
-        "HITPOINTS" : 6,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 3544,
-      "name" : "Desert snake",
-      "size" : 1
-    }
-  },
   "4934" : {
     "skills" : {
       "levels" : {
@@ -21874,30 +21905,6 @@
       "size" : 1
     }
   },
-  "6298" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 168,
-        "DEFENCE" : 100,
-        "STRENGTH" : 168,
-        "HITPOINTS" : 240,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 5,
-      "defenseSlash" : 5,
-      "defenseCrush" : 5,
-      "defenseRanged" : 5,
-      "defenseMagic" : -5
-    },
-    "attributes" : {
-      "npcId" : 6298,
-      "name" : "Treus Dayth (hard)",
-      "size" : 1
-    }
-  },
   "477" : {
     "skills" : {
       "levels" : {
@@ -22139,6 +22146,48 @@
     "attributes" : {
       "npcId" : 4167,
       "name" : "Outlaw",
+      "size" : 1
+    }
+  },
+  "6298" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 168,
+        "DEFENCE" : 100,
+        "STRENGTH" : 168,
+        "HITPOINTS" : 240,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 5,
+      "defenseSlash" : 5,
+      "defenseCrush" : 5,
+      "defenseRanged" : 5,
+      "defenseMagic" : -5
+    },
+    "attributes" : {
+      "npcId" : 6298,
+      "name" : "Treus Dayth (hard)",
+      "size" : 1
+    }
+  },
+  "995" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 995,
+      "name" : "Guard (Lvl 22) (3)",
       "size" : 1
     }
   },
@@ -25931,6 +25980,24 @@
       "size" : 1
     }
   },
+  "2173" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 120,
+        "DEFENCE" : 120,
+        "STRENGTH" : 140,
+        "HITPOINTS" : 140,
+        "RANGED" : 1,
+        "MAGIC" : 40
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 2173,
+      "name" : "TzHaar-Ket",
+      "size" : 1
+    }
+  },
   "3280" : {
     "skills" : {
       "levels" : {
@@ -26250,48 +26317,6 @@
     "attributes" : {
       "npcId" : 3957,
       "name" : "Ungadulu (Lvl 70)",
-      "size" : 1
-    }
-  },
-  "11994" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 250,
-        "DEFENCE" : 225,
-        "STRENGTH" : 250,
-        "HITPOINTS" : 150,
-        "RANGED" : 1,
-        "MAGIC" : 178
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 130,
-      "defenseSlash" : 128,
-      "defenseCrush" : -10,
-      "defenseRanged" : 211,
-      "defenseMagic" : 198
-    },
-    "attributes" : {
-      "npcId" : 11994,
-      "name" : "Calvar'ion",
-      "size" : 3
-    }
-  },
-  "2173" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 120,
-        "DEFENCE" : 120,
-        "STRENGTH" : 140,
-        "HITPOINTS" : 140,
-        "RANGED" : 1,
-        "MAGIC" : 40
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 2173,
-      "name" : "TzHaar-Ket",
       "size" : 1
     }
   },
