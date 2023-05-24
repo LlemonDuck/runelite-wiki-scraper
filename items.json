@@ -623,17 +623,6 @@
     "name" : "Team-29 cape",
     "slot" : 1
   },
-  "27846" : {
-    "itemId" : 27846,
-    "name" : "Statius's platelegs (c)",
-    "accuracyStab" : 3,
-    "accuracySlash" : 3,
-    "accuracyCrush" : 5,
-    "accuracyMagic" : -26,
-    "accuracyRanged" : -13,
-    "strengthMelee" : 2,
-    "slot" : 7
-  },
   "4959" : {
     "itemId" : 4959,
     "name" : "Torag's hammers 75",
@@ -1259,6 +1248,13 @@
     "name" : "Guthan's helm 0",
     "slot" : 0
   },
+  "28067" : {
+    "itemId" : 28067,
+    "name" : "Fighter torso (or)",
+    "accuracyMagic" : -40,
+    "strengthMelee" : 4,
+    "slot" : 4
+  },
   "3899" : {
     "itemId" : 3899,
     "name" : "Iron sickle",
@@ -1878,6 +1874,19 @@
     "accuracyRanged" : -1,
     "slot" : 10
   },
+  "28051" : {
+    "itemId" : 28051,
+    "name" : "Dragon 2h sword (cr)",
+    "accuracyStab" : -4,
+    "accuracySlash" : 92,
+    "accuracyCrush" : 80,
+    "accuracyMagic" : -4,
+    "strengthMelee" : 93,
+    "speed" : 7,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "TWO_HANDED_SWORD"
+  },
   "25252" : {
     "itemId" : 25252,
     "name" : "Ring of the gods (i) (25252)",
@@ -2322,14 +2331,6 @@
     "strengthMelee" : 4,
     "slot" : 0
   },
-  "27838" : {
-    "itemId" : 27838,
-    "name" : "Morrigan's leather chaps",
-    "accuracyMagic" : -10,
-    "accuracyRanged" : 23,
-    "strengthRanged" : 6,
-    "slot" : 7
-  },
   "7323" : {
     "itemId" : 7323,
     "name" : "Green boater",
@@ -2521,6 +2522,13 @@
     "prayer" : 3,
     "slot" : 5
   },
+  "13328" : {
+    "itemId" : 13328,
+    "name" : "Green banner",
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "BANNER"
+  },
   "2597" : {
     "itemId" : 2597,
     "name" : "Black kiteshield (g)",
@@ -2533,24 +2541,6 @@
     "name" : "Monk's robe top (t)",
     "prayer" : 6,
     "slot" : 4
-  },
-  "27842" : {
-    "itemId" : 27842,
-    "name" : "Vesta's chainbody (c)",
-    "accuracyStab" : 8,
-    "accuracySlash" : 8,
-    "accuracyCrush" : 8,
-    "accuracyMagic" : -28,
-    "accuracyRanged" : -14,
-    "strengthMelee" : 5,
-    "slot" : 4
-  },
-  "13328" : {
-    "itemId" : 13328,
-    "name" : "Green banner",
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "BANNER"
   },
   "25404" : {
     "itemId" : 25404,
@@ -3979,6 +3969,19 @@
     "prayer" : 5,
     "slot" : 5
   },
+  "27920" : {
+    "itemId" : 27920,
+    "name" : "Zuriel's staff (bh)",
+    "accuracyStab" : 13,
+    "accuracySlash" : -1,
+    "accuracyCrush" : 65,
+    "accuracyMagic" : 18,
+    "strengthMelee" : 72,
+    "strengthMagic" : 10,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
+  },
   "1171" : {
     "itemId" : 1171,
     "name" : "Wooden shield",
@@ -4163,18 +4166,6 @@
     "itemId" : 20790,
     "name" : "Ring of wealth (i1)",
     "slot" : 12
-  },
-  "27834" : {
-    "itemId" : 27834,
-    "name" : "Statius's platebody",
-    "accuracyStab" : 5,
-    "accuracySlash" : 5,
-    "accuracyCrush" : 7,
-    "accuracyMagic" : -38,
-    "accuracyRanged" : -17,
-    "strengthMelee" : 5,
-    "prayer" : 1,
-    "slot" : 4
   },
   "13378" : {
     "itemId" : 13378,
@@ -4752,6 +4743,18 @@
     "itemId" : 25553,
     "name" : "Golden prospector legs",
     "slot" : 7
+  },
+  "28027" : {
+    "itemId" : 28027,
+    "name" : "Dragon mace (cr)",
+    "accuracyStab" : 40,
+    "accuracySlash" : -2,
+    "accuracyCrush" : 60,
+    "strengthMelee" : 55,
+    "prayer" : 5,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SPIKED"
   },
   "27151" : {
     "itemId" : 27151,
@@ -6563,6 +6566,18 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "POWERED_STAFF"
+  },
+  "28049" : {
+    "itemId" : 28049,
+    "name" : "Dragon halberd (cr)",
+    "accuracyStab" : 70,
+    "accuracySlash" : 95,
+    "accuracyMagic" : -4,
+    "strengthMelee" : 89,
+    "speed" : 7,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "POLEARM"
   },
   "21428" : {
     "itemId" : 21428,
@@ -8419,19 +8434,6 @@
     "name" : "Bracelet of ethereum (uncharged)",
     "slot" : 9
   },
-  "25736" : {
-    "itemId" : 25736,
-    "name" : "Holy scythe of vitur",
-    "accuracyStab" : 70,
-    "accuracySlash" : 110,
-    "accuracyCrush" : 30,
-    "accuracyMagic" : -6,
-    "strengthMelee" : 75,
-    "speed" : 5,
-    "slot" : 3,
-    "is2h" : true,
-    "weaponCategory" : "SCYTHE"
-  },
   "6223" : {
     "itemId" : 6223,
     "name" : "Broodoo shield (6)",
@@ -8467,6 +8469,31 @@
     "accuracyRanged" : -2,
     "strengthMelee" : 6,
     "slot" : 5
+  },
+  "25736" : {
+    "itemId" : 25736,
+    "name" : "Holy scythe of vitur",
+    "accuracyStab" : 70,
+    "accuracySlash" : 110,
+    "accuracyCrush" : 30,
+    "accuracyMagic" : -6,
+    "strengthMelee" : 75,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "SCYTHE"
+  },
+  "28045" : {
+    "itemId" : 28045,
+    "name" : "Dragon spear (p+)(cr)",
+    "accuracyStab" : 55,
+    "accuracySlash" : 55,
+    "accuracyCrush" : 55,
+    "strengthMelee" : 60,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "SPEAR"
   },
   "26726" : {
     "itemId" : 26726,
@@ -9050,13 +9077,6 @@
     "itemId" : 8961,
     "name" : "Red tricorn hat",
     "slot" : 0
-  },
-  "27840" : {
-    "itemId" : 27840,
-    "name" : "Zuriel's robe top (27840)",
-    "accuracyMagic" : 35,
-    "accuracyRanged" : -10,
-    "slot" : 4
   },
   "9101" : {
     "itemId" : 9101,
@@ -9668,13 +9688,6 @@
     "name" : "Black mask (7) (i) (26774)",
     "slot" : 0
   },
-  "3488" : {
-    "itemId" : 3488,
-    "name" : "Gilded kiteshield",
-    "accuracyMagic" : -8,
-    "accuracyRanged" : -3,
-    "slot" : 5
-  },
   "2641" : {
     "itemId" : 2641,
     "name" : "Dark cavalier",
@@ -9864,17 +9877,6 @@
     "accuracyMagic" : 22,
     "accuracyRanged" : -7,
     "slot" : 7
-  },
-  "27845" : {
-    "itemId" : 27845,
-    "name" : "Statius's platebody (c)",
-    "accuracyStab" : 5,
-    "accuracySlash" : 5,
-    "accuracyCrush" : 7,
-    "accuracyMagic" : -30,
-    "accuracyRanged" : -15,
-    "strengthMelee" : 4,
-    "slot" : 4
   },
   "27365" : {
     "itemId" : 27365,
@@ -10414,6 +10416,25 @@
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
+  },
+  "28041" : {
+    "itemId" : 28041,
+    "name" : "Dragon spear (cr)",
+    "accuracyStab" : 55,
+    "accuracySlash" : 55,
+    "accuracyCrush" : 55,
+    "strengthMelee" : 60,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "SPEAR"
+  },
+  "3488" : {
+    "itemId" : 3488,
+    "name" : "Gilded kiteshield",
+    "accuracyMagic" : -8,
+    "accuracyRanged" : -3,
+    "slot" : 5
   },
   "1265" : {
     "itemId" : 1265,
@@ -11062,6 +11083,18 @@
     "strengthRanged" : 120,
     "slot" : 13
   },
+  "28023" : {
+    "itemId" : 28023,
+    "name" : "Dragon dagger (p+)(cr)",
+    "accuracyStab" : 40,
+    "accuracySlash" : 25,
+    "accuracyCrush" : -4,
+    "accuracyMagic" : 1,
+    "strengthMelee" : 40,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
+  },
   "13283" : {
     "itemId" : 13283,
     "name" : "Gravedigger mask",
@@ -11421,7 +11454,7 @@
   },
   "27867" : {
     "itemId" : 27867,
-    "name" : "Abyssal dagger (bhp++)",
+    "name" : "Abyssal dagger (bh)(p++)",
     "accuracyStab" : 85,
     "accuracySlash" : 40,
     "accuracyCrush" : -4,
@@ -11743,6 +11776,11 @@
     "name" : "Void ranger helm (l)(or)",
     "slot" : 0
   },
+  "10398" : {
+    "itemId" : 10398,
+    "name" : "Sleeping cap",
+    "slot" : 0
+  },
   "12601" : {
     "itemId" : 12601,
     "name" : "Ring of the gods",
@@ -11755,6 +11793,13 @@
     "accuracyMagic" : -5,
     "accuracyRanged" : 2,
     "slot" : 7
+  },
+  "28070" : {
+    "itemId" : 28070,
+    "name" : "Helm of neitiznot (or)",
+    "strengthMelee" : 3,
+    "prayer" : 3,
+    "slot" : 0
   },
   "21200" : {
     "itemId" : 21200,
@@ -11834,26 +11879,6 @@
     "slot" : 3,
     "weaponCategory" : "THROWN"
   },
-  "10398" : {
-    "itemId" : 10398,
-    "name" : "Sleeping cap",
-    "slot" : 0
-  },
-  "27850" : {
-    "itemId" : 27850,
-    "name" : "Zuriel's hood (c)",
-    "accuracyMagic" : 5,
-    "accuracyRanged" : -1,
-    "slot" : 0
-  },
-  "27849" : {
-    "itemId" : 27849,
-    "name" : "Morrigan's leather chaps (c)",
-    "accuracyMagic" : -8,
-    "accuracyRanged" : 23,
-    "strengthRanged" : 4,
-    "slot" : 7
-  },
   "13627" : {
     "itemId" : 13627,
     "name" : "Graceful hood (13627)",
@@ -11915,11 +11940,6 @@
     "name" : "Grey gloves",
     "slot" : 9
   },
-  "5050" : {
-    "itemId" : 5050,
-    "name" : "Skirt (5050)",
-    "slot" : 7
-  },
   "26241" : {
     "itemId" : 26241,
     "name" : "Virtus mask",
@@ -11954,6 +11974,19 @@
     "accuracyMagic" : -8,
     "accuracyRanged" : -3,
     "slot" : 5
+  },
+  "5050" : {
+    "itemId" : 5050,
+    "name" : "Skirt (5050)",
+    "slot" : 7
+  },
+  "28055" : {
+    "itemId" : 28055,
+    "name" : "Dragon boots (cr)",
+    "accuracyMagic" : -3,
+    "accuracyRanged" : -1,
+    "strengthMelee" : 4,
+    "slot" : 10
   },
   "21967" : {
     "itemId" : 21967,
@@ -12881,17 +12914,6 @@
     "accuracyRanged" : 3,
     "slot" : 0
   },
-  "27831" : {
-    "itemId" : 27831,
-    "name" : "Vesta's chainbody",
-    "accuracyStab" : 9,
-    "accuracySlash" : 9,
-    "accuracyCrush" : 9,
-    "accuracyMagic" : -32,
-    "accuracyRanged" : -15,
-    "strengthMelee" : 6,
-    "slot" : 4
-  },
   "6737" : {
     "itemId" : 6737,
     "name" : "Berserker ring",
@@ -13280,6 +13302,17 @@
     "strengthRanged" : 105,
     "slot" : 13
   },
+  "28037" : {
+    "itemId" : 28037,
+    "name" : "Dragon battleaxe (cr)",
+    "accuracyStab" : -2,
+    "accuracySlash" : 70,
+    "accuracyCrush" : 65,
+    "strengthMelee" : 85,
+    "speed" : 6,
+    "slot" : 3,
+    "weaponCategory" : "AXE"
+  },
   "13287" : {
     "itemId" : 13287,
     "name" : "Gravedigger gloves",
@@ -13549,6 +13582,12 @@
     "prayer" : 5,
     "slot" : 7
   },
+  "28059" : {
+    "itemId" : 28059,
+    "name" : "Dragon sq shield (cr)",
+    "accuracyMagic" : -6,
+    "slot" : 5
+  },
   "21149" : {
     "itemId" : 21149,
     "name" : "Necklace of passage(4)",
@@ -13699,6 +13738,18 @@
     "accuracyMagic" : -60,
     "accuracyRanged" : 18,
     "slot" : 0
+  },
+  "27900" : {
+    "itemId" : 27900,
+    "name" : "Vesta's spear (bh)",
+    "accuracyStab" : 133,
+    "accuracySlash" : 113,
+    "accuracyCrush" : 120,
+    "strengthMelee" : 122,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "SPEAR"
   },
   "2997" : {
     "itemId" : 2997,
@@ -14355,6 +14406,17 @@
     "name" : "Zamorak max hood",
     "slot" : 0
   },
+  "28029" : {
+    "itemId" : 28029,
+    "name" : "Dragon sword (cr)",
+    "accuracyStab" : 65,
+    "accuracySlash" : 55,
+    "accuracyCrush" : -2,
+    "strengthMelee" : 63,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
+  },
   "21209" : {
     "itemId" : 21209,
     "name" : "Birthday balloons",
@@ -14380,11 +14442,6 @@
     "prayer" : 6,
     "slot" : 1
   },
-  "23318" : {
-    "itemId" : 23318,
-    "name" : "Sandwich lady bottom",
-    "slot" : 7
-  },
   "21163" : {
     "itemId" : 21163,
     "name" : "Amulet of chemistry",
@@ -14395,6 +14452,22 @@
     "name" : "Tyrannical ring (i) (26765)",
     "accuracyCrush" : 8,
     "slot" : 12
+  },
+  "28031" : {
+    "itemId" : 28031,
+    "name" : "Dragon scimitar (cr)",
+    "accuracyStab" : 8,
+    "accuracySlash" : 67,
+    "accuracyCrush" : -2,
+    "strengthMelee" : 66,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SLASH_SWORD"
+  },
+  "23318" : {
+    "itemId" : 23318,
+    "name" : "Sandwich lady bottom",
+    "slot" : 7
   },
   "11806" : {
     "itemId" : 11806,
@@ -14407,18 +14480,6 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "TWO_HANDED_SWORD"
-  },
-  "27835" : {
-    "itemId" : 27835,
-    "name" : "Statius's platelegs",
-    "accuracyStab" : 3,
-    "accuracySlash" : 3,
-    "accuracyCrush" : 5,
-    "accuracyMagic" : -30,
-    "accuracyRanged" : -12,
-    "strengthMelee" : 3,
-    "prayer" : 1,
-    "slot" : 7
   },
   "23212" : {
     "itemId" : 23212,
@@ -14780,6 +14841,13 @@
     "name" : "Granite ring",
     "slot" : 12
   },
+  "28063" : {
+    "itemId" : 28063,
+    "name" : "Dragon plateskirt (cr)",
+    "accuracyMagic" : -21,
+    "accuracyRanged" : -11,
+    "slot" : 7
+  },
   "4983" : {
     "itemId" : 4983,
     "name" : "Verac's flail 75",
@@ -15134,6 +15202,17 @@
     "itemId" : 10416,
     "name" : "Purple elegant shirt",
     "slot" : 4
+  },
+  "28033" : {
+    "itemId" : 28033,
+    "name" : "Dragon longsword (cr)",
+    "accuracyStab" : 58,
+    "accuracySlash" : 69,
+    "accuracyCrush" : -2,
+    "strengthMelee" : 71,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "SLASH_SWORD"
   },
   "20011" : {
     "itemId" : 20011,
@@ -15884,6 +15963,18 @@
     "name" : "Hat of the eye (green)",
     "slot" : 0
   },
+  "28025" : {
+    "itemId" : 28025,
+    "name" : "Dragon dagger (p++)(cr)",
+    "accuracyStab" : 40,
+    "accuracySlash" : 25,
+    "accuracyCrush" : -4,
+    "accuracyMagic" : 1,
+    "strengthMelee" : 40,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
+  },
   "428" : {
     "itemId" : 428,
     "name" : "Priest gown",
@@ -16404,13 +16495,6 @@
     "strengthRanged" : 115,
     "slot" : 13
   },
-  "27841" : {
-    "itemId" : 27841,
-    "name" : "Zuriel's robe bottom (27841)",
-    "accuracyMagic" : 25,
-    "accuracyRanged" : -7,
-    "slot" : 7
-  },
   "11021" : {
     "itemId" : 11021,
     "name" : "Chicken head",
@@ -16440,6 +16524,12 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "BLUNT"
+  },
+  "5623" : {
+    "itemId" : 5623,
+    "name" : "Iron arrow(p++)",
+    "strengthRanged" : 10,
+    "slot" : 13
   },
   "1371" : {
     "itemId" : 1371,
@@ -16561,6 +16651,15 @@
     "name" : "Pink robe top",
     "slot" : 4
   },
+  "27912" : {
+    "itemId" : 27912,
+    "name" : "Morrigan's throwing axe (bh)",
+    "accuracyRanged" : 93,
+    "strengthRanged" : 117,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "THROWN"
+  },
   "24780" : {
     "itemId" : 24780,
     "name" : "Amulet of blood fury",
@@ -16665,13 +16764,6 @@
     "itemId" : 13286,
     "name" : "Gravedigger boots",
     "slot" : 10
-  },
-  "27852" : {
-    "itemId" : 27852,
-    "name" : "Zuriel's robe bottom (c)",
-    "accuracyMagic" : 18,
-    "accuracyRanged" : -6,
-    "slot" : 7
   },
   "24190" : {
     "itemId" : 24190,
@@ -17016,20 +17108,6 @@
     "itemId" : 26771,
     "name" : "Black mask (10) (i) (26771)",
     "slot" : 0
-  },
-  "27836" : {
-    "itemId" : 27836,
-    "name" : "Morrigan's coif",
-    "accuracyMagic" : -5,
-    "accuracyRanged" : 13,
-    "strengthRanged" : 4,
-    "slot" : 0
-  },
-  "5623" : {
-    "itemId" : 5623,
-    "name" : "Iron arrow(p++)",
-    "strengthRanged" : 10,
-    "slot" : 13
   },
   "24828" : {
     "itemId" : 24828,
@@ -17774,6 +17852,13 @@
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
   },
+  "28069" : {
+    "itemId" : 28069,
+    "name" : "Fighter torso (l)(or)",
+    "accuracyMagic" : -40,
+    "strengthMelee" : 4,
+    "slot" : 4
+  },
   "22496" : {
     "itemId" : 22496,
     "name" : "Sinhaza shroud tier 2",
@@ -18331,6 +18416,14 @@
     "accuracyRanged" : 8,
     "slot" : 4
   },
+  "28053" : {
+    "itemId" : 28053,
+    "name" : "Dragon crossbow (cr)",
+    "accuracyRanged" : 94,
+    "speed" : 6,
+    "slot" : 3,
+    "weaponCategory" : "CROSSBOW"
+  },
   "6317" : {
     "itemId" : 6317,
     "name" : "Red topaz machete",
@@ -18425,6 +18518,15 @@
     "slot" : 3,
     "weaponCategory" : "THROWN"
   },
+  "27916" : {
+    "itemId" : 27916,
+    "name" : "Morrigan's javelin (bh)",
+    "accuracyRanged" : 105,
+    "strengthRanged" : 145,
+    "speed" : 6,
+    "slot" : 3,
+    "weaponCategory" : "THROWN"
+  },
   "24533" : {
     "itemId" : 24533,
     "name" : "Runner hat (l)",
@@ -18498,6 +18600,17 @@
     "itemId" : 9729,
     "name" : "Elemental helmet",
     "slot" : 0
+  },
+  "27908" : {
+    "itemId" : 27908,
+    "name" : "Statius's warhammer (bh)",
+    "accuracyStab" : -4,
+    "accuracySlash" : -4,
+    "accuracyCrush" : 123,
+    "strengthMelee" : 114,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "BLUNT"
   },
   "6398" : {
     "itemId" : 6398,
@@ -18944,17 +19057,6 @@
     "name" : "Tome of fire",
     "accuracyMagic" : 8,
     "slot" : 5
-  },
-  "27844" : {
-    "itemId" : 27844,
-    "name" : "Statius's full helm (c)",
-    "accuracyStab" : 3,
-    "accuracySlash" : 3,
-    "accuracyCrush" : 4,
-    "accuracyMagic" : -6,
-    "accuracyRanged" : -2,
-    "strengthMelee" : 2,
-    "slot" : 0
   },
   "24745" : {
     "itemId" : 24745,
@@ -19935,6 +20037,17 @@
     "prayer" : 1,
     "slot" : 10
   },
+  "27904" : {
+    "itemId" : 27904,
+    "name" : "Vesta's longsword (bh)",
+    "accuracyStab" : 106,
+    "accuracySlash" : 121,
+    "accuracyCrush" : -2,
+    "strengthMelee" : 118,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "SLASH_SWORD"
+  },
   "20257" : {
     "itemId" : 20257,
     "name" : "Lovakengj banner",
@@ -20690,14 +20803,6 @@
     "accuracyRanged" : -3,
     "slot" : 0
   },
-  "27848" : {
-    "itemId" : 27848,
-    "name" : "Morrigan's leather body (c)",
-    "accuracyMagic" : -13,
-    "accuracyRanged" : 36,
-    "strengthRanged" : 4,
-    "slot" : 4
-  },
   "6418" : {
     "itemId" : 6418,
     "name" : "Maple blackjack(o)",
@@ -20819,6 +20924,18 @@
     "itemId" : 24165,
     "name" : "Decorative armour (l)",
     "slot" : 0
+  },
+  "28047" : {
+    "itemId" : 28047,
+    "name" : "Dragon spear (p++)(cr)",
+    "accuracyStab" : 55,
+    "accuracySlash" : 55,
+    "accuracyCrush" : 55,
+    "strengthMelee" : 60,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "SPEAR"
   },
   "1540" : {
     "itemId" : 1540,
@@ -21696,13 +21813,6 @@
     "prayer" : 3,
     "slot" : 0
   },
-  "27839" : {
-    "itemId" : 27839,
-    "name" : "Zuriel's hood (27839)",
-    "accuracyMagic" : 8,
-    "accuracyRanged" : -2,
-    "slot" : 0
-  },
   "4876" : {
     "itemId" : 4876,
     "name" : "Ahrim's robeskirt 50",
@@ -22075,6 +22185,17 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
+  },
+  "23200" : {
+    "itemId" : 23200,
+    "name" : "Armadyl d'hide shield",
+    "accuracyStab" : -15,
+    "accuracySlash" : -15,
+    "accuracyCrush" : -11,
+    "accuracyMagic" : -10,
+    "accuracyRanged" : 7,
+    "prayer" : 1,
+    "slot" : 5
   },
   "6404" : {
     "itemId" : 6404,
@@ -22960,13 +23081,6 @@
     "slot" : 3,
     "weaponCategory" : "BLUNT"
   },
-  "27851" : {
-    "itemId" : 27851,
-    "name" : "Zuriel's robe top (c)",
-    "accuracyMagic" : 25,
-    "accuracyRanged" : -8,
-    "slot" : 4
-  },
   "2581" : {
     "itemId" : 2581,
     "name" : "Robin hood hat",
@@ -23002,28 +23116,6 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "AXE"
-  },
-  "27832" : {
-    "itemId" : 27832,
-    "name" : "Vesta's plateskirt",
-    "accuracyStab" : 7,
-    "accuracySlash" : 7,
-    "accuracyCrush" : 7,
-    "accuracyMagic" : -30,
-    "accuracyRanged" : -12,
-    "strengthMelee" : 3,
-    "slot" : 7
-  },
-  "23200" : {
-    "itemId" : 23200,
-    "name" : "Armadyl d'hide shield",
-    "accuracyStab" : -15,
-    "accuracySlash" : -15,
-    "accuracyCrush" : -11,
-    "accuracyMagic" : -10,
-    "accuracyRanged" : 7,
-    "prayer" : 1,
-    "slot" : 5
   },
   "26735" : {
     "itemId" : 26735,
@@ -23795,6 +23887,18 @@
     "accuracyRanged" : 14,
     "slot" : 7
   },
+  "28035" : {
+    "itemId" : 28035,
+    "name" : "Dragon warhammer (cr)",
+    "accuracyStab" : -4,
+    "accuracySlash" : -4,
+    "accuracyCrush" : 95,
+    "accuracyMagic" : -4,
+    "strengthMelee" : 85,
+    "speed" : 6,
+    "slot" : 3,
+    "weaponCategory" : "BLUNT"
+  },
   "12486" : {
     "itemId" : 12486,
     "name" : "Bandos full helm",
@@ -24017,7 +24121,7 @@
   },
   "27865" : {
     "itemId" : 27865,
-    "name" : "Abyssal dagger (bhp+)",
+    "name" : "Abyssal dagger (bh)(p+)",
     "accuracyStab" : 85,
     "accuracySlash" : 40,
     "accuracyCrush" : -4,
@@ -24554,6 +24658,12 @@
     "name" : "Shayzien hood",
     "slot" : 0
   },
+  "28057" : {
+    "itemId" : 28057,
+    "name" : "Dragon med helm (cr)",
+    "accuracyMagic" : -3,
+    "slot" : 0
+  },
   "12851" : {
     "itemId" : 12851,
     "name" : "Amulet of the damned (full)",
@@ -24625,14 +24735,6 @@
     "itemId" : 13621,
     "name" : "Graceful legs (13621)",
     "slot" : 7
-  },
-  "27847" : {
-    "itemId" : 27847,
-    "name" : "Morrigan's coif (c)",
-    "accuracyMagic" : -4,
-    "accuracyRanged" : 13,
-    "strengthRanged" : 2,
-    "slot" : 0
   },
   "26445" : {
     "itemId" : 26445,
@@ -25433,14 +25535,6 @@
     "name" : "Team-12 cape",
     "slot" : 1
   },
-  "27837" : {
-    "itemId" : 27837,
-    "name" : "Morrigan's leather body",
-    "accuracyMagic" : -15,
-    "accuracyRanged" : 36,
-    "strengthRanged" : 6,
-    "slot" : 4
-  },
   "1225" : {
     "itemId" : 1225,
     "name" : "Mithril dagger(p)",
@@ -25789,6 +25883,18 @@
     "prayer" : 6,
     "slot" : 4
   },
+  "28021" : {
+    "itemId" : 28021,
+    "name" : "Dragon dagger (p)(cr)",
+    "accuracyStab" : 40,
+    "accuracySlash" : 25,
+    "accuracyCrush" : -4,
+    "accuracyMagic" : 1,
+    "strengthMelee" : 40,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
+  },
   "21000" : {
     "itemId" : 21000,
     "name" : "Twisted buckler",
@@ -25851,6 +25957,18 @@
     "itemId" : 648,
     "name" : "Green robe bottoms",
     "slot" : 7
+  },
+  "28019" : {
+    "itemId" : 28019,
+    "name" : "Dragon dagger (cr)",
+    "accuracyStab" : 40,
+    "accuracySlash" : 25,
+    "accuracyCrush" : -4,
+    "accuracyMagic" : 1,
+    "strengthMelee" : 40,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
   },
   "10882" : {
     "itemId" : 10882,
@@ -25923,6 +26041,18 @@
     "speed" : 3,
     "slot" : 3,
     "weaponCategory" : "THROWN"
+  },
+  "28039" : {
+    "itemId" : 28039,
+    "name" : "Dragon claws (cr)",
+    "accuracyStab" : 41,
+    "accuracySlash" : 57,
+    "accuracyCrush" : -4,
+    "strengthMelee" : 56,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "CLAW"
   },
   "13603" : {
     "itemId" : 13603,
@@ -26627,17 +26757,6 @@
     "accuracyRanged" : -3,
     "slot" : 0
   },
-  "27843" : {
-    "itemId" : 27843,
-    "name" : "Vesta's plateskirt (c)",
-    "accuracyStab" : 6,
-    "accuracySlash" : 6,
-    "accuracyCrush" : 6,
-    "accuracyMagic" : -24,
-    "accuracyRanged" : -12,
-    "strengthMelee" : 2,
-    "slot" : 7
-  },
   "2613" : {
     "itemId" : 2613,
     "name" : "Adamant full helm (g)",
@@ -27113,6 +27232,18 @@
     "is2h" : true,
     "weaponCategory" : "SPEAR"
   },
+  "28043" : {
+    "itemId" : 28043,
+    "name" : "Dragon spear (p)(cr)",
+    "accuracyStab" : 55,
+    "accuracySlash" : 55,
+    "accuracyCrush" : 55,
+    "strengthMelee" : 60,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "SPEAR"
+  },
   "6621" : {
     "itemId" : 6621,
     "name" : "White med helm",
@@ -27474,17 +27605,6 @@
     "accuracyRanged" : -10,
     "slot" : 4
   },
-  "27833" : {
-    "itemId" : 27833,
-    "name" : "Statius's full helm",
-    "accuracyStab" : 3,
-    "accuracySlash" : 3,
-    "accuracyCrush" : 5,
-    "accuracyMagic" : -6,
-    "accuracyRanged" : -2,
-    "strengthMelee" : 3,
-    "slot" : 0
-  },
   "3748" : {
     "itemId" : 3748,
     "name" : "Fremennik helm",
@@ -27825,6 +27945,12 @@
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
+  },
+  "28065" : {
+    "itemId" : 28065,
+    "name" : "Dragon chainbody (cr)",
+    "accuracyMagic" : -15,
+    "slot" : 4
   },
   "22292" : {
     "itemId" : 22292,
@@ -28710,7 +28836,7 @@
   },
   "27863" : {
     "itemId" : 27863,
-    "name" : "Abyssal dagger (bhp)",
+    "name" : "Abyssal dagger (bh)(p)",
     "accuracyStab" : 85,
     "accuracySlash" : 40,
     "accuracyCrush" : -4,
@@ -29678,6 +29804,13 @@
     "itemId" : 1050,
     "name" : "Santa hat",
     "slot" : 0
+  },
+  "28061" : {
+    "itemId" : 28061,
+    "name" : "Dragon platelegs (cr)",
+    "accuracyMagic" : -21,
+    "accuracyRanged" : -11,
+    "slot" : 7
   },
   "9245" : {
     "itemId" : 9245,
