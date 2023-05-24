@@ -2268,7 +2268,7 @@
         "ATTACK" : 140,
         "DEFENCE" : 80,
         "STRENGTH" : 140,
-        "HITPOINTS" : 2500,
+        "HITPOINTS" : 2000,
         "RANGED" : 140,
         "MAGIC" : 140
       }
@@ -4634,7 +4634,7 @@
     },
     "attributes" : {
       "npcId" : 77,
-      "name" : "Skeleton (Lvl 25)",
+      "name" : "Skeleton (Lvl 25) (0)",
       "isUndead" : true,
       "size" : 1
     }
@@ -14387,7 +14387,7 @@
         "ATTACK" : 1,
         "DEFENCE" : 100,
         "STRENGTH" : 1,
-        "HITPOINTS" : 4300,
+        "HITPOINTS" : 3400,
         "RANGED" : 50,
         "MAGIC" : 80
       }
@@ -17707,7 +17707,7 @@
         "ATTACK" : 180,
         "DEFENCE" : 150,
         "STRENGTH" : 140,
-        "HITPOINTS" : 2800,
+        "HITPOINTS" : 2240,
         "RANGED" : 150,
         "MAGIC" : 150
       }
@@ -21921,6 +21921,31 @@
       "npcId" : 477,
       "name" : "Giant frog",
       "size" : 2
+    }
+  },
+  "10717" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 24,
+        "DEFENCE" : 24,
+        "STRENGTH" : 24,
+        "HITPOINTS" : 17,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 9,
+      "defenseSlash" : 11,
+      "defenseCrush" : -1,
+      "defenseRanged" : 4,
+      "defenseMagic" : 1
+    },
+    "attributes" : {
+      "npcId" : 10717,
+      "name" : "Skeleton (Lvl 25) (1)",
+      "isUndead" : true,
+      "size" : 1
     }
   },
   "483" : {
