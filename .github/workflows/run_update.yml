@@ -73,7 +73,6 @@ jobs:
         base: wiki-data-v2
         title: Wiki scrape data ${{ steps.date.outputs.date }}
         commit-message: Wiki scrape data ${{ steps.date.outputs.date }}
-        reviewers: LlemonDuck
         delete-branch: true
     - name: Display output PR
       if: ${{ steps.cpr.outputs.pull-request-number }}
