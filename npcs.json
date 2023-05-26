@@ -909,6 +909,31 @@
       "size" : 4
     }
   },
+  "8375" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 180,
+        "DEFENCE" : 120,
+        "STRENGTH" : 200,
+        "HITPOINTS" : 2400,
+        "RANGED" : 180,
+        "MAGIC" : 180
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 30,
+      "defenseSlash" : 10,
+      "defenseCrush" : 30,
+      "defenseRanged" : 100,
+      "defenseMagic" : 60
+    },
+    "attributes" : {
+      "npcId" : 8375,
+      "name" : "Verzik Vitur (P3/Spider)",
+      "size" : 7,
+      "accuracyMagic" : 20
+    }
+  },
   "817" : {
     "skills" : {
       "levels" : {
@@ -2679,7 +2704,7 @@
         "ATTACK" : 160,
         "DEFENCE" : 50,
         "STRENGTH" : 140,
-        "HITPOINTS" : 1800,
+        "HITPOINTS" : 1440,
         "RANGED" : 140,
         "MAGIC" : 20
       }
@@ -9169,6 +9194,28 @@
       "size" : 1
     }
   },
+  "429" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 54,
+        "DEFENCE" : 84,
+        "STRENGTH" : 84,
+        "HITPOINTS" : 77,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseSlash" : 20,
+      "defenseCrush" : 20
+    },
+    "attributes" : {
+      "npcId" : 429,
+      "name" : "Turoth",
+      "isLeafy" : true,
+      "size" : 1
+    }
+  },
   "4689" : {
     "skills" : {
       "levels" : {
@@ -9878,53 +9925,6 @@
       "name" : "Kurask",
       "isLeafy" : true,
       "size" : 3
-    }
-  },
-  "429" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 54,
-        "DEFENCE" : 84,
-        "STRENGTH" : 84,
-        "HITPOINTS" : 77,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseSlash" : 20,
-      "defenseCrush" : 20
-    },
-    "attributes" : {
-      "npcId" : 429,
-      "name" : "Turoth",
-      "isLeafy" : true,
-      "size" : 1
-    }
-  },
-  "8374" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 400,
-        "DEFENCE" : 150,
-        "STRENGTH" : 400,
-        "HITPOINTS" : 3250,
-        "RANGED" : 300,
-        "MAGIC" : 300
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 70,
-      "defenseSlash" : 30,
-      "defenseCrush" : 70,
-      "defenseRanged" : 230,
-      "defenseMagic" : 100
-    },
-    "attributes" : {
-      "npcId" : 8374,
-      "name" : "Verzik Vitur (P3/Spider)",
-      "size" : 7,
-      "accuracyMagic" : 80
     }
   },
   "2584" : {
@@ -17198,25 +17198,6 @@
       "size" : 1
     }
   },
-  "5689" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 12,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 5689,
-      "name" : "Undead Lumberjack (Lvl 55)",
-      "isUndead" : true,
-      "size" : 1
-    }
-  },
   "9567" : {
     "skills" : {
       "levels" : {
@@ -17788,6 +17769,50 @@
       "name" : "Abhorrent spectre",
       "isUndead" : true,
       "size" : 3
+    }
+  },
+  "5689" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 12,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 5689,
+      "name" : "Undead Lumberjack (Lvl 55)",
+      "isUndead" : true,
+      "size" : 1
+    }
+  },
+  "8373" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 200,
+        "DEFENCE" : 120,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 1600,
+        "RANGED" : 180,
+        "MAGIC" : 180
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 40,
+      "defenseSlash" : 20,
+      "defenseCrush" : 40,
+      "defenseRanged" : 180,
+      "defenseMagic" : 40
+    },
+    "attributes" : {
+      "npcId" : 8373,
+      "name" : "Verzik Vitur (P2/Vampyre)",
+      "size" : 3,
+      "accuracyMagic" : 32
     }
   },
   "7936" : {
@@ -19435,7 +19460,7 @@
         "ATTACK" : 100,
         "DEFENCE" : 80,
         "STRENGTH" : 180,
-        "HITPOINTS" : 1600,
+        "HITPOINTS" : 1280,
         "RANGED" : 72,
         "MAGIC" : 120
       }
@@ -24094,30 +24119,6 @@
       "size" : 1
     }
   },
-  "7234" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 75,
-        "DEFENCE" : 75,
-        "STRENGTH" : 75,
-        "HITPOINTS" : 75,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 50,
-      "defenseSlash" : 70,
-      "defenseCrush" : 70,
-      "defenseRanged" : 30,
-      "defenseMagic" : 40
-    },
-    "attributes" : {
-      "npcId" : 7234,
-      "name" : "Ent (Lvl 86)",
-      "size" : 2
-    }
-  },
   "10544" : {
     "skills" : {
       "levels" : {
@@ -25125,6 +25126,55 @@
       "npcId" : 2579,
       "name" : "Monk",
       "size" : 1
+    }
+  },
+  "8370" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 180,
+        "DEFENCE" : 10,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 1200,
+        "RANGED" : 180,
+        "MAGIC" : 180
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 10,
+      "defenseSlash" : 10,
+      "defenseCrush" : 10,
+      "defenseRanged" : 10,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 8370,
+      "name" : "Verzik Vitur (P1/Throne)",
+      "size" : 5,
+      "accuracyMagic" : 32
+    }
+  },
+  "7234" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 75,
+        "DEFENCE" : 75,
+        "STRENGTH" : 75,
+        "HITPOINTS" : 75,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 70,
+      "defenseCrush" : 70,
+      "defenseRanged" : 30,
+      "defenseMagic" : 40
+    },
+    "attributes" : {
+      "npcId" : 7234,
+      "name" : "Ent (Lvl 86)",
+      "size" : 2
     }
   },
   "7272" : {
@@ -26314,7 +26364,7 @@
         "ATTACK" : 160,
         "DEFENCE" : 50,
         "STRENGTH" : 140,
-        "HITPOINTS" : 1800,
+        "HITPOINTS" : 1440,
         "RANGED" : 140,
         "MAGIC" : 20
       }
@@ -26382,31 +26432,6 @@
       "npcId" : 3910,
       "name" : "Unicorn Foal",
       "size" : 2
-    }
-  },
-  "8369" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 400,
-        "DEFENCE" : 20,
-        "STRENGTH" : 400,
-        "HITPOINTS" : 2000,
-        "RANGED" : 400,
-        "MAGIC" : 400
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 20,
-      "defenseSlash" : 20,
-      "defenseCrush" : 20,
-      "defenseRanged" : 20,
-      "defenseMagic" : 20
-    },
-    "attributes" : {
-      "npcId" : 8369,
-      "name" : "Verzik Vitur (P1/Throne)",
-      "size" : 5,
-      "accuracyMagic" : 80
     }
   },
   "1370" : {
@@ -29051,6 +29076,30 @@
       "size" : 2
     }
   },
+  "1338" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 1,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 6,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : -42,
+      "defenseSlash" : -42,
+      "defenseCrush" : -42,
+      "defenseRanged" : -42,
+      "defenseMagic" : -42
+    },
+    "attributes" : {
+      "npcId" : 1338,
+      "name" : "Seagull (Lvl 2)",
+      "size" : 1
+    }
+  },
   "2912" : {
     "skills" : {
       "levels" : {
@@ -29706,55 +29755,6 @@
       "npcId" : 9017,
       "name" : "Mourner (Lvl 108)",
       "size" : 1
-    }
-  },
-  "1338" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 1,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 6,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : -42,
-      "defenseSlash" : -42,
-      "defenseCrush" : -42,
-      "defenseRanged" : -42,
-      "defenseMagic" : -42
-    },
-    "attributes" : {
-      "npcId" : 1338,
-      "name" : "Seagull (Lvl 2)",
-      "size" : 1
-    }
-  },
-  "8372" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 400,
-        "DEFENCE" : 200,
-        "STRENGTH" : 400,
-        "HITPOINTS" : 3250,
-        "RANGED" : 400,
-        "MAGIC" : 400
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 100,
-      "defenseSlash" : 60,
-      "defenseCrush" : 100,
-      "defenseRanged" : 250,
-      "defenseMagic" : 70
-    },
-    "attributes" : {
-      "npcId" : 8372,
-      "name" : "Verzik Vitur (P2/Vampyre)",
-      "size" : 3,
-      "accuracyMagic" : 80
     }
   },
   "240" : {
