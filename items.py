@@ -23,23 +23,8 @@ slotIDs: Dict[str, int] = {
 	"shield": 5
 }
 
-def getLimits():
-	req = urllib.request.Request(
-		'https://oldschool.runescape.wiki/w/Module:GELimits/data?action=raw', headers=api.user_agent)
-	with urllib.request.urlopen(req) as response:
-		data = response.read()
-	limits = {}
-	for line in data.splitlines():
-		match = re.search(r"\[\"(.*)\"\] = (\d+),?", str(line))
-		if match:
-			name = match.group(1).replace('\\', '')
-			limit = match.group(2)
-			limits[name] = int(limit)
-	return limits
-
 
 def run():
-	limits = getLimits()
 	stats = {}
 
 	item_pages = api.query_category("Items")
@@ -122,8 +107,6 @@ def run():
 					itemName = str(version["gemwname"]).strip()
 				elif "name" in version:
 					itemName = str(version["name"]).strip()
-				if itemName in limits:
-					doc['ge_limit'] = limits[itemName]
 
 				for (vid, version) in util.each_version("CombatStyles", code):
 					doc['weaponCategory'] = version[''].upper().replace(' ', '_').replace('2H_SWORD', 'TWO_HANDED_SWORD')
