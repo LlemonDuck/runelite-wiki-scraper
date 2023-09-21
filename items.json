@@ -343,6 +343,15 @@
     "strengthMelee" : 6,
     "slot" : 9
   },
+  "874" : {
+    "itemId" : 874,
+    "name" : "Black knife(p)",
+    "accuracyRanged" : 10,
+    "strengthRanged" : 8,
+    "speed" : 3,
+    "slot" : 3,
+    "weaponCategory" : "THROWN"
+  },
   "26725" : {
     "itemId" : 26725,
     "name" : "Wristbands of the arena (c)",
@@ -354,14 +363,10 @@
     "strengthMelee" : 12,
     "slot" : 9
   },
-  "874" : {
-    "itemId" : 874,
-    "name" : "Black knife(p)",
-    "accuracyRanged" : 10,
-    "strengthRanged" : 8,
-    "speed" : 3,
-    "slot" : 3,
-    "weaponCategory" : "THROWN"
+  "28119" : {
+    "itemId" : 28119,
+    "name" : "Colourful jumper (28119)",
+    "slot" : 4
   },
   "6245" : {
     "itemId" : 6245,
@@ -467,6 +472,11 @@
     "accuracyMagic" : -6,
     "accuracyRanged" : -3,
     "slot" : 0
+  },
+  "28109" : {
+    "itemId" : 28109,
+    "name" : "Colourful scarf (28109)",
+    "slot" : 2
   },
   "11669" : {
     "itemId" : 11669,
@@ -623,6 +633,17 @@
     "name" : "Team-29 cape",
     "slot" : 1
   },
+  "27846" : {
+    "itemId" : 27846,
+    "name" : "Corrupted statius's platelegs (bh)",
+    "accuracyStab" : 1,
+    "accuracySlash" : 1,
+    "accuracyCrush" : 10,
+    "accuracyMagic" : -26,
+    "accuracyRanged" : -13,
+    "strengthMelee" : 2,
+    "slot" : 7
+  },
   "4959" : {
     "itemId" : 4959,
     "name" : "Torag's hammers 75",
@@ -703,6 +724,11 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BANNER"
+  },
+  "28143" : {
+    "itemId" : 28143,
+    "name" : "Forestry basket",
+    "slot" : 1
   },
   "885" : {
     "itemId" : 885,
@@ -840,6 +866,11 @@
     "prayer" : 1,
     "slot" : 12
   },
+  "28116" : {
+    "itemId" : 28116,
+    "name" : "Rainbow jumper",
+    "slot" : 4
+  },
   "12508" : {
     "itemId" : 12508,
     "name" : "Armadyl d'hide body",
@@ -929,13 +960,6 @@
     "name" : "Onyx dragon bolts (e)",
     "strengthRanged" : 122,
     "slot" : 13
-  },
-  "25487" : {
-    "itemId" : 25487,
-    "name" : "Ring of true smoke",
-    "accuracyRanged" : 10,
-    "strengthRanged" : 2,
-    "slot" : 12
   },
   "22177" : {
     "itemId" : 22177,
@@ -1401,13 +1425,6 @@
     "itemId" : 24405,
     "name" : "Twisted hat (t1)",
     "slot" : 0
-  },
-  "25488" : {
-    "itemId" : 25488,
-    "name" : "Ring of true shadow",
-    "accuracySlash" : 12,
-    "strengthMelee" : 4,
-    "slot" : 12
   },
   "27645" : {
     "itemId" : 27645,
@@ -2132,6 +2149,12 @@
     "slot" : 3,
     "weaponCategory" : "SPEAR"
   },
+  "28307" : {
+    "itemId" : 28307,
+    "name" : "Ultor ring",
+    "strengthMelee" : 12,
+    "slot" : 12
+  },
   "1662" : {
     "itemId" : 1662,
     "name" : "Diamond necklace",
@@ -2331,6 +2354,14 @@
     "strengthMelee" : 4,
     "slot" : 0
   },
+  "27838" : {
+    "itemId" : 27838,
+    "name" : "Morrigan's leather chaps (bh)",
+    "accuracyMagic" : -10,
+    "accuracyRanged" : 23,
+    "strengthRanged" : 6,
+    "slot" : 7
+  },
   "7323" : {
     "itemId" : 7323,
     "name" : "Green boater",
@@ -2522,13 +2553,6 @@
     "prayer" : 3,
     "slot" : 5
   },
-  "13328" : {
-    "itemId" : 13328,
-    "name" : "Green banner",
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "BANNER"
-  },
   "2597" : {
     "itemId" : 2597,
     "name" : "Black kiteshield (g)",
@@ -2542,10 +2566,28 @@
     "prayer" : 6,
     "slot" : 4
   },
+  "27842" : {
+    "itemId" : 27842,
+    "name" : "Corrupted vesta's chainbody (bh)",
+    "accuracyStab" : 14,
+    "accuracySlash" : 14,
+    "accuracyCrush" : 4,
+    "accuracyMagic" : -28,
+    "accuracyRanged" : -14,
+    "strengthMelee" : 5,
+    "slot" : 4
+  },
+  "13328" : {
+    "itemId" : 13328,
+    "name" : "Green banner",
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "BANNER"
+  },
   "25404" : {
     "itemId" : 25404,
     "name" : "Bloodbark body",
-    "accuracyMagic" : 18,
+    "accuracyMagic" : 21,
     "slot" : 4
   },
   "6922" : {
@@ -2656,6 +2698,15 @@
     "accuracyRanged" : -2,
     "prayer" : 1,
     "slot" : 5
+  },
+  "28258" : {
+    "itemId" : 28258,
+    "name" : "Sanguine torva platelegs",
+    "accuracyMagic" : -24,
+    "accuracyRanged" : -11,
+    "strengthMelee" : 4,
+    "prayer" : 1,
+    "slot" : 7
   },
   "5663" : {
     "itemId" : 5663,
@@ -3001,6 +3052,11 @@
     "accuracyMagic" : 4,
     "slot" : 0
   },
+  "28113" : {
+    "itemId" : 28113,
+    "name" : "Colourful scarf (28113)",
+    "slot" : 2
+  },
   "1289" : {
     "itemId" : 1289,
     "name" : "Rune sword",
@@ -3230,6 +3286,11 @@
     "slot" : 3,
     "weaponCategory" : "SPIKED"
   },
+  "28124" : {
+    "itemId" : 28124,
+    "name" : "Colourful jumper (28124)",
+    "slot" : 4
+  },
   "27005" : {
     "itemId" : 27005,
     "name" : "Void mage helm (l)(or)",
@@ -3417,6 +3478,18 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
+  },
+  "28329" : {
+    "itemId" : 28329,
+    "name" : "Ring of shadows (uncharged)",
+    "accuracyStab" : 4,
+    "accuracySlash" : 4,
+    "accuracyCrush" : 4,
+    "accuracyMagic" : 5,
+    "accuracyRanged" : 4,
+    "strengthMelee" : 2,
+    "prayer" : 2,
+    "slot" : 12
   },
   "26442" : {
     "itemId" : 26442,
@@ -4167,6 +4240,18 @@
     "name" : "Ring of wealth (i1)",
     "slot" : 12
   },
+  "27834" : {
+    "itemId" : 27834,
+    "name" : "Statius's platebody (bh)",
+    "accuracyStab" : 2,
+    "accuracySlash" : 2,
+    "accuracyCrush" : 14,
+    "accuracyMagic" : -38,
+    "accuracyRanged" : -17,
+    "strengthMelee" : 5,
+    "prayer" : 3,
+    "slot" : 4
+  },
   "13378" : {
     "itemId" : 13378,
     "name" : "Shayzien boots (5)",
@@ -4240,6 +4325,26 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "SLASH_SWORD"
+  },
+  "28585" : {
+    "itemId" : 28585,
+    "name" : "Warped sceptre",
+    "accuracyMagic" : 12,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "POWERED_STAFF"
+  },
+  "28534" : {
+    "itemId" : 28534,
+    "name" : "Corrupted dragon claws",
+    "accuracyStab" : 33,
+    "accuracySlash" : 46,
+    "accuracyCrush" : -4,
+    "strengthMelee" : 45,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "CLAW"
   },
   "4111" : {
     "itemId" : 4111,
@@ -4864,6 +4969,20 @@
     "name" : "Ornate boots",
     "slot" : 10
   },
+  "28260" : {
+    "itemId" : 28260,
+    "name" : "Blood ancient sceptre (l)",
+    "accuracyStab" : 20,
+    "accuracySlash" : -1,
+    "accuracyCrush" : 50,
+    "accuracyMagic" : 20,
+    "strengthMelee" : 60,
+    "strengthMagic" : 5,
+    "prayer" : -1,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
+  },
   "23375" : {
     "itemId" : 23375,
     "name" : "Black platebody (h4)",
@@ -5170,7 +5289,7 @@
   "11709" : {
     "itemId" : 11709,
     "name" : "Cursed goblin staff",
-    "speed" : 5,
+    "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "STAFF"
   },
@@ -5771,6 +5890,11 @@
     "slot" : 3,
     "weaponCategory" : "THROWN"
   },
+  "28426" : {
+    "itemId" : 28426,
+    "name" : "Magic lantern",
+    "slot" : 5
+  },
   "746" : {
     "itemId" : 746,
     "name" : "Dark dagger",
@@ -5942,6 +6066,11 @@
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
+  },
+  "28142" : {
+    "itemId" : 28142,
+    "name" : "Open log basket",
+    "slot" : 1
   },
   "22398" : {
     "itemId" : 22398,
@@ -6217,6 +6346,11 @@
     "accuracyMagic" : -10,
     "accuracyRanged" : 7,
     "slot" : 5
+  },
+  "28175" : {
+    "itemId" : 28175,
+    "name" : "Forestry boots",
+    "slot" : 10
   },
   "13223" : {
     "itemId" : 13223,
@@ -6635,6 +6769,15 @@
   "27145" : {
     "itemId" : 27145,
     "name" : "Flower crown (27145)",
+    "slot" : 0
+  },
+  "28254" : {
+    "itemId" : 28254,
+    "name" : "Sanguine torva full helm",
+    "accuracyMagic" : -5,
+    "accuracyRanged" : -5,
+    "strengthMelee" : 8,
+    "prayer" : 1,
     "slot" : 0
   },
   "4937" : {
@@ -7302,6 +7445,20 @@
     "accuracyRanged" : -11,
     "slot" : 7
   },
+  "28266" : {
+    "itemId" : 28266,
+    "name" : "Shadow ancient sceptre",
+    "accuracyStab" : 20,
+    "accuracySlash" : -1,
+    "accuracyCrush" : 50,
+    "accuracyMagic" : 20,
+    "strengthMelee" : 60,
+    "strengthMagic" : 5,
+    "prayer" : -1,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
+  },
   "773" : {
     "itemId" : 773,
     "name" : "'perfect' ring",
@@ -7496,6 +7653,16 @@
     "name" : "Attack cape",
     "slot" : 1
   },
+  "28540" : {
+    "itemId" : 28540,
+    "name" : "Corrupted twisted bow",
+    "accuracyRanged" : 56,
+    "strengthRanged" : 2,
+    "speed" : 6,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BOW"
+  },
   "6861" : {
     "itemId" : 6861,
     "name" : "Tri-jester scarf",
@@ -7667,6 +7834,13 @@
     "prayer" : 2,
     "slot" : 1
   },
+  "19639" : {
+    "itemId" : 19639,
+    "name" : "Black slayer helmet",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -2,
+    "slot" : 0
+  },
   "11873" : {
     "itemId" : 11873,
     "name" : "Slayer ring (1)",
@@ -7700,8 +7874,8 @@
     "name" : "Festive nutcracker staff",
     "accuracyStab" : -100,
     "accuracySlash" : -100,
-    "accuracyCrush" : -50,
-    "strengthMelee" : -10,
+    "accuracyCrush" : -100,
+    "strengthMelee" : -100,
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BLUNT"
@@ -7713,27 +7887,6 @@
     "accuracyRanged" : -11,
     "slot" : 7
   },
-  "19639" : {
-    "itemId" : 19639,
-    "name" : "Black slayer helmet",
-    "accuracyMagic" : -6,
-    "accuracyRanged" : -2,
-    "slot" : 0
-  },
-  "25489" : {
-    "itemId" : 25489,
-    "name" : "Blood ancient sceptre",
-    "accuracyStab" : 20,
-    "accuracySlash" : -1,
-    "accuracyCrush" : 50,
-    "accuracyMagic" : 20,
-    "strengthMelee" : 60,
-    "strengthMagic" : 5,
-    "prayer" : -1,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "STAFF"
-  },
   "21136" : {
     "itemId" : 21136,
     "name" : "Ring of returning(2)",
@@ -7744,6 +7897,11 @@
     "name" : "Iron javelin(p++)",
     "strengthRanged" : 42,
     "slot" : 13
+  },
+  "28108" : {
+    "itemId" : 28108,
+    "name" : "Colourful scarf",
+    "slot" : 2
   },
   "10384" : {
     "itemId" : 10384,
@@ -8059,6 +8217,19 @@
     "name" : "Magic hood",
     "slot" : 0
   },
+  "28543" : {
+    "itemId" : 28543,
+    "name" : "Corrupted scythe of vitur",
+    "accuracyStab" : 56,
+    "accuracySlash" : 88,
+    "accuracyCrush" : 24,
+    "accuracyMagic" : -6,
+    "strengthMelee" : 60,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "SCYTHE"
+  },
   "1407" : {
     "itemId" : 1407,
     "name" : "Mystic earth staff",
@@ -8301,13 +8472,6 @@
     "name" : "Graceful top (13619)",
     "slot" : 4
   },
-  "25486" : {
-    "itemId" : 25486,
-    "name" : "Ring of true ice",
-    "accuracyMagic" : 15,
-    "strengthMagic" : 2,
-    "slot" : 12
-  },
   "12774" : {
     "itemId" : 12774,
     "name" : "Frozen abyssal whip",
@@ -8447,11 +8611,6 @@
     "name" : "Silver bolts (p++)",
     "strengthRanged" : 36,
     "slot" : 13
-  },
-  "10500" : {
-    "itemId" : 10500,
-    "name" : "Crone-made amulet",
-    "slot" : 2
   },
   "25392" : {
     "itemId" : 25392,
@@ -9078,6 +9237,14 @@
     "name" : "Red tricorn hat",
     "slot" : 0
   },
+  "27840" : {
+    "itemId" : 27840,
+    "name" : "Zuriel's robe top (bh)",
+    "accuracyMagic" : 35,
+    "accuracyRanged" : -10,
+    "strengthMagic" : 3,
+    "slot" : 4
+  },
   "9101" : {
     "itemId" : 9101,
     "name" : "Lunar cape",
@@ -9531,6 +9698,11 @@
     "accuracyRanged" : 8,
     "slot" : 7
   },
+  "28120" : {
+    "itemId" : 28120,
+    "name" : "Colourful jumper (28120)",
+    "slot" : 4
+  },
   "10551" : {
     "itemId" : 10551,
     "name" : "Fighter torso",
@@ -9877,6 +10049,17 @@
     "accuracyMagic" : 22,
     "accuracyRanged" : -7,
     "slot" : 7
+  },
+  "27845" : {
+    "itemId" : 27845,
+    "name" : "Corrupted statius's platebody (bh)",
+    "accuracyStab" : 2,
+    "accuracySlash" : 2,
+    "accuracyCrush" : 14,
+    "accuracyMagic" : -30,
+    "accuracyRanged" : -15,
+    "strengthMelee" : 4,
+    "slot" : 4
   },
   "27365" : {
     "itemId" : 27365,
@@ -10323,6 +10506,20 @@
     "accuracyMagic" : 2,
     "prayer" : 10,
     "slot" : 2
+  },
+  "28473" : {
+    "itemId" : 28473,
+    "name" : "Blood ancient sceptre (l) (28473)",
+    "accuracyStab" : 20,
+    "accuracySlash" : -1,
+    "accuracyCrush" : 50,
+    "accuracyMagic" : 20,
+    "strengthMelee" : 60,
+    "strengthMagic" : 5,
+    "prayer" : -1,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
   },
   "27697" : {
     "itemId" : 27697,
@@ -11333,8 +11530,8 @@
     "name" : "Hunting knife",
     "accuracyStab" : -100,
     "accuracySlash" : -100,
-    "accuracyCrush" : -50,
-    "strengthMelee" : -10,
+    "accuracyCrush" : -100,
+    "strengthMelee" : -100,
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BLUNT"
@@ -11649,19 +11846,10 @@
     "accuracyRanged" : 1,
     "slot" : 0
   },
-  "25490" : {
-    "itemId" : 25490,
-    "name" : "Ice ancient sceptre",
-    "accuracyStab" : 20,
-    "accuracySlash" : -1,
-    "accuracyCrush" : 50,
-    "accuracyMagic" : 20,
-    "strengthMelee" : 60,
-    "strengthMagic" : 5,
-    "prayer" : -1,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "STAFF"
+  "28118" : {
+    "itemId" : 28118,
+    "name" : "Colourful jumper",
+    "slot" : 4
   },
   "9783" : {
     "itemId" : 9783,
@@ -11776,11 +11964,6 @@
     "name" : "Void ranger helm (l)(or)",
     "slot" : 0
   },
-  "10398" : {
-    "itemId" : 10398,
-    "name" : "Sleeping cap",
-    "slot" : 0
-  },
   "12601" : {
     "itemId" : 12601,
     "name" : "Ring of the gods",
@@ -11879,6 +12062,27 @@
     "slot" : 3,
     "weaponCategory" : "THROWN"
   },
+  "10398" : {
+    "itemId" : 10398,
+    "name" : "Sleeping cap",
+    "slot" : 0
+  },
+  "27850" : {
+    "itemId" : 27850,
+    "name" : "Corrupted zuriel's hood (bh)",
+    "accuracyMagic" : 5,
+    "accuracyRanged" : -1,
+    "strengthMagic" : 1,
+    "slot" : 0
+  },
+  "27849" : {
+    "itemId" : 27849,
+    "name" : "Corrupted morrigan's leather chaps (bh)",
+    "accuracyMagic" : -8,
+    "accuracyRanged" : 23,
+    "strengthRanged" : 4,
+    "slot" : 7
+  },
   "13627" : {
     "itemId" : 13627,
     "name" : "Graceful hood (13627)",
@@ -11945,6 +12149,7 @@
     "name" : "Virtus mask",
     "accuracyMagic" : 8,
     "accuracyRanged" : -3,
+    "strengthMagic" : 1,
     "prayer" : 1,
     "slot" : 0
   },
@@ -12113,11 +12318,6 @@
     "accuracyRanged" : -11,
     "slot" : 7
   },
-  "24397" : {
-    "itemId" : 24397,
-    "name" : "Twisted hat (t2)",
-    "slot" : 0
-  },
   "22171" : {
     "itemId" : 22171,
     "name" : "Adamant heraldic helm (22171)",
@@ -12136,6 +12336,25 @@
     "itemId" : 22353,
     "name" : "Eggshell platelegs",
     "slot" : 7
+  },
+  "28262" : {
+    "itemId" : 28262,
+    "name" : "Ice ancient sceptre",
+    "accuracyStab" : 20,
+    "accuracySlash" : -1,
+    "accuracyCrush" : 50,
+    "accuracyMagic" : 20,
+    "strengthMelee" : 60,
+    "strengthMagic" : 5,
+    "prayer" : -1,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
+  },
+  "24397" : {
+    "itemId" : 24397,
+    "name" : "Twisted hat (t2)",
+    "slot" : 0
   },
   "8720" : {
     "itemId" : 8720,
@@ -12675,6 +12894,20 @@
     "accuracyRanged" : -3,
     "slot" : 0
   },
+  "28475" : {
+    "itemId" : 28475,
+    "name" : "Smoke ancient sceptre (l)",
+    "accuracyStab" : 20,
+    "accuracySlash" : -1,
+    "accuracyCrush" : 50,
+    "accuracyMagic" : 20,
+    "strengthMelee" : 60,
+    "strengthMagic" : 5,
+    "prayer" : -1,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
+  },
   "27507" : {
     "itemId" : 27507,
     "name" : "Halloween wig (27507)",
@@ -12899,6 +13132,11 @@
     "accuracyMagic" : -15,
     "slot" : 4
   },
+  "28121" : {
+    "itemId" : 28121,
+    "name" : "Colourful jumper (28121)",
+    "slot" : 4
+  },
   "25822" : {
     "itemId" : 25822,
     "name" : "Protest banner",
@@ -12913,6 +13151,17 @@
     "accuracyMagic" : 3,
     "accuracyRanged" : 3,
     "slot" : 0
+  },
+  "27831" : {
+    "itemId" : 27831,
+    "name" : "Vesta's chainbody (bh)",
+    "accuracyStab" : 14,
+    "accuracySlash" : 14,
+    "accuracyCrush" : 4,
+    "accuracyMagic" : -32,
+    "accuracyRanged" : -15,
+    "strengthMelee" : 6,
+    "slot" : 4
   },
   "6737" : {
     "itemId" : 6737,
@@ -13440,7 +13689,7 @@
   },
   "6465" : {
     "itemId" : 6465,
-    "name" : "Ring of charos (a)",
+    "name" : "Ring of charos(a)",
     "slot" : 12
   },
   "12611" : {
@@ -13573,6 +13822,7 @@
     "name" : "Virtus robe bottom",
     "accuracyMagic" : 26,
     "accuracyRanged" : -9,
+    "strengthMagic" : 1,
     "prayer" : 1,
     "slot" : 7
   },
@@ -13587,6 +13837,20 @@
     "name" : "Dragon sq shield (cr)",
     "accuracyMagic" : -6,
     "slot" : 5
+  },
+  "28474" : {
+    "itemId" : 28474,
+    "name" : "Ice ancient sceptre (l)",
+    "accuracyStab" : 20,
+    "accuracySlash" : -1,
+    "accuracyCrush" : 50,
+    "accuracyMagic" : 20,
+    "strengthMelee" : 60,
+    "strengthMagic" : 5,
+    "prayer" : -1,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
   },
   "21149" : {
     "itemId" : 21149,
@@ -14395,6 +14659,11 @@
     "prayer" : 6,
     "slot" : 7
   },
+  "28110" : {
+    "itemId" : 28110,
+    "name" : "Colourful scarf (28110)",
+    "slot" : 2
+  },
   "889" : {
     "itemId" : 889,
     "name" : "Mithril arrow(p)",
@@ -14480,6 +14749,18 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "TWO_HANDED_SWORD"
+  },
+  "27835" : {
+    "itemId" : 27835,
+    "name" : "Statius's platelegs (bh)",
+    "accuracyStab" : 1,
+    "accuracySlash" : 1,
+    "accuracyCrush" : 10,
+    "accuracyMagic" : -30,
+    "accuracyRanged" : -12,
+    "strengthMelee" : 3,
+    "prayer" : 3,
+    "slot" : 7
   },
   "23212" : {
     "itemId" : 23212,
@@ -15494,7 +15775,7 @@
   },
   "26730" : {
     "itemId" : 26730,
-    "name" : "Wristbands of the arena (icl)",
+    "name" : "Wristbands of the arena (ilc)",
     "accuracyStab" : 14,
     "accuracySlash" : 13,
     "accuracyCrush" : 15,
@@ -15507,6 +15788,13 @@
     "itemId" : 8960,
     "name" : "Green tricorn hat",
     "slot" : 0
+  },
+  "28313" : {
+    "itemId" : 28313,
+    "name" : "Magus ring",
+    "accuracyMagic" : 15,
+    "strengthMagic" : 2,
+    "slot" : 12
   },
   "6388" : {
     "itemId" : 6388,
@@ -16059,6 +16347,20 @@
     "name" : "Hosidius scarf",
     "slot" : 2
   },
+  "28264" : {
+    "itemId" : 28264,
+    "name" : "Smoke ancient sceptre",
+    "accuracyStab" : 20,
+    "accuracySlash" : -1,
+    "accuracyCrush" : 50,
+    "accuracyMagic" : 20,
+    "strengthMelee" : 60,
+    "strengthMagic" : 5,
+    "prayer" : -1,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
+  },
   "22269" : {
     "itemId" : 22269,
     "name" : "Hard leather shield",
@@ -16231,6 +16533,11 @@
     "name" : "Mithril dragon mask",
     "slot" : 0
   },
+  "22517" : {
+    "itemId" : 22517,
+    "name" : "Escape crystal",
+    "slot" : 12
+  },
   "12522" : {
     "itemId" : 12522,
     "name" : "Red dragon mask",
@@ -16247,6 +16554,18 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "BLUNT"
+  },
+  "28327" : {
+    "itemId" : 28327,
+    "name" : "Ring of shadows",
+    "accuracyStab" : 4,
+    "accuracySlash" : 4,
+    "accuracyCrush" : 4,
+    "accuracyMagic" : 5,
+    "accuracyRanged" : 4,
+    "strengthMelee" : 2,
+    "prayer" : 2,
+    "slot" : 12
   },
   "11234" : {
     "itemId" : 11234,
@@ -16495,6 +16814,14 @@
     "strengthRanged" : 115,
     "slot" : 13
   },
+  "27841" : {
+    "itemId" : 27841,
+    "name" : "Zuriel's robe bottom (bh)",
+    "accuracyMagic" : 25,
+    "accuracyRanged" : -7,
+    "strengthMagic" : 2,
+    "slot" : 7
+  },
   "11021" : {
     "itemId" : 11021,
     "name" : "Chicken head",
@@ -16524,12 +16851,6 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "BLUNT"
-  },
-  "5623" : {
-    "itemId" : 5623,
-    "name" : "Iron arrow(p++)",
-    "strengthRanged" : 10,
-    "slot" : 13
   },
   "1371" : {
     "itemId" : 1371,
@@ -16601,8 +16922,8 @@
     "name" : "Carrot sword",
     "accuracyStab" : -100,
     "accuracySlash" : -100,
-    "accuracyCrush" : -50,
-    "strengthMelee" : -10,
+    "accuracyCrush" : -100,
+    "strengthMelee" : -100,
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BLUNT"
@@ -16764,6 +17085,14 @@
     "itemId" : 13286,
     "name" : "Gravedigger boots",
     "slot" : 10
+  },
+  "27852" : {
+    "itemId" : 27852,
+    "name" : "Corrupted zuriel's robe bottom (bh)",
+    "accuracyMagic" : 18,
+    "accuracyRanged" : -6,
+    "strengthMagic" : 2,
+    "slot" : 7
   },
   "24190" : {
     "itemId" : 24190,
@@ -17109,6 +17438,20 @@
     "name" : "Black mask (10) (i) (26771)",
     "slot" : 0
   },
+  "27836" : {
+    "itemId" : 27836,
+    "name" : "Morrigan's coif (bh)",
+    "accuracyMagic" : -5,
+    "accuracyRanged" : 13,
+    "strengthRanged" : 4,
+    "slot" : 0
+  },
+  "5623" : {
+    "itemId" : 5623,
+    "name" : "Iron arrow(p++)",
+    "strengthRanged" : 10,
+    "slot" : 13
+  },
   "24828" : {
     "itemId" : 24828,
     "name" : "Vyre noble coat tails (24828)",
@@ -17181,6 +17524,11 @@
     "itemId" : 25193,
     "name" : "Granite ring (i) (25193)",
     "slot" : 12
+  },
+  "28136" : {
+    "itemId" : 28136,
+    "name" : "Forestry kit",
+    "slot" : 1
   },
   "26695" : {
     "itemId" : 26695,
@@ -17526,8 +17874,8 @@
     "name" : "Barrelchest anchor (bh)",
     "accuracyStab" : -2,
     "accuracySlash" : 10,
-    "accuracyCrush" : 92,
-    "strengthMelee" : 100,
+    "accuracyCrush" : 102,
+    "strengthMelee" : 110,
     "speed" : 6,
     "slot" : 3,
     "is2h" : true,
@@ -17740,12 +18088,6 @@
     "accuracyRanged" : -3,
     "slot" : 5
   },
-  "25485" : {
-    "itemId" : 25485,
-    "name" : "Ring of true blood",
-    "strengthMelee" : 12,
-    "slot" : 12
-  },
   "25208" : {
     "itemId" : 25208,
     "name" : "Blue cape (25208)",
@@ -17797,6 +18139,18 @@
     "name" : "Ghostly boots",
     "accuracyMagic" : 2,
     "slot" : 10
+  },
+  "28128" : {
+    "itemId" : 28128,
+    "name" : "Love crossbow",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -20,
+    "speed" : 3,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
   },
   "10400" : {
     "itemId" : 10400,
@@ -18623,6 +18977,18 @@
     "accuracyMagic" : 10,
     "slot" : 4
   },
+  "28537" : {
+    "itemId" : 28537,
+    "name" : "Corrupted armadyl godsword",
+    "accuracySlash" : 106,
+    "accuracyCrush" : 64,
+    "strengthMelee" : 106,
+    "prayer" : 7,
+    "speed" : 6,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "TWO_HANDED_SWORD"
+  },
   "1664" : {
     "itemId" : 1664,
     "name" : "Dragon necklace",
@@ -18708,8 +19074,8 @@
     "name" : "Sweet nutcracker staff",
     "accuracyStab" : -100,
     "accuracySlash" : -100,
-    "accuracyCrush" : -50,
-    "strengthMelee" : -10,
+    "accuracyCrush" : -100,
+    "strengthMelee" : -100,
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BLUNT"
@@ -18784,6 +19150,20 @@
     "itemId" : 19955,
     "name" : "Shayzien scarf",
     "slot" : 2
+  },
+  "28476" : {
+    "itemId" : 28476,
+    "name" : "Shadow ancient sceptre (l)",
+    "accuracyStab" : 20,
+    "accuracySlash" : -1,
+    "accuracyCrush" : 50,
+    "accuracyMagic" : 20,
+    "strengthMelee" : 60,
+    "strengthMagic" : 5,
+    "prayer" : -1,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
   },
   "27422" : {
     "itemId" : 27422,
@@ -19058,6 +19438,17 @@
     "accuracyMagic" : 8,
     "slot" : 5
   },
+  "27844" : {
+    "itemId" : 27844,
+    "name" : "Corrupted statius's full helm (bh)",
+    "accuracyStab" : 1,
+    "accuracySlash" : 1,
+    "accuracyCrush" : 6,
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -2,
+    "strengthMelee" : 2,
+    "slot" : 0
+  },
   "24745" : {
     "itemId" : 24745,
     "name" : "Graceful hood (24745)",
@@ -19083,6 +19474,11 @@
     "accuracyRanged" : -2,
     "prayer" : 1,
     "slot" : 5
+  },
+  "28145" : {
+    "itemId" : 28145,
+    "name" : "Open forestry basket",
+    "slot" : 1
   },
   "7372" : {
     "itemId" : 7372,
@@ -19238,13 +19634,6 @@
     "itemId" : 21183,
     "name" : "Bracelet of slaughter",
     "slot" : 9
-  },
-  "8736" : {
-    "itemId" : 8736,
-    "name" : "Rune kiteshield (8736)",
-    "accuracyMagic" : -8,
-    "accuracyRanged" : -3,
-    "slot" : 5
   },
   "6527" : {
     "itemId" : 6527,
@@ -19436,6 +19825,11 @@
     "name" : "Topaz bolts (e)",
     "strengthRanged" : 66,
     "slot" : 13
+  },
+  "28114" : {
+    "itemId" : 28114,
+    "name" : "Colourful scarf (28114)",
+    "slot" : 2
   },
   "644" : {
     "itemId" : 644,
@@ -19762,6 +20156,11 @@
     "slot" : 3,
     "weaponCategory" : "SPIKED"
   },
+  "28111" : {
+    "itemId" : 28111,
+    "name" : "Colourful scarf (28111)",
+    "slot" : 2
+  },
   "24820" : {
     "itemId" : 24820,
     "name" : "Vyre noble skirt (24820)",
@@ -19804,6 +20203,20 @@
     "accuracyMagic" : -8,
     "accuracyRanged" : 12,
     "strengthRanged" : 4,
+    "slot" : 5
+  },
+  "28316" : {
+    "itemId" : 28316,
+    "name" : "Bellator ring",
+    "accuracySlash" : 20,
+    "strengthMelee" : 6,
+    "slot" : 12
+  },
+  "8736" : {
+    "itemId" : 8736,
+    "name" : "Rune kiteshield (8736)",
+    "accuracyMagic" : -8,
+    "accuracyRanged" : -3,
     "slot" : 5
   },
   "10836" : {
@@ -20137,20 +20550,6 @@
     "name" : "Musketeer pants",
     "slot" : 7
   },
-  "25492" : {
-    "itemId" : 25492,
-    "name" : "Shadow ancient sceptre",
-    "accuracyStab" : 20,
-    "accuracySlash" : -1,
-    "accuracyCrush" : 50,
-    "accuracyMagic" : 20,
-    "strengthMelee" : 60,
-    "strengthMagic" : 5,
-    "prayer" : -1,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "STAFF"
-  },
   "10589" : {
     "itemId" : 10589,
     "name" : "Granite helm",
@@ -20185,6 +20584,11 @@
     "itemId" : 13642,
     "name" : "Farmer's jacket",
     "slot" : 4
+  },
+  "28171" : {
+    "itemId" : 28171,
+    "name" : "Forestry legs",
+    "slot" : 7
   },
   "12307" : {
     "itemId" : 12307,
@@ -20803,6 +21207,14 @@
     "accuracyRanged" : -3,
     "slot" : 0
   },
+  "27848" : {
+    "itemId" : 27848,
+    "name" : "Corrupted morrigan's leather body (bh)",
+    "accuracyMagic" : -13,
+    "accuracyRanged" : 36,
+    "strengthRanged" : 4,
+    "slot" : 4
+  },
   "6418" : {
     "itemId" : 6418,
     "name" : "Maple blackjack(o)",
@@ -21133,6 +21545,15 @@
     "prayer" : 5,
     "slot" : 10
   },
+  "28256" : {
+    "itemId" : 28256,
+    "name" : "Sanguine torva platebody",
+    "accuracyMagic" : -18,
+    "accuracyRanged" : -14,
+    "strengthMelee" : 6,
+    "prayer" : 1,
+    "slot" : 4
+  },
   "4984" : {
     "itemId" : 4984,
     "name" : "Verac's flail 50",
@@ -21229,6 +21650,16 @@
     "accuracyRanged" : 6,
     "prayer" : 2,
     "slot" : 7
+  },
+  "28547" : {
+    "itemId" : 28547,
+    "name" : "Corrupted tumeken's shadow",
+    "accuracyMagic" : 35,
+    "prayer" : 1,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "POWERED_STAFF"
   },
   "12506" : {
     "itemId" : 12506,
@@ -21709,6 +22140,10 @@
   "11707" : {
     "itemId" : 11707,
     "name" : "Cursed goblin hammer",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -100,
+    "strengthMelee" : -100,
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BLUNT"
@@ -21813,6 +22248,14 @@
     "prayer" : 3,
     "slot" : 0
   },
+  "27839" : {
+    "itemId" : 27839,
+    "name" : "Zuriel's hood (bh)",
+    "accuracyMagic" : 8,
+    "accuracyRanged" : -2,
+    "strengthMagic" : 1,
+    "slot" : 0
+  },
   "4876" : {
     "itemId" : 4876,
     "name" : "Ahrim's robeskirt 50",
@@ -21853,6 +22296,11 @@
     "accuracyMagic" : -8,
     "accuracyRanged" : -3,
     "slot" : 5
+  },
+  "28122" : {
+    "itemId" : 28122,
+    "name" : "Colourful jumper (28122)",
+    "slot" : 4
   },
   "4971" : {
     "itemId" : 4971,
@@ -22186,17 +22634,6 @@
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
   },
-  "23200" : {
-    "itemId" : 23200,
-    "name" : "Armadyl d'hide shield",
-    "accuracyStab" : -15,
-    "accuracySlash" : -15,
-    "accuracyCrush" : -11,
-    "accuracyMagic" : -10,
-    "accuracyRanged" : 7,
-    "prayer" : 1,
-    "slot" : 5
-  },
   "6404" : {
     "itemId" : 6404,
     "name" : "Menaphite red robe",
@@ -22271,12 +22708,6 @@
     "slot" : 3,
     "weaponCategory" : "STAFF"
   },
-  "25254" : {
-    "itemId" : 25254,
-    "name" : "Tyrannical ring (i) (25254)",
-    "accuracyCrush" : 8,
-    "slot" : 12
-  },
   "22808" : {
     "itemId" : 22808,
     "name" : "Dragon knife(p+)",
@@ -22328,6 +22759,24 @@
     "accuracyMagic" : -6,
     "accuracyRanged" : -3,
     "slot" : 0
+  },
+  "25254" : {
+    "itemId" : 25254,
+    "name" : "Tyrannical ring (i) (25254)",
+    "accuracyCrush" : 8,
+    "slot" : 12
+  },
+  "28338" : {
+    "itemId" : 28338,
+    "name" : "Soulreaper axe",
+    "accuracyStab" : 28,
+    "accuracySlash" : 134,
+    "accuracyCrush" : 66,
+    "strengthMelee" : 121,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
   },
   "20104" : {
     "itemId" : 20104,
@@ -22617,6 +23066,11 @@
     "name" : "Soul cape (25346)",
     "prayer" : 8,
     "slot" : 1
+  },
+  "28125" : {
+    "itemId" : 28125,
+    "name" : "Colourful jumper (28125)",
+    "slot" : 4
   },
   "26691" : {
     "itemId" : 26691,
@@ -23050,6 +23504,14 @@
     "name" : "Cream robe bottoms",
     "slot" : 7
   },
+  "28583" : {
+    "itemId" : 28583,
+    "name" : "Warped sceptre (uncharged)",
+    "accuracyMagic" : 12,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "POWERED_STAFF"
+  },
   "12484" : {
     "itemId" : 12484,
     "name" : "Bandos plateskirt",
@@ -23080,6 +23542,14 @@
     "speed" : 6,
     "slot" : 3,
     "weaponCategory" : "BLUNT"
+  },
+  "27851" : {
+    "itemId" : 27851,
+    "name" : "Corrupted zuriel's robe top (bh)",
+    "accuracyMagic" : 25,
+    "accuracyRanged" : -8,
+    "strengthMagic" : 3,
+    "slot" : 4
   },
   "2581" : {
     "itemId" : 2581,
@@ -23116,6 +23586,28 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "AXE"
+  },
+  "27832" : {
+    "itemId" : 27832,
+    "name" : "Vesta's plateskirt (bh)",
+    "accuracyStab" : 10,
+    "accuracySlash" : 10,
+    "accuracyCrush" : 3,
+    "accuracyMagic" : -30,
+    "accuracyRanged" : -12,
+    "strengthMelee" : 3,
+    "slot" : 7
+  },
+  "23200" : {
+    "itemId" : 23200,
+    "name" : "Armadyl d'hide shield",
+    "accuracyStab" : -15,
+    "accuracySlash" : -15,
+    "accuracyCrush" : -11,
+    "accuracyMagic" : -10,
+    "accuracyRanged" : 7,
+    "prayer" : 1,
+    "slot" : 5
   },
   "26735" : {
     "itemId" : 26735,
@@ -24710,6 +25202,11 @@
     "name" : "Mind shield",
     "slot" : 5
   },
+  "28140" : {
+    "itemId" : 28140,
+    "name" : "Log basket",
+    "slot" : 1
+  },
   "26694" : {
     "itemId" : 26694,
     "name" : "Elite calamity breeches (broken)",
@@ -24735,6 +25232,14 @@
     "itemId" : 13621,
     "name" : "Graceful legs (13621)",
     "slot" : 7
+  },
+  "27847" : {
+    "itemId" : 27847,
+    "name" : "Corrupted morrigan's coif (bh)",
+    "accuracyMagic" : -4,
+    "accuracyRanged" : 13,
+    "strengthRanged" : 2,
+    "slot" : 0
   },
   "26445" : {
     "itemId" : 26445,
@@ -25535,6 +26040,14 @@
     "name" : "Team-12 cape",
     "slot" : 1
   },
+  "27837" : {
+    "itemId" : 27837,
+    "name" : "Morrigan's leather body (bh)",
+    "accuracyMagic" : -15,
+    "accuracyRanged" : 36,
+    "strengthRanged" : 6,
+    "slot" : 4
+  },
   "1225" : {
     "itemId" : 1225,
     "name" : "Mithril dagger(p)",
@@ -26160,7 +26673,7 @@
   "25416" : {
     "itemId" : 25416,
     "name" : "Bloodbark legs",
-    "accuracyMagic" : 13,
+    "accuracyMagic" : 16,
     "slot" : 7
   },
   "23611" : {
@@ -26542,6 +27055,19 @@
     "strengthRanged" : 115,
     "slot" : 13
   },
+  "28545" : {
+    "itemId" : 28545,
+    "name" : "Corrupted scythe of vitur (uncharged)",
+    "accuracyStab" : 40,
+    "accuracySlash" : 60,
+    "accuracyCrush" : 8,
+    "accuracyMagic" : -6,
+    "strengthMelee" : 40,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "SCYTHE"
+  },
   "1087" : {
     "itemId" : 1087,
     "name" : "Bronze plateskirt",
@@ -26554,6 +27080,7 @@
     "name" : "Virtus robe top",
     "accuracyMagic" : 35,
     "accuracyRanged" : -11,
+    "strengthMagic" : 1,
     "prayer" : 2,
     "slot" : 4
   },
@@ -26756,6 +27283,17 @@
     "accuracyMagic" : -6,
     "accuracyRanged" : -3,
     "slot" : 0
+  },
+  "27843" : {
+    "itemId" : 27843,
+    "name" : "Corrupted vesta's plateskirt (bh)",
+    "accuracyStab" : 10,
+    "accuracySlash" : 10,
+    "accuracyCrush" : 3,
+    "accuracyMagic" : -24,
+    "accuracyRanged" : -12,
+    "strengthMelee" : 2,
+    "slot" : 7
   },
   "2613" : {
     "itemId" : 2613,
@@ -27143,18 +27681,6 @@
     "accuracyRanged" : -10,
     "slot" : 4
   },
-  "25484" : {
-    "itemId" : 25484,
-    "name" : "Soulreaper axe",
-    "accuracyStab" : 28,
-    "accuracySlash" : 134,
-    "accuracyCrush" : 66,
-    "strengthMelee" : 115,
-    "speed" : 5,
-    "slot" : 3,
-    "is2h" : true,
-    "weaponCategory" : "AXE"
-  },
   "5621" : {
     "itemId" : 5621,
     "name" : "Rune arrow(p+)",
@@ -27350,6 +27876,11 @@
     "name" : "Trousers (5040)",
     "slot" : 7
   },
+  "28173" : {
+    "itemId" : 28173,
+    "name" : "Forestry hat",
+    "slot" : 0
+  },
   "27505" : {
     "itemId" : 27505,
     "name" : "Halloween wig (27505)",
@@ -27415,11 +27946,6 @@
     "accuracyRanged" : 18,
     "prayer" : 2,
     "slot" : 7
-  },
-  "21076" : {
-    "itemId" : 21076,
-    "name" : "Graceful boots (21076)",
-    "slot" : 10
   },
   "13199" : {
     "itemId" : 13199,
@@ -27598,12 +28124,28 @@
     "name" : "Abyssal lantern (red logs)",
     "slot" : 5
   },
+  "28123" : {
+    "itemId" : 28123,
+    "name" : "Colourful jumper (28123)",
+    "slot" : 4
+  },
   "13105" : {
     "itemId" : 13105,
     "name" : "Varrock armour 2",
     "accuracyMagic" : -30,
     "accuracyRanged" : -10,
     "slot" : 4
+  },
+  "27833" : {
+    "itemId" : 27833,
+    "name" : "Statius's full helm (bh)",
+    "accuracyStab" : 1,
+    "accuracySlash" : 1,
+    "accuracyCrush" : 6,
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -2,
+    "strengthMelee" : 3,
+    "slot" : 0
   },
   "3748" : {
     "itemId" : 3748,
@@ -27965,6 +28507,11 @@
     "name" : "Castlewars hood",
     "slot" : 0
   },
+  "21070" : {
+    "itemId" : 21070,
+    "name" : "Graceful legs (21070)",
+    "slot" : 7
+  },
   "1061" : {
     "itemId" : 1061,
     "name" : "Leather boots",
@@ -27972,7 +28519,7 @@
   },
   "21205" : {
     "itemId" : 21205,
-    "name" : "Elder maul (Last Man Standing)",
+    "name" : "Elder maul (21205)",
     "accuracyCrush" : 135,
     "accuracyMagic" : -4,
     "strengthMelee" : 147,
@@ -27980,25 +28527,6 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "BLUNT"
-  },
-  "21070" : {
-    "itemId" : 21070,
-    "name" : "Graceful legs (21070)",
-    "slot" : 7
-  },
-  "25491" : {
-    "itemId" : 25491,
-    "name" : "Smoke ancient sceptre",
-    "accuracyStab" : 20,
-    "accuracySlash" : -1,
-    "accuracyCrush" : 50,
-    "accuracyMagic" : 20,
-    "strengthMelee" : 60,
-    "strengthMagic" : 5,
-    "prayer" : -1,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "STAFF"
   },
   "654" : {
     "itemId" : 654,
@@ -28342,6 +28870,16 @@
     "is2h" : true,
     "weaponCategory" : "BOW"
   },
+  "28126" : {
+    "itemId" : 28126,
+    "name" : "Poet's jacket",
+    "slot" : 4
+  },
+  "21076" : {
+    "itemId" : 21076,
+    "name" : "Graceful boots (21076)",
+    "slot" : 10
+  },
   "21892" : {
     "itemId" : 21892,
     "name" : "Dragon platebody",
@@ -28437,12 +28975,6 @@
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
-  },
-  "12639" : {
-    "itemId" : 12639,
-    "name" : "Guthix halo",
-    "prayer" : 3,
-    "slot" : 0
   },
   "4107" : {
     "itemId" : 4107,
@@ -28792,6 +29324,19 @@
     "slot" : 3,
     "weaponCategory" : "SPEAR"
   },
+  "12639" : {
+    "itemId" : 12639,
+    "name" : "Guthix halo",
+    "prayer" : 3,
+    "slot" : 0
+  },
+  "28310" : {
+    "itemId" : 28310,
+    "name" : "Venator ring",
+    "accuracyRanged" : 10,
+    "strengthRanged" : 2,
+    "slot" : 12
+  },
   "11128" : {
     "itemId" : 11128,
     "name" : "Berserker necklace",
@@ -28866,6 +29411,11 @@
     "accuracyMagic" : -8,
     "accuracyRanged" : -3,
     "slot" : 5
+  },
+  "28169" : {
+    "itemId" : 28169,
+    "name" : "Forestry top",
+    "slot" : 4
   },
   "24395" : {
     "itemId" : 24395,
@@ -29356,6 +29906,18 @@
     "slot" : 3,
     "weaponCategory" : "STAFF"
   },
+  "28531" : {
+    "itemId" : 28531,
+    "name" : "Corrupted voidwaker",
+    "accuracyStab" : 56,
+    "accuracySlash" : 64,
+    "accuracyCrush" : -2,
+    "accuracyMagic" : 4,
+    "strengthMelee" : 64,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SLASH_SWORD"
+  },
   "24015" : {
     "itemId" : 24015,
     "name" : "Elven top (24015)",
@@ -29837,6 +30399,11 @@
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
+  },
+  "28115" : {
+    "itemId" : 28115,
+    "name" : "Colourful scarf (28115)",
+    "slot" : 2
   },
   "13643" : {
     "itemId" : 13643,
@@ -31253,6 +31820,11 @@
     "accuracyMagic" : -6,
     "accuracyRanged" : -3,
     "slot" : 0
+  },
+  "28112" : {
+    "itemId" : 28112,
+    "name" : "Colourful scarf (28112)",
+    "slot" : 2
   },
   "9070" : {
     "itemId" : 9070,
