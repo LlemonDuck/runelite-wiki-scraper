@@ -23760,19 +23760,23 @@
   "12465" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
+        "ATTACK" : 130,
+        "DEFENCE" : 120,
+        "STRENGTH" : 170,
+        "HITPOINTS" : 440,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 90
       }
     },
-    "defensiveBonuses" : { },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 50,
+      "defenseRanged" : 60
+    },
     "attributes" : {
       "npcId" : 12465,
       "name" : "Mutated Tortoise",
-      "size" : 1
+      "size" : 4
     }
   },
   "3028" : {
