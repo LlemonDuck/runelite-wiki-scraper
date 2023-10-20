@@ -610,6 +610,7 @@
     "attributes" : {
       "npcId" : 11727,
       "name" : "Agile Scarab",
+      "isKalphite" : true,
       "size" : 1,
       "accuracyMagic" : 150
     }
@@ -2245,30 +2246,6 @@
       "size" : 1
     }
   },
-  "8" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 97,
-        "DEFENCE" : 105,
-        "STRENGTH" : 97,
-        "HITPOINTS" : 105,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 20,
-      "defenseSlash" : 20,
-      "defenseCrush" : 20,
-      "defenseRanged" : 20
-    },
-    "attributes" : {
-      "npcId" : 8,
-      "name" : "Nechryael",
-      "isDemon" : true,
-      "size" : 1
-    }
-  },
   "1852" : {
     "skills" : {
       "levels" : {
@@ -2512,6 +2489,52 @@
       "npcId" : 2946,
       "name" : "Nail beast",
       "size" : 2
+    }
+  },
+  "8" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 97,
+        "DEFENCE" : 105,
+        "STRENGTH" : 97,
+        "HITPOINTS" : 105,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 20,
+      "defenseSlash" : 20,
+      "defenseCrush" : 20,
+      "defenseRanged" : 20
+    },
+    "attributes" : {
+      "npcId" : 8,
+      "name" : "Nechryael",
+      "isDemon" : true,
+      "size" : 1
+    }
+  },
+  "11976" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 10,
+        "DEFENCE" : 4,
+        "STRENGTH" : 10,
+        "HITPOINTS" : 25,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 5,
+      "defenseSlash" : 6,
+      "defenseCrush" : 8
+    },
+    "attributes" : {
+      "npcId" : 11976,
+      "name" : "Alomone",
+      "size" : 1
     }
   },
   "4695" : {
@@ -3303,6 +3326,24 @@
       "size" : 1
     }
   },
+  "3183" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 175,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 115,
+        "RANGED" : 143,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 3183,
+      "name" : "Aviansie (Lvl 131)",
+      "size" : 2
+    }
+  },
   "1610" : {
     "skills" : {
       "levels" : {
@@ -3632,48 +3673,6 @@
     "attributes" : {
       "npcId" : 2625,
       "name" : "Galina",
-      "size" : 1
-    }
-  },
-  "3183" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 175,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 115,
-        "RANGED" : 143,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 3183,
-      "name" : "Aviansie (Lvl 131)",
-      "size" : 2
-    }
-  },
-  "11094" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 19,
-        "DEFENCE" : 14,
-        "STRENGTH" : 18,
-        "HITPOINTS" : 22,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 24,
-      "defenseSlash" : 14,
-      "defenseCrush" : 19,
-      "defenseRanged" : 16,
-      "defenseMagic" : 4
-    },
-    "attributes" : {
-      "npcId" : 11094,
-      "name" : "Guard (Lvl 21) (0)",
       "size" : 1
     }
   },
@@ -7046,6 +7045,24 @@
       "npcId" : 2453,
       "name" : "Animated Black Armour",
       "size" : 1
+    }
+  },
+  "4382" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 1,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 1,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 4382,
+      "name" : "Ogre shaman",
+      "size" : 2
     }
   },
   "7692" : {
@@ -11544,6 +11561,7 @@
     "attributes" : {
       "npcId" : 11724,
       "name" : "Soldier Scarab",
+      "isKalphite" : true,
       "size" : 3,
       "accuracyMagic" : 250
     }
@@ -14150,6 +14168,7 @@
     "attributes" : {
       "npcId" : 801,
       "name" : "Locust rider",
+      "isKalphite" : true,
       "size" : 2
     }
   },
@@ -17999,28 +18018,6 @@
       "size" : 1
     }
   },
-  "12092" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 10,
-        "DEFENCE" : 4,
-        "STRENGTH" : 10,
-        "HITPOINTS" : 25,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 5,
-      "defenseSlash" : 6,
-      "defenseCrush" : 8
-    },
-    "attributes" : {
-      "npcId" : 12092,
-      "name" : "Alomone",
-      "size" : 1
-    }
-  },
   "6457" : {
     "skills" : {
       "levels" : {
@@ -18382,6 +18379,30 @@
     "attributes" : {
       "npcId" : 3185,
       "name" : "Dagannoth (Lvl 90)",
+      "size" : 1
+    }
+  },
+  "11092" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 19,
+        "DEFENCE" : 14,
+        "STRENGTH" : 18,
+        "HITPOINTS" : 22,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 24,
+      "defenseSlash" : 14,
+      "defenseCrush" : 19,
+      "defenseRanged" : 16,
+      "defenseMagic" : 4
+    },
+    "attributes" : {
+      "npcId" : 11092,
+      "name" : "Guard (Lvl 21) (0)",
       "size" : 1
     }
   },
@@ -20020,6 +20041,7 @@
     "attributes" : {
       "npcId" : 11725,
       "name" : "Spitting Scarab",
+      "isKalphite" : true,
       "size" : 3,
       "accuracyMagic" : 250
     }
@@ -23688,6 +23710,7 @@
     "attributes" : {
       "npcId" : 795,
       "name" : "Locust rider (Lvl 106)",
+      "isKalphite" : true,
       "size" : 2
     }
   },
@@ -23760,19 +23783,23 @@
   "12465" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
+        "ATTACK" : 130,
+        "DEFENCE" : 120,
+        "STRENGTH" : 170,
+        "HITPOINTS" : 440,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 90
       }
     },
-    "defensiveBonuses" : { },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 50,
+      "defenseRanged" : 60
+    },
     "attributes" : {
       "npcId" : 12465,
       "name" : "Mutated Tortoise",
-      "size" : 1
+      "size" : 4
     }
   },
   "3028" : {
@@ -30000,6 +30027,7 @@
     "attributes" : {
       "npcId" : 1127,
       "name" : "Giant Scarab (hard)",
+      "isKalphite" : true,
       "size" : 3
     }
   },
@@ -30445,6 +30473,7 @@
     "attributes" : {
       "npcId" : 11726,
       "name" : "Arcane Scarab",
+      "isKalphite" : true,
       "size" : 3,
       "accuracyMagic" : 250
     }
@@ -32587,6 +32616,7 @@
     "attributes" : {
       "npcId" : 800,
       "name" : "Locust rider (Lvl 68)",
+      "isKalphite" : true,
       "size" : 2
     }
   },
@@ -32910,6 +32940,7 @@
     "attributes" : {
       "npcId" : 797,
       "name" : "Giant Scarab",
+      "isKalphite" : true,
       "size" : 3
     }
   },
@@ -33751,6 +33782,7 @@
     "attributes" : {
       "npcId" : 796,
       "name" : "Locust rider (Lvl 98)",
+      "isKalphite" : true,
       "size" : 2
     }
   },
@@ -33951,6 +33983,25 @@
     "attributes" : {
       "npcId" : 7312,
       "name" : "Double agent (Lvl 141)",
+      "size" : 1
+    }
+  },
+  "3707" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 55,
+        "DEFENCE" : 60,
+        "STRENGTH" : 30,
+        "HITPOINTS" : 80,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 3707,
+      "name" : "Feral Vampyre (Lvl 64)",
+      "isVampyre1" : true,
       "size" : 1
     }
   },
@@ -34467,43 +34518,6 @@
       "npcId" : 4343,
       "name" : "Sir Palomedes",
       "size" : 1
-    }
-  },
-  "3707" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 55,
-        "DEFENCE" : 60,
-        "STRENGTH" : 30,
-        "HITPOINTS" : 80,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 3707,
-      "name" : "Feral Vampyre (Lvl 64)",
-      "isVampyre1" : true,
-      "size" : 1
-    }
-  },
-  "4383" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 1,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 1,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 4383,
-      "name" : "Ogre shaman",
-      "size" : 2
     }
   },
   "1676" : {

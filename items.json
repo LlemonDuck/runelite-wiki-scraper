@@ -1202,6 +1202,18 @@
     "accuracyRanged" : -5,
     "slot" : 10
   },
+  "28214" : {
+    "itemId" : 28214,
+    "name" : "Rune 2h axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 26,
+    "accuracyCrush" : 24,
+    "strengthMelee" : 29,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
   "21282" : {
     "itemId" : 21282,
     "name" : "Infernal max hood",
@@ -2596,6 +2608,18 @@
     "accuracyMagic" : 5,
     "slot" : 9
   },
+  "28211" : {
+    "itemId" : 28211,
+    "name" : "Adamant 2h axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 17,
+    "accuracyCrush" : 15,
+    "strengthMelee" : 19,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
   "2651" : {
     "itemId" : 2651,
     "name" : "Pirate's hat",
@@ -2964,7 +2988,7 @@
     "name" : "Crystal bow (attuned)",
     "accuracyRanged" : 118,
     "strengthRanged" : 88,
-    "prayer" : 1,
+    "prayer" : 2,
     "speed" : 5,
     "slot" : 3,
     "is2h" : true,
@@ -3511,6 +3535,13 @@
     "accuracyRanged" : 5,
     "strengthMelee" : 5,
     "slot" : 9
+  },
+  "1235" : {
+    "itemId" : 1235,
+    "name" : "Poisoned dagger(p)",
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
   },
   "20047" : {
     "itemId" : 20047,
@@ -5760,6 +5791,18 @@
     "name" : "Pink boater",
     "slot" : 0
   },
+  "28217" : {
+    "itemId" : 28217,
+    "name" : "Dragon 2h axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 38,
+    "accuracyCrush" : 32,
+    "strengthMelee" : 42,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
   "5574" : {
     "itemId" : 5574,
     "name" : "Initiate sallet",
@@ -7797,6 +7840,18 @@
     "accuracyRanged" : -3,
     "slot" : 0
   },
+  "28205" : {
+    "itemId" : 28205,
+    "name" : "Black 2h axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 10,
+    "accuracyCrush" : 8,
+    "strengthMelee" : 12,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
   "12235" : {
     "itemId" : 12235,
     "name" : "Iron platebody (g)",
@@ -8957,6 +9012,11 @@
     "name" : "White beret",
     "slot" : 0
   },
+  "28601" : {
+    "itemId" : 28601,
+    "name" : "Cobweb cape",
+    "slot" : 1
+  },
   "26324" : {
     "itemId" : 26324,
     "name" : "Secret santa present (gold)",
@@ -9769,6 +9829,18 @@
     "slot" : 3,
     "weaponCategory" : "CROSSBOW"
   },
+  "28223" : {
+    "itemId" : 28223,
+    "name" : "Crystal 2h axe (28223)",
+    "accuracyStab" : -2,
+    "accuracySlash" : 38,
+    "accuracyCrush" : 32,
+    "strengthMelee" : 42,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
   "1153" : {
     "itemId" : 1153,
     "name" : "Iron full helm",
@@ -9972,6 +10044,13 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BANNER"
+  },
+  "5702" : {
+    "itemId" : 5702,
+    "name" : "Poison dagger(p++)",
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
   },
   "3331" : {
     "itemId" : 3331,
@@ -11053,6 +11132,11 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BLUNT"
+  },
+  "28605" : {
+    "itemId" : 28605,
+    "name" : "Spider hat (28605)",
+    "slot" : 0
   },
   "7671" : {
     "itemId" : 7671,
@@ -13534,6 +13618,16 @@
     "name" : "Yellow cape",
     "slot" : 1
   },
+  "7804" : {
+    "itemId" : 7804,
+    "name" : "Ancient mjolnir",
+    "accuracyCrush" : 11,
+    "strengthMelee" : 14,
+    "speed" : 6,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "POLESTAFF"
+  },
   "10055" : {
     "itemId" : 10055,
     "name" : "Wood camo legs",
@@ -14083,6 +14177,18 @@
     "itemId" : 20044,
     "name" : "Samurai greaves",
     "slot" : 7
+  },
+  "28226" : {
+    "itemId" : 28226,
+    "name" : "3rd age 2h axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 38,
+    "accuracyCrush" : 32,
+    "strengthMelee" : 42,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
   },
   "12323" : {
     "itemId" : 12323,
@@ -17116,7 +17222,7 @@
     "name" : "Corrupted bow (attuned)",
     "accuracyRanged" : 118,
     "strengthRanged" : 88,
-    "prayer" : 1,
+    "prayer" : 2,
     "speed" : 5,
     "slot" : 3,
     "is2h" : true,
@@ -20838,6 +20944,18 @@
     "name" : "Khazard armour",
     "slot" : 4
   },
+  "28220" : {
+    "itemId" : 28220,
+    "name" : "Crystal 2h axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 38,
+    "accuracyCrush" : 32,
+    "strengthMelee" : 42,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
   "27111" : {
     "itemId" : 27111,
     "name" : "Rune gloves (wrapped)",
@@ -22396,11 +22514,6 @@
     "prayer" : 1,
     "slot" : 7
   },
-  "25716" : {
-    "itemId" : 25716,
-    "name" : "Clan cloak (25716)",
-    "slot" : 1
-  },
   "6231" : {
     "itemId" : 6231,
     "name" : "Broodoo shield (2)",
@@ -22424,6 +22537,23 @@
     "accuracyRanged" : 7,
     "prayer" : 1,
     "slot" : 5
+  },
+  "28202" : {
+    "itemId" : 28202,
+    "name" : "Steel 2h axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 8,
+    "accuracyCrush" : 6,
+    "strengthMelee" : 9,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
+  "25716" : {
+    "itemId" : 25716,
+    "name" : "Clan cloak (25716)",
+    "slot" : 1
   },
   "24003" : {
     "itemId" : 24003,
@@ -23626,6 +23756,18 @@
     "accuracyRanged" : -1,
     "slot" : 0
   },
+  "28208" : {
+    "itemId" : 28208,
+    "name" : "Mithril 2h axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 12,
+    "accuracyCrush" : 10,
+    "strengthMelee" : 13,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
   "4026" : {
     "itemId" : 4026,
     "name" : "Gorilla greegree",
@@ -24044,6 +24186,11 @@
   "25592" : {
     "itemId" : 25592,
     "name" : "Spirit angler headband",
+    "slot" : 0
+  },
+  "28611" : {
+    "itemId" : 28611,
+    "name" : "Spider hat (28611)",
     "slot" : 0
   },
   "25059" : {
@@ -24693,6 +24840,18 @@
     "accuracyRanged" : -2,
     "strengthMelee" : 3,
     "slot" : 0
+  },
+  "28199" : {
+    "itemId" : 28199,
+    "name" : "Iron 2h axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 5,
+    "accuracyCrush" : 3,
+    "strengthMelee" : 7,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
   },
   "23842" : {
     "itemId" : 23842,
@@ -26841,6 +27000,13 @@
     "accuracyRanged" : -5,
     "slot" : 0
   },
+  "5684" : {
+    "itemId" : 5684,
+    "name" : "Poison dagger(p+)",
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
+  },
   "11222" : {
     "itemId" : 11222,
     "name" : "Dragon fire arrow (lit)",
@@ -27965,6 +28131,11 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "SPEAR"
+  },
+  "28607" : {
+    "itemId" : 28607,
+    "name" : "Spider hat (28607)",
+    "slot" : 0
   },
   "13222" : {
     "itemId" : 13222,
@@ -29782,6 +29953,11 @@
     "name" : "Team-7 cape",
     "slot" : 1
   },
+  "28609" : {
+    "itemId" : 28609,
+    "name" : "Spider hat (28609)",
+    "slot" : 0
+  },
   "20710" : {
     "itemId" : 20710,
     "name" : "Pyromancer boots",
@@ -30113,6 +30289,11 @@
     "strengthMelee" : 6,
     "slot" : 9
   },
+  "28603" : {
+    "itemId" : 28603,
+    "name" : "Spider hat",
+    "slot" : 0
+  },
   "9341" : {
     "itemId" : 9341,
     "name" : "Dragonstone bolts",
@@ -30135,6 +30316,18 @@
     "itemId" : 12349,
     "name" : "Gold elegant legs",
     "slot" : 7
+  },
+  "28196" : {
+    "itemId" : 28196,
+    "name" : "Bronze 2h axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 4,
+    "accuracyCrush" : 2,
+    "strengthMelee" : 5,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
   },
   "6111" : {
     "itemId" : 6111,
