@@ -1,4 +1,23 @@
 {
+  "12542" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12542,
+      "name" : "Screaming twisted banshee",
+      "isUndead" : true,
+      "size" : 3
+    }
+  },
   "12262" : {
     "skills" : {
       "levels" : {
@@ -610,6 +629,7 @@
     "attributes" : {
       "npcId" : 11727,
       "name" : "Agile Scarab",
+      "isKalphite" : true,
       "size" : 1,
       "accuracyMagic" : 150
     }
@@ -1263,27 +1283,6 @@
       "npcId" : 2097,
       "name" : "Cyclops",
       "size" : 2
-    }
-  },
-  "6065" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 10,
-        "DEFENCE" : 10,
-        "STRENGTH" : 10,
-        "HITPOINTS" : 30,
-        "RANGED" : 20,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseRanged" : 12,
-      "defenseMagic" : 6
-    },
-    "attributes" : {
-      "npcId" : 6065,
-      "name" : "Tower Archer",
-      "size" : 1
     }
   },
   "1677" : {
@@ -2096,6 +2095,46 @@
       "size" : 1
     }
   },
+  "6065" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 10,
+        "DEFENCE" : 10,
+        "STRENGTH" : 10,
+        "HITPOINTS" : 30,
+        "RANGED" : 20,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseRanged" : 12,
+      "defenseMagic" : 6
+    },
+    "attributes" : {
+      "npcId" : 6065,
+      "name" : "Tower Archer",
+      "size" : 1
+    }
+  },
+  "12568" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 285,
+        "DEFENCE" : 85,
+        "STRENGTH" : 217,
+        "HITPOINTS" : 435,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12568,
+      "name" : "Bloodthirsty Bloodveld",
+      "isDemon" : true,
+      "size" : 3
+    }
+  },
   "5335" : {
     "skills" : {
       "levels" : {
@@ -2242,30 +2281,6 @@
     "attributes" : {
       "npcId" : 12366,
       "name" : "Abyssal leech",
-      "size" : 1
-    }
-  },
-  "8" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 97,
-        "DEFENCE" : 105,
-        "STRENGTH" : 97,
-        "HITPOINTS" : 105,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 20,
-      "defenseSlash" : 20,
-      "defenseCrush" : 20,
-      "defenseRanged" : 20
-    },
-    "attributes" : {
-      "npcId" : 8,
-      "name" : "Nechryael",
-      "isDemon" : true,
       "size" : 1
     }
   },
@@ -2512,6 +2527,52 @@
       "npcId" : 2946,
       "name" : "Nail beast",
       "size" : 2
+    }
+  },
+  "8" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 97,
+        "DEFENCE" : 105,
+        "STRENGTH" : 97,
+        "HITPOINTS" : 105,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 20,
+      "defenseSlash" : 20,
+      "defenseCrush" : 20,
+      "defenseRanged" : 20
+    },
+    "attributes" : {
+      "npcId" : 8,
+      "name" : "Nechryael",
+      "isDemon" : true,
+      "size" : 1
+    }
+  },
+  "11976" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 10,
+        "DEFENCE" : 4,
+        "STRENGTH" : 10,
+        "HITPOINTS" : 25,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 5,
+      "defenseSlash" : 6,
+      "defenseCrush" : 8
+    },
+    "attributes" : {
+      "npcId" : 11976,
+      "name" : "Alomone",
+      "size" : 1
     }
   },
   "4695" : {
@@ -3303,6 +3364,24 @@
       "size" : 1
     }
   },
+  "3183" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 175,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 115,
+        "RANGED" : 143,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 3183,
+      "name" : "Aviansie (Lvl 131)",
+      "size" : 2
+    }
+  },
   "1610" : {
     "skills" : {
       "levels" : {
@@ -3632,48 +3711,6 @@
     "attributes" : {
       "npcId" : 2625,
       "name" : "Galina",
-      "size" : 1
-    }
-  },
-  "3183" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 175,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 115,
-        "RANGED" : 143,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 3183,
-      "name" : "Aviansie (Lvl 131)",
-      "size" : 2
-    }
-  },
-  "11094" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 19,
-        "DEFENCE" : 14,
-        "STRENGTH" : 18,
-        "HITPOINTS" : 22,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 24,
-      "defenseSlash" : 14,
-      "defenseCrush" : 19,
-      "defenseRanged" : 16,
-      "defenseMagic" : 4
-    },
-    "attributes" : {
-      "npcId" : 11094,
-      "name" : "Guard (Lvl 21) (0)",
       "size" : 1
     }
   },
@@ -4352,6 +4389,25 @@
       "npcId" : 4758,
       "name" : "Poltenip",
       "size" : 1
+    }
+  },
+  "12564" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12564,
+      "name" : "Bloodthirsty Infernal pyrelord",
+      "isDemon" : true,
+      "size" : 2
     }
   },
   "135" : {
@@ -5594,6 +5650,25 @@
       "size" : 1
     }
   },
+  "12586" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12586,
+      "name" : "Bloodthirsty Drake",
+      "isDragon" : true,
+      "size" : 5
+    }
+  },
   "469" : {
     "skills" : {
       "levels" : {
@@ -6456,6 +6531,24 @@
       "size" : 1
     }
   },
+  "12575" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12575,
+      "name" : "Bloodthirsty choke devil",
+      "size" : 2
+    }
+  },
   "2646" : {
     "skills" : {
       "levels" : {
@@ -7046,6 +7139,24 @@
       "npcId" : 2453,
       "name" : "Animated Black Armour",
       "size" : 1
+    }
+  },
+  "4382" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 1,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 1,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 4382,
+      "name" : "Ogre shaman",
+      "size" : 2
     }
   },
   "7692" : {
@@ -9306,6 +9417,30 @@
       "size" : 1
     }
   },
+  "2455" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 99,
+        "DEFENCE" : 99,
+        "STRENGTH" : 99,
+        "HITPOINTS" : 99,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 25,
+      "defenseCrush" : 19,
+      "defenseRanged" : 400,
+      "defenseMagic" : 400
+    },
+    "attributes" : {
+      "npcId" : 2455,
+      "name" : "Animated Adamant Armour",
+      "size" : 1
+    }
+  },
   "303" : {
     "skills" : {
       "levels" : {
@@ -9404,24 +9539,6 @@
       "name" : "Greater demon (Lvl 100)",
       "isDemon" : true,
       "size" : 3
-    }
-  },
-  "4501" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 70,
-        "DEFENCE" : 40,
-        "STRENGTH" : 79,
-        "HITPOINTS" : 50,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 4501,
-      "name" : "Brine rat",
-      "size" : 1
     }
   },
   "2267" : {
@@ -9556,56 +9673,6 @@
       "npcId" : 6320,
       "name" : "Me (hard)",
       "size" : 1
-    }
-  },
-  "2455" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 99,
-        "DEFENCE" : 99,
-        "STRENGTH" : 99,
-        "HITPOINTS" : 99,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 50,
-      "defenseSlash" : 25,
-      "defenseCrush" : 19,
-      "defenseRanged" : 400,
-      "defenseMagic" : 400
-    },
-    "attributes" : {
-      "npcId" : 2455,
-      "name" : "Animated Adamant Armour",
-      "size" : 1
-    }
-  },
-  "12166" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 300,
-        "DEFENCE" : 275,
-        "STRENGTH" : 345,
-        "HITPOINTS" : 440,
-        "RANGED" : 0,
-        "MAGIC" : 310
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 255,
-      "defenseSlash" : 65,
-      "defenseCrush" : 190,
-      "defenseRanged" : 320,
-      "defenseMagic" : 440
-    },
-    "attributes" : {
-      "npcId" : 12166,
-      "name" : "Duke Sucellus",
-      "isDemon" : true,
-      "size" : 7,
-      "accuracyMagic" : 150
     }
   },
   "134" : {
@@ -9816,6 +9883,43 @@
       "npcId" : 12446,
       "name" : "K'ril Tsutsaroth",
       "size" : 5
+    }
+  },
+  "12573" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12573,
+      "name" : "Bloodthirsty spectre",
+      "isUndead" : true,
+      "size" : 3
+    }
+  },
+  "4501" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 70,
+        "DEFENCE" : 40,
+        "STRENGTH" : 79,
+        "HITPOINTS" : 50,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 4501,
+      "name" : "Brine rat",
+      "size" : 1
     }
   },
   "3135" : {
@@ -10464,29 +10568,6 @@
       "size" : 1
     }
   },
-  "6451" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 42,
-        "DEFENCE" : 42,
-        "STRENGTH" : 39,
-        "HITPOINTS" : 42,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 20,
-      "defenseSlash" : 20,
-      "defenseRanged" : 10
-    },
-    "attributes" : {
-      "npcId" : 6451,
-      "name" : "Zombie (Lvl 47)",
-      "isUndead" : true,
-      "size" : 1
-    }
-  },
   "2845" : {
     "skills" : {
       "levels" : {
@@ -10927,29 +11008,26 @@
       "accuracyMagic" : 20
     }
   },
-  "12204" : {
+  "12565" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 280,
-        "DEFENCE" : 250,
-        "STRENGTH" : 280,
-        "HITPOINTS" : 900,
-        "RANGED" : 180,
-        "MAGIC" : 180
+        "ATTACK" : 132,
+        "DEFENCE" : 130,
+        "STRENGTH" : 147,
+        "HITPOINTS" : 255,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 180,
-      "defenseSlash" : 300,
-      "defenseCrush" : 220,
-      "defenseRanged" : 300,
-      "defenseMagic" : 10
+      "defenseStab" : 35,
+      "defenseSlash" : 35,
+      "defenseMagic" : 35
     },
     "attributes" : {
-      "npcId" : 12204,
-      "name" : "The Whisperer",
-      "size" : 3,
-      "accuracyMagic" : 190
+      "npcId" : 12565,
+      "name" : "Bloodthirsty basilisk",
+      "size" : 3
     }
   },
   "3678" : {
@@ -11146,6 +11224,48 @@
       "name" : "Verzik Vitur EM (P1/Throne)",
       "size" : 5,
       "accuracyMagic" : 32
+    }
+  },
+  "6451" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 42,
+        "DEFENCE" : 42,
+        "STRENGTH" : 39,
+        "HITPOINTS" : 42,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 20,
+      "defenseSlash" : 20,
+      "defenseRanged" : 10
+    },
+    "attributes" : {
+      "npcId" : 6451,
+      "name" : "Zombie (Lvl 47)",
+      "isUndead" : true,
+      "size" : 1
+    }
+  },
+  "12540" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12540,
+      "name" : "Bloodthirsty banshee",
+      "isUndead" : true,
+      "size" : 3
     }
   },
   "1674" : {
@@ -11544,6 +11664,7 @@
     "attributes" : {
       "npcId" : 11724,
       "name" : "Soldier Scarab",
+      "isKalphite" : true,
       "size" : 3,
       "accuracyMagic" : 250
     }
@@ -11786,6 +11907,25 @@
       "npcId" : 4635,
       "name" : "Mercenary Captain",
       "size" : 1
+    }
+  },
+  "10623" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1125,
+        "DEFENCE" : 720,
+        "STRENGTH" : 1530,
+        "HITPOINTS" : 525,
+        "RANGED" : 1530,
+        "MAGIC" : 765
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 10623,
+      "name" : "Unbound JalTok-Jad",
+      "size" : 5,
+      "accuracyMagic" : 100
     }
   },
   "973" : {
@@ -12939,24 +13079,6 @@
       "size" : 1
     }
   },
-  "3477" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 50,
-        "RANGED" : 0,
-        "MAGIC" : 0
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 3477,
-      "name" : "A Doubt",
-      "size" : 1
-    }
-  },
   "12490" : {
     "skills" : {
       "levels" : {
@@ -13607,6 +13729,43 @@
       "size" : 3
     }
   },
+  "3477" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 50,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 3477,
+      "name" : "A Doubt",
+      "size" : 1
+    }
+  },
+  "12569" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 375,
+        "DEFENCE" : 130,
+        "STRENGTH" : 285,
+        "HITPOINTS" : 615,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12569,
+      "name" : "Bloodthirsty mutated Bloodveld",
+      "isDemon" : true,
+      "size" : 3
+    }
+  },
   "3851" : {
     "skills" : {
       "levels" : {
@@ -14150,6 +14309,7 @@
     "attributes" : {
       "npcId" : 801,
       "name" : "Locust rider",
+      "isKalphite" : true,
       "size" : 2
     }
   },
@@ -14453,6 +14613,24 @@
       "npcId" : 8994,
       "name" : "Othainian",
       "isDemon" : true,
+      "size" : 3
+    }
+  },
+  "12562" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12562,
+      "name" : "Bloodthirsty Cockathrice",
       "size" : 3
     }
   },
@@ -14910,6 +15088,25 @@
       "size" : 2
     }
   },
+  "12574" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12574,
+      "name" : "Bloodthirsty Repugnant spectre",
+      "isUndead" : true,
+      "size" : 3
+    }
+  },
   "2645" : {
     "skills" : {
       "levels" : {
@@ -14988,6 +15185,24 @@
       "npcId" : 10768,
       "name" : "Xarpus EM",
       "size" : 5
+    }
+  },
+  "1609" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 85,
+        "DEFENCE" : 105,
+        "STRENGTH" : 98,
+        "HITPOINTS" : 107,
+        "RANGED" : 1,
+        "MAGIC" : 80
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 1609,
+      "name" : "Kolodion",
+      "size" : 3
     }
   },
   "2650" : {
@@ -15506,49 +15721,6 @@
       "size" : 3
     }
   },
-  "12214" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 300,
-        "DEFENCE" : 250,
-        "STRENGTH" : 360,
-        "HITPOINTS" : 900,
-        "RANGED" : 160,
-        "MAGIC" : 160
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 260,
-      "defenseSlash" : 190,
-      "defenseCrush" : 230,
-      "defenseRanged" : 50,
-      "defenseMagic" : 280
-    },
-    "attributes" : {
-      "npcId" : 12214,
-      "name" : "The Leviathan",
-      "size" : 7,
-      "accuracyMagic" : 160
-    }
-  },
-  "1609" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 85,
-        "DEFENCE" : 105,
-        "STRENGTH" : 98,
-        "HITPOINTS" : 107,
-        "RANGED" : 1,
-        "MAGIC" : 80
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 1609,
-      "name" : "Kolodion",
-      "size" : 3
-    }
-  },
   "4692" : {
     "skills" : {
       "levels" : {
@@ -15583,6 +15755,31 @@
       "npcId" : 7804,
       "name" : "Tar Monster",
       "size" : 2
+    }
+  },
+  "12205" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 280,
+        "DEFENCE" : 250,
+        "STRENGTH" : 280,
+        "HITPOINTS" : 900,
+        "RANGED" : 180,
+        "MAGIC" : 180
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 180,
+      "defenseSlash" : 300,
+      "defenseCrush" : 220,
+      "defenseRanged" : 300,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 12205,
+      "name" : "The Whisperer",
+      "size" : 3,
+      "accuracyMagic" : 190
     }
   },
   "10821" : {
@@ -15788,6 +15985,24 @@
     "attributes" : {
       "npcId" : 419,
       "name" : "Cockatrice",
+      "size" : 2
+    }
+  },
+  "12572" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12572,
+      "name" : "Bloodthirsty abomination",
       "size" : 2
     }
   },
@@ -16538,6 +16753,24 @@
       "npcId" : 4184,
       "name" : "Crocodile",
       "size" : 2
+    }
+  },
+  "12578" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12578,
+      "name" : "Bloodthirsty gargoyle",
+      "size" : 3
     }
   },
   "3016" : {
@@ -17999,28 +18232,6 @@
       "size" : 1
     }
   },
-  "12092" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 10,
-        "DEFENCE" : 4,
-        "STRENGTH" : 10,
-        "HITPOINTS" : 25,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 5,
-      "defenseSlash" : 6,
-      "defenseCrush" : 8
-    },
-    "attributes" : {
-      "npcId" : 12092,
-      "name" : "Alomone",
-      "size" : 1
-    }
-  },
   "6457" : {
     "skills" : {
       "levels" : {
@@ -18065,25 +18276,6 @@
     "attributes" : {
       "npcId" : 2840,
       "name" : "Earth warrior",
-      "size" : 1
-    }
-  },
-  "5689" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 12,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 5689,
-      "name" : "Undead Lumberjack (Lvl 55)",
-      "isUndead" : true,
       "size" : 1
     }
   },
@@ -18382,6 +18574,30 @@
     "attributes" : {
       "npcId" : 3185,
       "name" : "Dagannoth (Lvl 90)",
+      "size" : 1
+    }
+  },
+  "11092" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 19,
+        "DEFENCE" : 14,
+        "STRENGTH" : 18,
+        "HITPOINTS" : 22,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 24,
+      "defenseSlash" : 14,
+      "defenseCrush" : 19,
+      "defenseRanged" : 16,
+      "defenseMagic" : 4
+    },
+    "attributes" : {
+      "npcId" : 11092,
+      "name" : "Guard (Lvl 21) (0)",
       "size" : 1
     }
   },
@@ -18684,6 +18900,43 @@
       "name" : "Abhorrent spectre",
       "isUndead" : true,
       "size" : 3
+    }
+  },
+  "12580" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12580,
+      "name" : "Bloodthirsty Night beast",
+      "size" : 4
+    }
+  },
+  "5689" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 12,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 5689,
+      "name" : "Undead Lumberjack (Lvl 55)",
+      "isUndead" : true,
+      "size" : 1
     }
   },
   "7936" : {
@@ -20020,6 +20273,7 @@
     "attributes" : {
       "npcId" : 11725,
       "name" : "Spitting Scarab",
+      "isKalphite" : true,
       "size" : 3,
       "accuracyMagic" : 250
     }
@@ -20232,30 +20486,6 @@
       "name" : "Corrupted Dragon",
       "size" : 4,
       "accuracyMagic" : 146
-    }
-  },
-  "12223" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 280,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 700,
-        "RANGED" : 0,
-        "MAGIC" : 215
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 215,
-      "defenseSlash" : 65,
-      "defenseCrush" : 85,
-      "defenseRanged" : 580,
-      "defenseMagic" : 580
-    },
-    "attributes" : {
-      "npcId" : 12223,
-      "name" : "Vardorvis",
-      "size" : 2
     }
   },
   "12076" : {
@@ -20538,6 +20768,32 @@
       "name" : "Lava dragon",
       "isDragon" : true,
       "size" : 4
+    }
+  },
+  "12167" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 300,
+        "DEFENCE" : 275,
+        "STRENGTH" : 345,
+        "HITPOINTS" : 440,
+        "RANGED" : 0,
+        "MAGIC" : 310
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 255,
+      "defenseSlash" : 65,
+      "defenseCrush" : 190,
+      "defenseRanged" : 320,
+      "defenseMagic" : 440
+    },
+    "attributes" : {
+      "npcId" : 12167,
+      "name" : "Duke Sucellus",
+      "isDemon" : true,
+      "size" : 7,
+      "accuracyMagic" : 150
     }
   },
   "7797" : {
@@ -20847,6 +21103,30 @@
       "size" : 1
     }
   },
+  "12581" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 450,
+        "DEFENCE" : 240,
+        "STRENGTH" : 390,
+        "HITPOINTS" : 600,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 50,
+      "defenseCrush" : 50,
+      "defenseRanged" : 50
+    },
+    "attributes" : {
+      "npcId" : 12581,
+      "name" : "Bloodthirsty abyssal demon",
+      "isDemon" : true,
+      "size" : 1
+    }
+  },
   "4362" : {
     "skills" : {
       "levels" : {
@@ -20867,6 +21147,30 @@
       "npcId" : 4362,
       "name" : "Ogre chieftain",
       "size" : 2
+    }
+  },
+  "140" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 114,
+        "DEFENCE" : 98,
+        "STRENGTH" : 117,
+        "HITPOINTS" : 142,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 50,
+      "defenseCrush" : 50,
+      "defenseRanged" : 50,
+      "defenseMagic" : 50
+    },
+    "attributes" : {
+      "npcId" : 140,
+      "name" : "Dagannoth (Lvl 135)",
+      "size" : 3
     }
   },
   "12451" : {
@@ -20893,27 +21197,21 @@
       "size" : 3
     }
   },
-  "140" : {
+  "12539" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 114,
-        "DEFENCE" : 98,
-        "STRENGTH" : 117,
-        "HITPOINTS" : 142,
-        "RANGED" : 1,
-        "MAGIC" : 1
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
       }
     },
-    "defensiveBonuses" : {
-      "defenseStab" : 50,
-      "defenseSlash" : 50,
-      "defenseCrush" : 50,
-      "defenseRanged" : 50,
-      "defenseMagic" : 50
-    },
+    "defensiveBonuses" : { },
     "attributes" : {
-      "npcId" : 140,
-      "name" : "Dagannoth (Lvl 135)",
+      "npcId" : 12539,
+      "name" : "Bloodthirsty Crawler",
       "size" : 3
     }
   },
@@ -21730,7 +22028,7 @@
     },
     "attributes" : {
       "npcId" : 7391,
-      "name" : "Screaming twisted banshee",
+      "name" : "Screaming twisted banshee (Lvl 144)",
       "isUndead" : true,
       "size" : 3
     }
@@ -22026,6 +22324,24 @@
       "npcId" : 872,
       "name" : "Skogre",
       "isUndead" : true,
+      "size" : 2
+    }
+  },
+  "12570" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12570,
+      "name" : "Bloodthirsty Jelly",
       "size" : 2
     }
   },
@@ -23688,6 +24004,7 @@
     "attributes" : {
       "npcId" : 795,
       "name" : "Locust rider (Lvl 106)",
+      "isKalphite" : true,
       "size" : 2
     }
   },
@@ -23760,19 +24077,23 @@
   "12465" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
+        "ATTACK" : 130,
+        "DEFENCE" : 120,
+        "STRENGTH" : 170,
+        "HITPOINTS" : 440,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 90
       }
     },
-    "defensiveBonuses" : { },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 50,
+      "defenseRanged" : 60
+    },
     "attributes" : {
       "npcId" : 12465,
       "name" : "Mutated Tortoise",
-      "size" : 1
+      "size" : 4
     }
   },
   "3028" : {
@@ -24395,7 +24716,7 @@
     },
     "attributes" : {
       "npcId" : 12224,
-      "name" : "Vardorvis (Lvl 572)",
+      "name" : "Vardorvis",
       "size" : 2
     }
   },
@@ -25371,6 +25692,25 @@
       "size" : 2
     }
   },
+  "12584" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12584,
+      "name" : "Bloodthirsty Shadow Wyrm",
+      "isDragon" : true,
+      "size" : 5
+    }
+  },
   "3139" : {
     "skills" : {
       "levels" : {
@@ -25392,24 +25732,6 @@
       "npcId" : 3139,
       "name" : "Pyrefiend (Lvl 48)",
       "isDemon" : true,
-      "size" : 1
-    }
-  },
-  "7418" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 85,
-        "DEFENCE" : 90,
-        "STRENGTH" : 70,
-        "HITPOINTS" : 45,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 7418,
-      "name" : "Zamorak warrior (Lvl 84)",
       "size" : 1
     }
   },
@@ -25512,6 +25834,24 @@
       "npcId" : 7234,
       "name" : "Ent (Lvl 86)",
       "size" : 2
+    }
+  },
+  "12566" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12566,
+      "name" : "Basilisk Sentinel (Lvl 537)",
+      "size" : 3
     }
   },
   "600" : {
@@ -25999,6 +26339,24 @@
       "size" : 1
     }
   },
+  "12577" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12577,
+      "name" : "Bloodthirsty smoke devil",
+      "size" : 2
+    }
+  },
   "2648" : {
     "skills" : {
       "levels" : {
@@ -26418,6 +26776,42 @@
       "npcId" : 7708,
       "name" : "Jal-MejJak",
       "size" : 1
+    }
+  },
+  "7418" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 85,
+        "DEFENCE" : 90,
+        "STRENGTH" : 70,
+        "HITPOINTS" : 45,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 7418,
+      "name" : "Zamorak warrior (Lvl 84)",
+      "size" : 1
+    }
+  },
+  "12561" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12561,
+      "name" : "Bloodthirst rockslug",
+      "size" : 3
     }
   },
   "2621" : {
@@ -26897,6 +27291,25 @@
       "name" : "Nylocas Prinkipas (Mage)",
       "size" : 3,
       "accuracyMagic" : 300
+    }
+  },
+  "12588" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12588,
+      "name" : "Bloodthirsty Hydra",
+      "isDragon" : true,
+      "size" : 5
     }
   },
   "7257" : {
@@ -29618,31 +30031,6 @@
       "size" : 1
     }
   },
-  "10832" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 180,
-        "DEFENCE" : 10,
-        "STRENGTH" : 150,
-        "HITPOINTS" : 1200,
-        "RANGED" : 180,
-        "MAGIC" : 180
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 10,
-      "defenseSlash" : 10,
-      "defenseCrush" : 10,
-      "defenseRanged" : 10,
-      "defenseMagic" : 10
-    },
-    "attributes" : {
-      "npcId" : 10832,
-      "name" : "Verzik Vitur EM (P2/Vampyre) (Lvl 425)",
-      "size" : 5,
-      "accuracyMagic" : 32
-    }
-  },
   "7423" : {
     "skills" : {
       "levels" : {
@@ -29708,27 +30096,6 @@
       "name" : "K'ril Tsutsaroth (Lvl 650)",
       "isDemon" : true,
       "size" : 5
-    }
-  },
-  "4210" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 90,
-        "DEFENCE" : 40,
-        "STRENGTH" : 90,
-        "HITPOINTS" : 90,
-        "RANGED" : 1,
-        "MAGIC" : 60
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 90,
-      "defenseCrush" : 90
-    },
-    "attributes" : {
-      "npcId" : 4210,
-      "name" : "Possessed Priest",
-      "size" : 1
     }
   },
   "1225" : {
@@ -30000,6 +30367,7 @@
     "attributes" : {
       "npcId" : 1127,
       "name" : "Giant Scarab (hard)",
+      "isKalphite" : true,
       "size" : 3
     }
   },
@@ -30025,6 +30393,24 @@
       "npcId" : 2266,
       "name" : "Dagannoth Prime (Lvl 303)",
       "size" : 3
+    }
+  },
+  "12567" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12567,
+      "name" : "Bloodthirsty Mage",
+      "size" : 2
     }
   },
   "6716" : {
@@ -30160,6 +30546,50 @@
       "npcId" : 9181,
       "name" : "Dire Wolf (Lvl 72)",
       "size" : 2
+    }
+  },
+  "10832" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 180,
+        "DEFENCE" : 10,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 1200,
+        "RANGED" : 180,
+        "MAGIC" : 180
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 10,
+      "defenseSlash" : 10,
+      "defenseCrush" : 10,
+      "defenseRanged" : 10,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 10832,
+      "name" : "Verzik Vitur EM (P2/Vampyre) (Lvl 425)",
+      "size" : 5,
+      "accuracyMagic" : 32
+    }
+  },
+  "12538" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12538,
+      "name" : "Bloodthirsty hand",
+      "isUndead" : true,
+      "size" : 3
     }
   },
   "1366" : {
@@ -30445,6 +30875,7 @@
     "attributes" : {
       "npcId" : 11726,
       "name" : "Arcane Scarab",
+      "isKalphite" : true,
       "size" : 3,
       "accuracyMagic" : 250
     }
@@ -30506,6 +30937,51 @@
       "npcId" : 3169,
       "name" : "Aviansie (Lvl 69)",
       "size" : 2
+    }
+  },
+  "12426" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 280,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 700,
+        "RANGED" : 0,
+        "MAGIC" : 215
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 215,
+      "defenseSlash" : 65,
+      "defenseCrush" : 85,
+      "defenseRanged" : 580,
+      "defenseMagic" : 580
+    },
+    "attributes" : {
+      "npcId" : 12426,
+      "name" : "Vardorvis (Lvl 784)",
+      "size" : 2
+    }
+  },
+  "4210" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 90,
+        "DEFENCE" : 40,
+        "STRENGTH" : 90,
+        "HITPOINTS" : 90,
+        "RANGED" : 1,
+        "MAGIC" : 60
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 90,
+      "defenseCrush" : 90
+    },
+    "attributes" : {
+      "npcId" : 4210,
+      "name" : "Possessed Priest",
+      "size" : 1
     }
   },
   "272" : {
@@ -31191,6 +31667,24 @@
       "size" : 1
     }
   },
+  "12571" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 200,
+        "DEFENCE" : 250,
+        "STRENGTH" : 180,
+        "HITPOINTS" : 220,
+        "RANGED" : 1,
+        "MAGIC" : 180
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12571,
+      "name" : "Bloodthirsty warped Jelly",
+      "size" : 3
+    }
+  },
   "911" : {
     "skills" : {
       "levels" : {
@@ -31575,6 +32069,25 @@
     "attributes" : {
       "npcId" : 6339,
       "name" : "Nazastarool (hard) (Lvl 181)",
+      "size" : 2
+    }
+  },
+  "12563" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12563,
+      "name" : "Bloodthirsty pyrelord",
+      "isDemon" : true,
       "size" : 2
     }
   },
@@ -32351,7 +32864,7 @@
     },
     "attributes" : {
       "npcId" : 12215,
-      "name" : "The Leviathan (Lvl 593)",
+      "name" : "The Leviathan",
       "size" : 7,
       "accuracyMagic" : 130
     }
@@ -32587,6 +33100,7 @@
     "attributes" : {
       "npcId" : 800,
       "name" : "Locust rider (Lvl 68)",
+      "isKalphite" : true,
       "size" : 2
     }
   },
@@ -32910,6 +33424,7 @@
     "attributes" : {
       "npcId" : 797,
       "name" : "Giant Scarab",
+      "isKalphite" : true,
       "size" : 3
     }
   },
@@ -33751,6 +34266,7 @@
     "attributes" : {
       "npcId" : 796,
       "name" : "Locust rider (Lvl 98)",
+      "isKalphite" : true,
       "size" : 2
     }
   },
@@ -33951,6 +34467,25 @@
     "attributes" : {
       "npcId" : 7312,
       "name" : "Double agent (Lvl 141)",
+      "size" : 1
+    }
+  },
+  "3707" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 55,
+        "DEFENCE" : 60,
+        "STRENGTH" : 30,
+        "HITPOINTS" : 80,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 3707,
+      "name" : "Feral Vampyre (Lvl 64)",
+      "isVampyre1" : true,
       "size" : 1
     }
   },
@@ -34467,43 +35002,6 @@
       "npcId" : 4343,
       "name" : "Sir Palomedes",
       "size" : 1
-    }
-  },
-  "3707" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 55,
-        "DEFENCE" : 60,
-        "STRENGTH" : 30,
-        "HITPOINTS" : 80,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 3707,
-      "name" : "Feral Vampyre (Lvl 64)",
-      "isVampyre1" : true,
-      "size" : 1
-    }
-  },
-  "4383" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 1,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 1,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 4383,
-      "name" : "Ogre shaman",
-      "size" : 2
     }
   },
   "1676" : {
@@ -35047,32 +35545,6 @@
       "npcId" : 12248,
       "name" : "Shadow Keeper",
       "size" : 2
-    }
-  },
-  "7933" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 50,
-        "DEFENCE" : 41,
-        "STRENGTH" : 50,
-        "HITPOINTS" : 72,
-        "RANGED" : 60,
-        "MAGIC" : 55
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 65,
-      "defenseSlash" : 60,
-      "defenseCrush" : 68,
-      "defenseRanged" : 50,
-      "defenseMagic" : 30
-    },
-    "attributes" : {
-      "npcId" : 7933,
-      "name" : "Revenant hobgoblin",
-      "isUndead" : true,
-      "size" : 1,
-      "accuracyMagic" : 5
     }
   },
   "9044" : {
@@ -35751,6 +36223,54 @@
       "npcId" : 1140,
       "name" : "Woman (Lvl 12)",
       "size" : 1
+    }
+  },
+  "7933" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 50,
+        "DEFENCE" : 41,
+        "STRENGTH" : 50,
+        "HITPOINTS" : 72,
+        "RANGED" : 60,
+        "MAGIC" : 55
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 65,
+      "defenseSlash" : 60,
+      "defenseCrush" : 68,
+      "defenseRanged" : 50,
+      "defenseMagic" : 30
+    },
+    "attributes" : {
+      "npcId" : 7933,
+      "name" : "Revenant hobgoblin",
+      "isUndead" : true,
+      "size" : 1,
+      "accuracyMagic" : 5
+    }
+  },
+  "12576" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 285,
+        "DEFENCE" : 250,
+        "STRENGTH" : 480,
+        "HITPOINTS" : 405,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseSlash" : 50,
+      "defenseCrush" : 5
+    },
+    "attributes" : {
+      "npcId" : 12576,
+      "name" : "Bloodthirsty kurask",
+      "isLeafy" : true,
+      "size" : 5
     }
   },
   "1075" : {
