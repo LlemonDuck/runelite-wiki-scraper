@@ -88,6 +88,17 @@
     "prayer" : 4,
     "slot" : 1
   },
+  "25112" : {
+    "itemId" : 25112,
+    "name" : "Trailblazer pickaxe",
+    "accuracyStab" : 38,
+    "accuracySlash" : -2,
+    "accuracyCrush" : 32,
+    "strengthMelee" : 42,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "PICKAXE"
+  },
   "27461" : {
     "itemId" : 27461,
     "name" : "Graceful boots (27461)",
@@ -605,12 +616,6 @@
     "name" : "Air tiara",
     "slot" : 0
   },
-  "21926" : {
-    "itemId" : 21926,
-    "name" : "Dragon bolts (p+)",
-    "strengthRanged" : 122,
-    "slot" : 13
-  },
   "11217" : {
     "itemId" : 11217,
     "name" : "Dragon fire arrow",
@@ -622,6 +627,17 @@
     "name" : "Damaged book (12609)",
     "prayer" : 5,
     "slot" : 5
+  },
+  "28788" : {
+    "itemId" : 28788,
+    "name" : "Snowglobe helmet",
+    "slot" : 0
+  },
+  "21926" : {
+    "itemId" : 21926,
+    "name" : "Dragon bolts (p+)",
+    "strengthRanged" : 122,
+    "slot" : 13
   },
   "25472" : {
     "itemId" : 25472,
@@ -849,12 +865,6 @@
     "is2h" : true,
     "weaponCategory" : "BLUNT"
   },
-  "25440" : {
-    "itemId" : 25440,
-    "name" : "Zealot's boots",
-    "prayer" : 1,
-    "slot" : 10
-  },
   "10406" : {
     "itemId" : 10406,
     "name" : "Red elegant legs",
@@ -870,6 +880,17 @@
     "itemId" : 28116,
     "name" : "Rainbow jumper",
     "slot" : 4
+  },
+  "28712" : {
+    "itemId" : 28712,
+    "name" : "Trailblazer reloaded headband (t1)",
+    "slot" : 0
+  },
+  "25440" : {
+    "itemId" : 25440,
+    "name" : "Zealot's boots",
+    "prayer" : 1,
+    "slot" : 10
   },
   "12508" : {
     "itemId" : 12508,
@@ -1202,6 +1223,18 @@
     "accuracyRanged" : -5,
     "slot" : 10
   },
+  "28214" : {
+    "itemId" : 28214,
+    "name" : "Rune felling axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 26,
+    "accuracyCrush" : 24,
+    "strengthMelee" : 29,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
   "21282" : {
     "itemId" : 21282,
     "name" : "Infernal max hood",
@@ -1256,6 +1289,20 @@
     "is2h" : true,
     "weaponCategory" : "SPEAR"
   },
+  "4908" : {
+    "itemId" : 4908,
+    "name" : "Guthan's helm 0",
+    "slot" : 0
+  },
+  "28687" : {
+    "itemId" : 28687,
+    "name" : "Blazing blowpipe (empty)",
+    "accuracyRanged" : 30,
+    "speed" : 3,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "THROWN"
+  },
   "24141" : {
     "itemId" : 24141,
     "name" : "Adamant defender (l)",
@@ -1266,11 +1313,6 @@
     "accuracyRanged" : -2,
     "strengthMelee" : 4,
     "slot" : 5
-  },
-  "4908" : {
-    "itemId" : 4908,
-    "name" : "Guthan's helm 0",
-    "slot" : 0
   },
   "28067" : {
     "itemId" : 28067,
@@ -1576,6 +1618,11 @@
     "name" : "Saradomin max hood",
     "slot" : 0
   },
+  "28671" : {
+    "itemId" : 28671,
+    "name" : "Web cloak",
+    "slot" : 1
+  },
   "1193" : {
     "itemId" : 1193,
     "name" : "Steel kiteshield",
@@ -1825,14 +1872,6 @@
     "itemId" : 3857,
     "name" : "Games necklace(6)",
     "slot" : 2
-  },
-  "6416" : {
-    "itemId" : 6416,
-    "name" : "Maple blackjack",
-    "strengthMelee" : 20,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "BLUNT"
   },
   "26945" : {
     "itemId" : 26945,
@@ -2299,6 +2338,26 @@
     "name" : "Shirt (5034)",
     "slot" : 4
   },
+  "28755" : {
+    "itemId" : 28755,
+    "name" : "Trailblazer reloaded adamant trophy",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
+  },
+  "6416" : {
+    "itemId" : 6416,
+    "name" : "Maple blackjack",
+    "strengthMelee" : 20,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "BLUNT"
+  },
   "6379" : {
     "itemId" : 6379,
     "name" : "Villager armband (6379)",
@@ -2596,6 +2655,18 @@
     "accuracyMagic" : 5,
     "slot" : 9
   },
+  "28211" : {
+    "itemId" : 28211,
+    "name" : "Adamant felling axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 17,
+    "accuracyCrush" : 15,
+    "strengthMelee" : 19,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
   "2651" : {
     "itemId" : 2651,
     "name" : "Pirate's hat",
@@ -2787,6 +2858,11 @@
     "name" : "Digsite pendant (1)",
     "slot" : 2
   },
+  "28630" : {
+    "itemId" : 28630,
+    "name" : "Twitcher's gloves",
+    "slot" : 9
+  },
   "6787" : {
     "itemId" : 6787,
     "name" : "Robe of elidinis",
@@ -2964,7 +3040,7 @@
     "name" : "Crystal bow (attuned)",
     "accuracyRanged" : 118,
     "strengthRanged" : 88,
-    "prayer" : 1,
+    "prayer" : 2,
     "speed" : 5,
     "slot" : 3,
     "is2h" : true,
@@ -3357,6 +3433,11 @@
     "name" : "Victor's cape (10)",
     "slot" : 1
   },
+  "28727" : {
+    "itemId" : 28727,
+    "name" : "Trailblazer reloaded top (t2)",
+    "slot" : 4
+  },
   "9237" : {
     "itemId" : 9237,
     "name" : "Jade bolts (e)",
@@ -3511,6 +3592,13 @@
     "accuracyRanged" : 5,
     "strengthMelee" : 5,
     "slot" : 9
+  },
+  "1235" : {
+    "itemId" : 1235,
+    "name" : "Poisoned dagger(p)",
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
   },
   "20047" : {
     "itemId" : 20047,
@@ -5293,11 +5381,6 @@
     "slot" : 3,
     "weaponCategory" : "STAFF"
   },
-  "7136" : {
-    "itemId" : 7136,
-    "name" : "Pirate bandana (7136)",
-    "slot" : 0
-  },
   "4940" : {
     "itemId" : 4940,
     "name" : "Karil's leathertop 100",
@@ -5328,6 +5411,17 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "SLASH_SWORD"
+  },
+  "7136" : {
+    "itemId" : 7136,
+    "name" : "Pirate bandana (7136)",
+    "slot" : 0
+  },
+  "28775" : {
+    "itemId" : 28775,
+    "name" : "Ruinous powers",
+    "prayer" : -1,
+    "slot" : 5
   },
   "8993" : {
     "itemId" : 8993,
@@ -5760,6 +5854,18 @@
     "name" : "Pink boater",
     "slot" : 0
   },
+  "28217" : {
+    "itemId" : 28217,
+    "name" : "Dragon felling axe",
+    "accuracyStab" : -3,
+    "accuracySlash" : 60,
+    "accuracyCrush" : 51,
+    "strengthMelee" : 67,
+    "speed" : 7,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
   "5574" : {
     "itemId" : 5574,
     "name" : "Initiate sallet",
@@ -5805,6 +5911,11 @@
     "itemId" : 13600,
     "name" : "Graceful gloves (13600)",
     "slot" : 9
+  },
+  "28745" : {
+    "itemId" : 28745,
+    "name" : "Trailblazer reloaded boots (t3)",
+    "slot" : 10
   },
   "7399" : {
     "itemId" : 7399,
@@ -5906,17 +6017,29 @@
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
   },
+  "751" : {
+    "itemId" : 751,
+    "name" : "Gnomeball",
+    "slot" : 3,
+    "weaponCategory" : "UNARMED"
+  },
   "9294" : {
     "itemId" : 9294,
     "name" : "Iron bolts (p+)",
     "strengthRanged" : 46,
     "slot" : 13
   },
-  "751" : {
-    "itemId" : 751,
-    "name" : "Gnomeball",
+  "28753" : {
+    "itemId" : 28753,
+    "name" : "Trailblazer reloaded rune trophy",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
+    "speed" : 4,
     "slot" : 3,
-    "weaponCategory" : "UNARMED"
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
   },
   "24213" : {
     "itemId" : 24213,
@@ -7258,6 +7381,11 @@
     "name" : "Twisted trousers (t2)",
     "slot" : 7
   },
+  "28771" : {
+    "itemId" : 28771,
+    "name" : "Sage's greaves",
+    "slot" : 10
+  },
   "9096" : {
     "itemId" : 9096,
     "name" : "Lunar helm",
@@ -7399,6 +7527,11 @@
     "accuracyRanged" : 7,
     "prayer" : 1,
     "slot" : 10
+  },
+  "28620" : {
+    "itemId" : 28620,
+    "name" : "Pheasant hat",
+    "slot" : 0
   },
   "10085" : {
     "itemId" : 10085,
@@ -7796,6 +7929,18 @@
     "accuracyMagic" : -6,
     "accuracyRanged" : -3,
     "slot" : 0
+  },
+  "28205" : {
+    "itemId" : 28205,
+    "name" : "Black felling axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 10,
+    "accuracyCrush" : 8,
+    "strengthMelee" : 12,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
   },
   "12235" : {
     "itemId" : 12235,
@@ -8493,6 +8638,11 @@
     "strengthMagic" : 2,
     "slot" : 1
   },
+  "28724" : {
+    "itemId" : 28724,
+    "name" : "Trailblazer reloaded headband (t2)",
+    "slot" : 0
+  },
   "24222" : {
     "itemId" : 24222,
     "name" : "Ava's assembler (l)",
@@ -8956,6 +9106,18 @@
     "itemId" : 2637,
     "name" : "White beret",
     "slot" : 0
+  },
+  "28672" : {
+    "itemId" : 28672,
+    "name" : "Fancier boots",
+    "accuracyMagic" : -3,
+    "accuracyRanged" : -1,
+    "slot" : 10
+  },
+  "28601" : {
+    "itemId" : 28601,
+    "name" : "Cobweb cape",
+    "slot" : 1
   },
   "26324" : {
     "itemId" : 26324,
@@ -9769,6 +9931,18 @@
     "slot" : 3,
     "weaponCategory" : "CROSSBOW"
   },
+  "28223" : {
+    "itemId" : 28223,
+    "name" : "Crystal felling axe (inactive)",
+    "accuracyStab" : -3,
+    "accuracySlash" : 60,
+    "accuracyCrush" : 51,
+    "strengthMelee" : 67,
+    "speed" : 7,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
   "1153" : {
     "itemId" : 1153,
     "name" : "Iron full helm",
@@ -9972,6 +10146,13 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BANNER"
+  },
+  "5702" : {
+    "itemId" : 5702,
+    "name" : "Poison dagger(p++)",
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
   },
   "3331" : {
     "itemId" : 3331,
@@ -10775,6 +10956,11 @@
     "name" : "Pirate hat",
     "slot" : 0
   },
+  "28616" : {
+    "itemId" : 28616,
+    "name" : "Pheasant cape",
+    "slot" : 1
+  },
   "35" : {
     "itemId" : 35,
     "name" : "Excalibur",
@@ -11053,6 +11239,11 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BLUNT"
+  },
+  "28605" : {
+    "itemId" : 28605,
+    "name" : "Spider hat (28605)",
+    "slot" : 0
   },
   "7671" : {
     "itemId" : 7671,
@@ -11501,6 +11692,16 @@
     "strengthMelee" : 8,
     "prayer" : 1,
     "slot" : 0
+  },
+  "28688" : {
+    "itemId" : 28688,
+    "name" : "Blazing blowpipe",
+    "accuracyRanged" : 30,
+    "strengthRanged" : 20,
+    "speed" : 3,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "THROWN"
   },
   "832" : {
     "itemId" : 832,
@@ -13057,6 +13258,17 @@
     "name" : "Snow imp costume head",
     "slot" : 0
   },
+  "25110" : {
+    "itemId" : 25110,
+    "name" : "Trailblazer axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 38,
+    "accuracyCrush" : 32,
+    "strengthMelee" : 42,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "AXE"
+  },
   "12387" : {
     "itemId" : 12387,
     "name" : "Black d'hide chaps (t)",
@@ -13374,6 +13586,11 @@
     "prayer" : 1,
     "slot" : 7
   },
+  "28742" : {
+    "itemId" : 28742,
+    "name" : "Trailblazer reloaded trousers (t3)",
+    "slot" : 7
+  },
   "11373" : {
     "itemId" : 11373,
     "name" : "Mithril hasta",
@@ -13533,6 +13750,16 @@
     "itemId" : 1023,
     "name" : "Yellow cape",
     "slot" : 1
+  },
+  "7804" : {
+    "itemId" : 7804,
+    "name" : "Ancient mjolnir",
+    "accuracyCrush" : 11,
+    "strengthMelee" : 14,
+    "speed" : 6,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "POLESTAFF"
   },
   "10055" : {
     "itemId" : 10055,
@@ -14084,6 +14311,18 @@
     "name" : "Samurai greaves",
     "slot" : 7
   },
+  "28226" : {
+    "itemId" : 28226,
+    "name" : "3rd age felling axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 38,
+    "accuracyCrush" : 32,
+    "strengthMelee" : 42,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
   "12323" : {
     "itemId" : 12323,
     "name" : "Red cavalier",
@@ -14292,13 +14531,6 @@
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
   },
-  "4894" : {
-    "itemId" : 4894,
-    "name" : "Dharok's platebody 50",
-    "accuracyMagic" : -30,
-    "accuracyRanged" : -10,
-    "slot" : 4
-  },
   "24751" : {
     "itemId" : 24751,
     "name" : "Graceful top (24751)",
@@ -14332,6 +14564,20 @@
     "speed" : 6,
     "slot" : 3,
     "weaponCategory" : "BLUNT"
+  },
+  "28702" : {
+    "itemId" : 28702,
+    "name" : "Trailblazer reloaded banner",
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "BANNER"
+  },
+  "4894" : {
+    "itemId" : 4894,
+    "name" : "Dharok's platebody 50",
+    "accuracyMagic" : -30,
+    "accuracyRanged" : -10,
+    "slot" : 4
   },
   "22002" : {
     "itemId" : 22002,
@@ -14597,6 +14843,18 @@
     "name" : "Void melee helm",
     "slot" : 0
   },
+  "28763" : {
+    "itemId" : 28763,
+    "name" : "Trailblazer reloaded bronze trophy",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
+  },
   "26469" : {
     "itemId" : 26469,
     "name" : "Elite void top (or)",
@@ -14669,6 +14927,11 @@
     "name" : "Mithril arrow(p)",
     "strengthRanged" : 22,
     "slot" : 13
+  },
+  "28739" : {
+    "itemId" : 28739,
+    "name" : "Trailblazer reloaded top (t3)",
+    "slot" : 4
   },
   "13334" : {
     "itemId" : 13334,
@@ -15657,6 +15920,16 @@
     "itemId" : 1835,
     "name" : "Desert robe",
     "slot" : 7
+  },
+  "25114" : {
+    "itemId" : 25114,
+    "name" : "Trailblazer harpoon",
+    "accuracyStab" : 38,
+    "accuracySlash" : 32,
+    "strengthMelee" : 42,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "UNARMED"
   },
   "11228" : {
     "itemId" : 11228,
@@ -17116,7 +17389,7 @@
     "name" : "Corrupted bow (attuned)",
     "accuracyRanged" : 118,
     "strengthRanged" : 88,
-    "prayer" : 1,
+    "prayer" : 2,
     "speed" : 5,
     "slot" : 3,
     "is2h" : true,
@@ -17438,6 +17711,11 @@
     "name" : "Black mask (10) (i) (26771)",
     "slot" : 0
   },
+  "28736" : {
+    "itemId" : 28736,
+    "name" : "Trailblazer reloaded headband (t3)",
+    "slot" : 0
+  },
   "27836" : {
     "itemId" : 27836,
     "name" : "Morrigan's coif (bh)",
@@ -17591,6 +17869,18 @@
     "accuracyMagic" : 15,
     "strengthMagic" : 2,
     "slot" : 1
+  },
+  "28757" : {
+    "itemId" : 28757,
+    "name" : "Trailblazer reloaded mithril trophy",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
   },
   "12607" : {
     "itemId" : 12607,
@@ -18709,6 +18999,13 @@
     "prayer" : 10,
     "slot" : 2
   },
+  "26551" : {
+    "itemId" : 26551,
+    "name" : "Arcane grimoire",
+    "accuracyMagic" : 6,
+    "prayer" : 3,
+    "slot" : 5
+  },
   "3855" : {
     "itemId" : 3855,
     "name" : "Games necklace(7)",
@@ -19722,6 +20019,11 @@
     "accuracyRanged" : 8,
     "slot" : 12
   },
+  "28718" : {
+    "itemId" : 28718,
+    "name" : "Trailblazer reloaded trousers (t1)",
+    "slot" : 7
+  },
   "9676" : {
     "itemId" : 9676,
     "name" : "Proselyte cuisse",
@@ -20051,6 +20353,13 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "SALAMANDER"
+  },
+  "28773" : {
+    "itemId" : 28773,
+    "name" : "Sage's axe",
+    "speed" : 3,
+    "slot" : 3,
+    "weaponCategory" : "THROWN"
   },
   "3757" : {
     "itemId" : 3757,
@@ -20580,6 +20889,18 @@
     "name" : "Green gingerbread shield",
     "slot" : 5
   },
+  "28751" : {
+    "itemId" : 28751,
+    "name" : "Trailblazer reloaded dragon trophy",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
+  },
   "13642" : {
     "itemId" : 13642,
     "name" : "Farmer's jacket",
@@ -20837,6 +21158,18 @@
     "itemId" : 75,
     "name" : "Khazard armour",
     "slot" : 4
+  },
+  "28220" : {
+    "itemId" : 28220,
+    "name" : "Crystal felling axe",
+    "accuracyStab" : -3,
+    "accuracySlash" : 60,
+    "accuracyCrush" : 51,
+    "strengthMelee" : 67,
+    "speed" : 7,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
   },
   "27111" : {
     "itemId" : 27111,
@@ -21778,6 +22111,11 @@
     "is2h" : true,
     "weaponCategory" : "BLUNT"
   },
+  "28730" : {
+    "itemId" : 28730,
+    "name" : "Trailblazer reloaded trousers (t2)",
+    "slot" : 7
+  },
   "1073" : {
     "itemId" : 1073,
     "name" : "Adamant platelegs",
@@ -22358,6 +22696,11 @@
     "name" : "Lumberjack top",
     "slot" : 4
   },
+  "28655" : {
+    "itemId" : 28655,
+    "name" : "Petal garland",
+    "slot" : 2
+  },
   "27010" : {
     "itemId" : 27010,
     "name" : "Preform",
@@ -22396,11 +22739,6 @@
     "prayer" : 1,
     "slot" : 7
   },
-  "25716" : {
-    "itemId" : 25716,
-    "name" : "Clan cloak (25716)",
-    "slot" : 1
-  },
   "6231" : {
     "itemId" : 6231,
     "name" : "Broodoo shield (2)",
@@ -22424,6 +22762,23 @@
     "accuracyRanged" : 7,
     "prayer" : 1,
     "slot" : 5
+  },
+  "28202" : {
+    "itemId" : 28202,
+    "name" : "Steel felling axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 8,
+    "accuracyCrush" : 6,
+    "strengthMelee" : 9,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
+  "25716" : {
+    "itemId" : 25716,
+    "name" : "Clan cloak (25716)",
+    "slot" : 1
   },
   "24003" : {
     "itemId" : 24003,
@@ -23626,6 +23981,18 @@
     "accuracyRanged" : -1,
     "slot" : 0
   },
+  "28208" : {
+    "itemId" : 28208,
+    "name" : "Mithril felling axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 12,
+    "accuracyCrush" : 10,
+    "strengthMelee" : 13,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
+  },
   "4026" : {
     "itemId" : 4026,
     "name" : "Gorilla greegree",
@@ -24044,6 +24411,11 @@
   "25592" : {
     "itemId" : 25592,
     "name" : "Spirit angler headband",
+    "slot" : 0
+  },
+  "28611" : {
+    "itemId" : 28611,
+    "name" : "Spider hat (28611)",
     "slot" : 0
   },
   "25059" : {
@@ -24572,11 +24944,6 @@
     "name" : "Villager hat (6375)",
     "slot" : 0
   },
-  "4321" : {
-    "itemId" : 4321,
-    "name" : "Team-4 cape",
-    "slot" : 1
-  },
   "4387" : {
     "itemId" : 4387,
     "name" : "Team-37 cape",
@@ -24636,6 +25003,23 @@
     "accuracyRanged" : -4,
     "slot" : 7
   },
+  "28759" : {
+    "itemId" : 28759,
+    "name" : "Trailblazer reloaded steel trophy",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
+  },
+  "4321" : {
+    "itemId" : 4321,
+    "name" : "Team-4 cape",
+    "slot" : 1
+  },
   "13647" : {
     "itemId" : 13647,
     "name" : "Farmer's strawhat (13647)",
@@ -24693,6 +25077,18 @@
     "accuracyRanged" : -2,
     "strengthMelee" : 3,
     "slot" : 0
+  },
+  "28199" : {
+    "itemId" : 28199,
+    "name" : "Iron felling axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 5,
+    "accuracyCrush" : 3,
+    "strengthMelee" : 7,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
   },
   "23842" : {
     "itemId" : 23842,
@@ -25073,6 +25469,11 @@
     "prayer" : 1,
     "slot" : 10
   },
+  "28721" : {
+    "itemId" : 28721,
+    "name" : "Trailblazer reloaded boots (t1)",
+    "slot" : 10
+  },
   "11335" : {
     "itemId" : 11335,
     "name" : "Dragon full helm",
@@ -25444,6 +25845,11 @@
     "accuracyMagic" : 30,
     "accuracyRanged" : -10,
     "slot" : 4
+  },
+  "25102" : {
+    "itemId" : 25102,
+    "name" : "Fairy mushroom",
+    "slot" : 5
   },
   "23276" : {
     "itemId" : 23276,
@@ -25894,6 +26300,11 @@
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
+  },
+  "28733" : {
+    "itemId" : 28733,
+    "name" : "Trailblazer reloaded boots (t2)",
+    "slot" : 10
   },
   "27261" : {
     "itemId" : 27261,
@@ -26840,6 +27251,13 @@
     "accuracyMagic" : -5,
     "accuracyRanged" : -5,
     "slot" : 0
+  },
+  "5684" : {
+    "itemId" : 5684,
+    "name" : "Poison dagger(p+)",
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
   },
   "11222" : {
     "itemId" : 11222,
@@ -27966,6 +28384,11 @@
     "slot" : 3,
     "weaponCategory" : "SPEAR"
   },
+  "28607" : {
+    "itemId" : 28607,
+    "name" : "Spider hat (28607)",
+    "slot" : 0
+  },
   "13222" : {
     "itemId" : 13222,
     "name" : "Music cape(t)",
@@ -28341,6 +28764,13 @@
     "itemId" : 27822,
     "name" : "Oldschool jumper",
     "slot" : 4
+  },
+  "28748" : {
+    "itemId" : 28748,
+    "name" : "Trailblazer reloaded torch",
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SPIKED"
   },
   "26427" : {
     "itemId" : 26427,
@@ -29158,6 +29588,18 @@
     "name" : "Santa jacket",
     "slot" : 4
   },
+  "28761" : {
+    "itemId" : 28761,
+    "name" : "Trailblazer reloaded iron trophy",
+    "accuracyStab" : -100,
+    "accuracySlash" : -100,
+    "accuracyCrush" : -50,
+    "strengthMelee" : -10,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
+  },
   "12283" : {
     "itemId" : 12283,
     "name" : "Mithril full helm (g)",
@@ -29695,6 +30137,11 @@
     "accuracyRanged" : -3,
     "slot" : 5
   },
+  "28618" : {
+    "itemId" : 28618,
+    "name" : "Pheasant boots",
+    "slot" : 10
+  },
   "26734" : {
     "itemId" : 26734,
     "name" : "Saika's veil (l)",
@@ -29781,6 +30228,11 @@
     "itemId" : 4327,
     "name" : "Team-7 cape",
     "slot" : 1
+  },
+  "28609" : {
+    "itemId" : 28609,
+    "name" : "Spider hat (28609)",
+    "slot" : 0
   },
   "20710" : {
     "itemId" : 20710,
@@ -30113,6 +30565,11 @@
     "strengthMelee" : 6,
     "slot" : 9
   },
+  "28603" : {
+    "itemId" : 28603,
+    "name" : "Spider hat",
+    "slot" : 0
+  },
   "9341" : {
     "itemId" : 9341,
     "name" : "Dragonstone bolts",
@@ -30135,6 +30592,18 @@
     "itemId" : 12349,
     "name" : "Gold elegant legs",
     "slot" : 7
+  },
+  "28196" : {
+    "itemId" : 28196,
+    "name" : "Bronze felling axe",
+    "accuracyStab" : -2,
+    "accuracySlash" : 4,
+    "accuracyCrush" : 2,
+    "strengthMelee" : 5,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "AXE"
   },
   "6111" : {
     "itemId" : 6111,
@@ -30415,6 +30884,11 @@
     "name" : "Rune javelin",
     "strengthRanged" : 124,
     "slot" : 13
+  },
+  "28715" : {
+    "itemId" : 28715,
+    "name" : "Trailblazer reloaded top (t1)",
+    "slot" : 4
   },
   "20777" : {
     "itemId" : 20777,
@@ -30827,16 +31301,6 @@
     "name" : "Guthan's platebody 0",
     "slot" : 4
   },
-  "24225" : {
-    "itemId" : 24225,
-    "name" : "Granite maul (24225)",
-    "accuracyCrush" : 81,
-    "strengthMelee" : 79,
-    "speed" : 7,
-    "slot" : 3,
-    "is2h" : true,
-    "weaponCategory" : "BLUNT"
-  },
   "12277" : {
     "itemId" : 12277,
     "name" : "Mithril platebody (g)",
@@ -30853,12 +31317,6 @@
     "strengthMelee" : 10,
     "prayer" : 2,
     "slot" : 2
-  },
-  "577" : {
-    "itemId" : 577,
-    "name" : "Blue wizard robe",
-    "accuracyMagic" : 3,
-    "slot" : 4
   },
   "5694" : {
     "itemId" : 5694,
@@ -31070,6 +31528,21 @@
     "itemId" : 4315,
     "name" : "Team-1 cape",
     "slot" : 1
+  },
+  "28622" : {
+    "itemId" : 28622,
+    "name" : "Pheasant legs",
+    "slot" : 7
+  },
+  "24225" : {
+    "itemId" : 24225,
+    "name" : "Granite maul (24225)",
+    "accuracyCrush" : 81,
+    "strengthMelee" : 79,
+    "speed" : 7,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
   },
   "12468" : {
     "itemId" : 12468,
@@ -31721,6 +32194,17 @@
     "itemId" : 12855,
     "name" : "Hunter's honour",
     "slot" : 0
+  },
+  "28765" : {
+    "itemId" : 28765,
+    "name" : "Globetrotter pendant",
+    "slot" : 2
+  },
+  "577" : {
+    "itemId" : 577,
+    "name" : "Blue wizard robe",
+    "accuracyMagic" : 3,
+    "slot" : 4
   },
   "23979" : {
     "itemId" : 23979,
