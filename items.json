@@ -2489,6 +2489,15 @@
     "accuracyStab" : 4,
     "slot" : 12
   },
+  "28794" : {
+    "itemId" : 28794,
+    "name" : "Bone shortbow",
+    "accuracyRanged" : 69,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BOW"
+  },
   "19556" : {
     "itemId" : 19556,
     "name" : "Monkey",
@@ -17943,6 +17952,14 @@
     "is2h" : true,
     "weaponCategory" : "SPEAR"
   },
+  "28796" : {
+    "itemId" : 28796,
+    "name" : "Bone staff",
+    "accuracyMagic" : 14,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "POWERED_STAFF"
+  },
   "6361" : {
     "itemId" : 6361,
     "name" : "Tribal top (6361)",
@@ -19530,6 +19547,17 @@
     "itemId" : 26460,
     "name" : "Shattered boots (t3)",
     "slot" : 10
+  },
+  "28792" : {
+    "itemId" : 28792,
+    "name" : "Bone mace",
+    "accuracyStab" : 40,
+    "accuracySlash" : -2,
+    "accuracyCrush" : 60,
+    "strengthMelee" : 55,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SPIKED"
   },
   "25410" : {
     "itemId" : 25410,
