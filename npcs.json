@@ -2388,6 +2388,31 @@
       "size" : 2
     }
   },
+  "7221" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 300,
+        "DEFENCE" : 100,
+        "STRENGTH" : 100,
+        "HITPOINTS" : 1500,
+        "RANGED" : 100,
+        "MAGIC" : 100
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 20,
+      "defenseSlash" : 20,
+      "defenseCrush" : 20,
+      "defenseRanged" : 20,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 7221,
+      "name" : "Scurrius",
+      "size" : 3,
+      "accuracyMagic" : 150
+    }
+  },
   "10814" : {
     "skills" : {
       "levels" : {
@@ -10571,7 +10596,7 @@
       "defenseSlash" : -10,
       "defenseCrush" : -10,
       "defenseRanged" : -10,
-      "defenseMagic" : 21
+      "defenseMagic" : -21
     },
     "attributes" : {
       "npcId" : 2483,
@@ -10688,6 +10713,31 @@
       "name" : "Pyrelord",
       "isDemon" : true,
       "size" : 2
+    }
+  },
+  "7222" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 300,
+        "DEFENCE" : 60,
+        "STRENGTH" : 100,
+        "HITPOINTS" : 500,
+        "RANGED" : 50,
+        "MAGIC" : 50
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 20,
+      "defenseSlash" : 20,
+      "defenseCrush" : 20,
+      "defenseRanged" : 20,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 7222,
+      "name" : "Scurrius (Lvl 200)",
+      "size" : 3,
+      "accuracyMagic" : 150
     }
   },
   "8852" : {
@@ -15058,6 +15108,7 @@
     "attributes" : {
       "npcId" : 3971,
       "name" : "Zombie rat",
+      "isUndead" : true,
       "size" : 1
     }
   },
@@ -17370,6 +17421,7 @@
     "attributes" : {
       "npcId" : 3969,
       "name" : "Zombie rat (Lvl 3)",
+      "isUndead" : true,
       "size" : 2
     }
   },
@@ -19768,27 +19820,6 @@
       "size" : 1
     }
   },
-  "2043" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 300,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 500,
-        "RANGED" : 300,
-        "MAGIC" : 300
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseRanged" : 300
-    },
-    "attributes" : {
-      "npcId" : 2043,
-      "name" : "Zulrah (Magma/Melee)",
-      "size" : 5,
-      "accuracyMagic" : 50
-    }
-  },
   "5642" : {
     "skills" : {
       "levels" : {
@@ -20560,6 +20591,45 @@
       "npcId" : 5043,
       "name" : "Suit of armour",
       "size" : 1
+    }
+  },
+  "2043" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 300,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 500,
+        "RANGED" : 300,
+        "MAGIC" : 300
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseRanged" : 300
+    },
+    "attributes" : {
+      "npcId" : 2043,
+      "name" : "Zulrah (Magma/Melee)",
+      "size" : 5,
+      "accuracyMagic" : 50
+    }
+  },
+  "7223" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 100,
+        "DEFENCE" : 10,
+        "STRENGTH" : 25,
+        "HITPOINTS" : 15,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 7223,
+      "name" : "Giant rat (Lvl 46)",
+      "size" : 2
     }
   },
   "5648" : {
