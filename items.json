@@ -1331,6 +1331,16 @@
     "accuracyMagic" : 15,
     "slot" : 7
   },
+  "28682" : {
+    "itemId" : 28682,
+    "name" : "Dinh's blazing bulwark",
+    "accuracyCrush" : 124,
+    "strengthMelee" : 38,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BULWARK"
+  },
   "26848" : {
     "itemId" : 26848,
     "name" : "Abyssal lantern (redwood logs)",
@@ -2488,6 +2498,15 @@
     "name" : "Treasonous ring",
     "accuracyStab" : 4,
     "slot" : 12
+  },
+  "28794" : {
+    "itemId" : 28794,
+    "name" : "Bone shortbow",
+    "accuracyRanged" : 69,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BOW"
   },
   "19556" : {
     "itemId" : 19556,
@@ -7100,6 +7119,11 @@
     "accuracyMagic" : -8,
     "accuracyRanged" : -3,
     "slot" : 5
+  },
+  "28786" : {
+    "itemId" : 28786,
+    "name" : "Icy jumper",
+    "slot" : 4
   },
   "23620" : {
     "itemId" : 23620,
@@ -17943,6 +17967,14 @@
     "is2h" : true,
     "weaponCategory" : "SPEAR"
   },
+  "28796" : {
+    "itemId" : 28796,
+    "name" : "Bone staff",
+    "accuracyMagic" : 14,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "POWERED_STAFF"
+  },
   "6361" : {
     "itemId" : 6361,
     "name" : "Tribal top (6361)",
@@ -19530,6 +19562,17 @@
     "itemId" : 26460,
     "name" : "Shattered boots (t3)",
     "slot" : 10
+  },
+  "28792" : {
+    "itemId" : 28792,
+    "name" : "Bone mace",
+    "accuracyStab" : 40,
+    "accuracySlash" : -2,
+    "accuracyCrush" : 60,
+    "strengthMelee" : 55,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SPIKED"
   },
   "25410" : {
     "itemId" : 25410,
