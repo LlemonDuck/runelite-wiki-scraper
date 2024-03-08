@@ -3798,7 +3798,6 @@
     "attributes" : {
       "npcId" : 724,
       "name" : "Mummy",
-      "isUndead" : true,
       "size" : 1
     }
   },
@@ -6374,7 +6373,6 @@
     "attributes" : {
       "npcId" : 717,
       "name" : "Mummy (Lvl 96)",
-      "isUndead" : true,
       "size" : 1
     }
   },
@@ -11268,7 +11266,6 @@
     "attributes" : {
       "npcId" : 949,
       "name" : "Mummy (Lvl 84)",
-      "isUndead" : true,
       "size" : 1
     }
   },
@@ -15574,7 +15571,6 @@
     "attributes" : {
       "npcId" : 720,
       "name" : "Mummy (Lvl 103)",
-      "isUndead" : true,
       "size" : 1
     }
   },
@@ -20959,7 +20955,7 @@
         "ATTACK" : 8,
         "DEFENCE" : 6,
         "STRENGTH" : 8,
-        "HITPOINTS" : 16,
+        "HITPOINTS" : 12,
         "RANGED" : 1,
         "MAGIC" : 1
       }
