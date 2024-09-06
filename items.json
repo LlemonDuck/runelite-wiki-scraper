@@ -44,6 +44,11 @@
     "accuracyRanged" : -11,
     "slot" : 7
   },
+  "28953" : {
+    "itemId" : 28953,
+    "name" : "Dizana's quiver (l)",
+    "slot" : 1
+  },
   "25912" : {
     "itemId" : 25912,
     "name" : "Tzkal slayer helmet (i)",
@@ -368,6 +373,14 @@
     "name" : "Colourful jumper (28119)",
     "slot" : 4
   },
+  "29047" : {
+    "itemId" : 29047,
+    "name" : "Blood moon helm (29047)",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -2,
+    "strengthMelee" : 4,
+    "slot" : 0
+  },
   "6245" : {
     "itemId" : 6245,
     "name" : "Broodoo shield (6) (6245)",
@@ -422,6 +435,7 @@
     "name" : "Ahrim's hood 75",
     "accuracyMagic" : 6,
     "accuracyRanged" : -2,
+    "strengthMagic" : 1,
     "slot" : 0
   },
   "5625" : {
@@ -449,10 +463,24 @@
     "accuracyRanged" : -3,
     "slot" : 0
   },
+  "29568" : {
+    "itemId" : 29568,
+    "name" : "Dark squall robe top",
+    "accuracyMagic" : 4,
+    "slot" : 4
+  },
   "21096" : {
     "itemId" : 21096,
     "name" : "Topaz necklace",
     "slot" : 2
+  },
+  "29041" : {
+    "itemId" : 29041,
+    "name" : "Blue moon helm (29041)",
+    "accuracyMagic" : 6,
+    "strengthMelee" : 3,
+    "strengthMagic" : 1,
+    "slot" : 0
   },
   "23354" : {
     "itemId" : 23354,
@@ -502,7 +530,7 @@
   },
   "20598" : {
     "itemId" : 20598,
-    "name" : "Ahrim's robetop (20598)",
+    "name" : "Ahrim's robetop",
     "accuracyMagic" : 30,
     "accuracyRanged" : -10,
     "slot" : 4
@@ -529,6 +557,7 @@
     "name" : "Ahrim's robetop",
     "accuracyMagic" : 30,
     "accuracyRanged" : -10,
+    "strengthMagic" : 1,
     "slot" : 4
   },
   "817" : {
@@ -604,6 +633,12 @@
     "itemId" : 5527,
     "name" : "Air tiara",
     "slot" : 0
+  },
+  "28878" : {
+    "itemId" : 28878,
+    "name" : "Moonlight antler bolts",
+    "strengthRanged" : 60,
+    "slot" : 13
   },
   "11217" : {
     "itemId" : 11217,
@@ -870,6 +905,11 @@
     "name" : "Rainbow jumper",
     "slot" : 4
   },
+  "28947" : {
+    "itemId" : 28947,
+    "name" : "Dizana's quiver (uncharged)",
+    "slot" : 1
+  },
   "28712" : {
     "itemId" : 28712,
     "name" : "Trailblazer reloaded headband (t1)",
@@ -888,15 +928,6 @@
     "accuracyRanged" : 30,
     "prayer" : 1,
     "slot" : 4
-  },
-  "21006" : {
-    "itemId" : 21006,
-    "name" : "Kodai wand",
-    "accuracyMagic" : 28,
-    "strengthMagic" : 15,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "STAFF"
   },
   "26484" : {
     "itemId" : 26484,
@@ -928,6 +959,20 @@
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
+  },
+  "29514" : {
+    "itemId" : 29514,
+    "name" : "Colourful crown shirt (29514)",
+    "slot" : 4
+  },
+  "21006" : {
+    "itemId" : 21006,
+    "name" : "Kodai wand",
+    "accuracyMagic" : 28,
+    "strengthMagic" : 15,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
   },
   "24139" : {
     "itemId" : 24139,
@@ -982,6 +1027,17 @@
     "itemId" : 11781,
     "name" : "Black mask (3) (i)",
     "slot" : 0
+  },
+  "29796" : {
+    "itemId" : 29796,
+    "name" : "Noxious halberd",
+    "accuracyStab" : 80,
+    "accuracySlash" : 132,
+    "strengthMelee" : 142,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "POLEARM"
   },
   "5555" : {
     "itemId" : 5555,
@@ -1610,6 +1666,7 @@
     "itemId" : 27119,
     "name" : "Elder chaos hood (or)",
     "accuracyMagic" : 5,
+    "strengthMagic" : 1,
     "slot" : 0
   },
   "13332" : {
@@ -1948,6 +2005,12 @@
     "prayer" : 8,
     "slot" : 12
   },
+  "28872" : {
+    "itemId" : 28872,
+    "name" : "Sunlight antler bolts",
+    "strengthRanged" : 55,
+    "slot" : 13
+  },
   "24163" : {
     "itemId" : 24163,
     "name" : "Decorative armour (l)",
@@ -2019,6 +2082,17 @@
     "itemId" : 27459,
     "name" : "Graceful boots (27459)",
     "slot" : 10
+  },
+  "29280" : {
+    "itemId" : 29280,
+    "name" : "Mixed hide top",
+    "accuracyStab" : 4,
+    "accuracySlash" : -2,
+    "accuracyCrush" : -3,
+    "accuracyMagic" : -15,
+    "accuracyRanged" : 27,
+    "strengthMelee" : 2,
+    "slot" : 4
   },
   "12381" : {
     "itemId" : 12381,
@@ -2379,6 +2453,14 @@
     "slot" : 3,
     "weaponCategory" : "SPIKED"
   },
+  "29016" : {
+    "itemId" : 29016,
+    "name" : "Blue moon tassets",
+    "accuracyMagic" : 22,
+    "strengthMelee" : 1,
+    "strengthMagic" : 1,
+    "slot" : 7
+  },
   "4401" : {
     "itemId" : 4401,
     "name" : "Team-44 cape",
@@ -2617,6 +2699,7 @@
     "itemId" : 12825,
     "name" : "Arcane spirit shield",
     "accuracyMagic" : 20,
+    "strengthMagic" : 3,
     "prayer" : 3,
     "slot" : 5
   },
@@ -2655,6 +2738,7 @@
     "itemId" : 25404,
     "name" : "Bloodbark body",
     "accuracyMagic" : 21,
+    "strengthMagic" : 1,
     "slot" : 4
   },
   "6922" : {
@@ -2777,6 +2861,11 @@
     "accuracyRanged" : -2,
     "prayer" : 1,
     "slot" : 5
+  },
+  "28839" : {
+    "itemId" : 28839,
+    "name" : "Wood camo top (28839)",
+    "slot" : 4
   },
   "28258" : {
     "itemId" : 28258,
@@ -3066,7 +3155,7 @@
   },
   "26158" : {
     "itemId" : 26158,
-    "name" : "Group iron platebody",
+    "name" : "Group ironman platebody",
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
@@ -3276,6 +3365,11 @@
     "name" : "Crystal helm (inactive) (27743)",
     "slot" : 0
   },
+  "28857" : {
+    "itemId" : 28857,
+    "name" : "Polar camo top (28857)",
+    "slot" : 4
+  },
   "8997" : {
     "itemId" : 8997,
     "name" : "Grey navy slacks",
@@ -3388,6 +3482,7 @@
     "accuracyCrush" : -8,
     "accuracyMagic" : 12,
     "accuracyRanged" : -12,
+    "strengthMagic" : 2,
     "slot" : 5
   },
   "7132" : {
@@ -3399,6 +3494,11 @@
     "itemId" : 20005,
     "name" : "Ring of nature",
     "slot" : 12
+  },
+  "29489" : {
+    "itemId" : 29489,
+    "name" : "Rainbow cape",
+    "slot" : 1
   },
   "25278" : {
     "itemId" : 25278,
@@ -3433,7 +3533,7 @@
     "name" : "Ancestral robe top",
     "accuracyMagic" : 35,
     "accuracyRanged" : -8,
-    "strengthMagic" : 2,
+    "strengthMagic" : 3,
     "slot" : 4
   },
   "24209" : {
@@ -3489,6 +3589,11 @@
     "name" : "Steel fire arrow",
     "strengthRanged" : 16,
     "slot" : 13
+  },
+  "28951" : {
+    "itemId" : 28951,
+    "name" : "Dizana's quiver",
+    "slot" : 1
   },
   "6267" : {
     "itemId" : 6267,
@@ -3942,6 +4047,26 @@
     "strengthMelee" : 10,
     "slot" : 2
   },
+  "29594" : {
+    "itemId" : 29594,
+    "name" : "Purging staff",
+    "accuracyStab" : 10,
+    "accuracySlash" : -5,
+    "accuracyCrush" : 83,
+    "accuracyMagic" : 37,
+    "strengthMelee" : 62,
+    "strengthMagic" : 10,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
+  },
+  "29820" : {
+    "itemId" : 29820,
+    "name" : "Araxyte slayer helmet (i) (29820)",
+    "accuracyMagic" : 3,
+    "accuracyRanged" : 3,
+    "slot" : 0
+  },
   "8716" : {
     "itemId" : 8716,
     "name" : "Rune kiteshield (8716)",
@@ -4002,11 +4127,6 @@
     "accuracyRanged" : 8,
     "slot" : 4
   },
-  "11900" : {
-    "itemId" : 11900,
-    "name" : "Decorative armour (11900)",
-    "slot" : 7
-  },
   "9642" : {
     "itemId" : 9642,
     "name" : "Citizen trousers",
@@ -4049,6 +4169,16 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "TWO_HANDED_SWORD"
+  },
+  "11900" : {
+    "itemId" : 11900,
+    "name" : "Decorative armour (11900)",
+    "slot" : 7
+  },
+  "29775" : {
+    "itemId" : 29775,
+    "name" : "Imcando hammer (off-hand)",
+    "slot" : 5
   },
   "8696" : {
     "itemId" : 8696,
@@ -4482,7 +4612,7 @@
     "itemId" : 23654,
     "name" : "Occult necklace (23654)",
     "accuracyMagic" : 12,
-    "strengthMagic" : 10,
+    "strengthMagic" : 5,
     "prayer" : 2,
     "slot" : 2
   },
@@ -4551,15 +4681,18 @@
     "prayer" : 1,
     "slot" : 5
   },
+  "29052" : {
+    "itemId" : 29052,
+    "name" : "Eclipse moon tassets (broken)",
+    "accuracyMagic" : -15,
+    "accuracyRanged" : 17,
+    "strengthMelee" : 1,
+    "slot" : 7
+  },
   "8956" : {
     "itemId" : 8956,
     "name" : "Black naval shirt",
     "slot" : 4
-  },
-  "4329" : {
-    "itemId" : 4329,
-    "name" : "Team-8 cape",
-    "slot" : 1
   },
   "4151" : {
     "itemId" : 4151,
@@ -4573,6 +4706,19 @@
   "2994" : {
     "itemId" : 2994,
     "name" : "Chompy bird hat (2994)",
+    "slot" : 0
+  },
+  "4329" : {
+    "itemId" : 4329,
+    "name" : "Team-8 cape",
+    "slot" : 1
+  },
+  "29035" : {
+    "itemId" : 29035,
+    "name" : "Eclipse moon helm (29035)",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : 8,
+    "strengthMelee" : 3,
     "slot" : 0
   },
   "1219" : {
@@ -4731,7 +4877,7 @@
   },
   "26172" : {
     "itemId" : 26172,
-    "name" : "Hardcore group iron platebody",
+    "name" : "Hardcore group ironman platebody",
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
@@ -5041,6 +5187,7 @@
     "itemId" : 20517,
     "name" : "Elder chaos top",
     "accuracyMagic" : 10,
+    "strengthMagic" : 1,
     "slot" : 4
   },
   "8967" : {
@@ -5067,7 +5214,7 @@
   },
   "28260" : {
     "itemId" : 28260,
-    "name" : "Blood ancient sceptre (l)",
+    "name" : "Blood ancient sceptre",
     "accuracyStab" : 20,
     "accuracySlash" : -1,
     "accuracyCrush" : 50,
@@ -5331,11 +5478,6 @@
     "name" : "Ugly halloween jumper (black)",
     "slot" : 4
   },
-  "13609" : {
-    "itemId" : 13609,
-    "name" : "Graceful legs (13609)",
-    "slot" : 7
-  },
   "23762" : {
     "itemId" : 23762,
     "name" : "Crystal harpoon",
@@ -5364,6 +5506,16 @@
     "itemId" : 27001,
     "name" : "Void knight robe (l)(or)",
     "slot" : 7
+  },
+  "13609" : {
+    "itemId" : 13609,
+    "name" : "Graceful legs (13609)",
+    "slot" : 7
+  },
+  "29497" : {
+    "itemId" : 29497,
+    "name" : "Colourful cape (29497)",
+    "slot" : 1
   },
   "23282" : {
     "itemId" : 23282,
@@ -5680,6 +5832,7 @@
     "itemId" : 20595,
     "name" : "Elder chaos hood",
     "accuracyMagic" : 5,
+    "strengthMagic" : 1,
     "slot" : 0
   },
   "13660" : {
@@ -5757,6 +5910,13 @@
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
+  },
+  "29486" : {
+    "itemId" : 29486,
+    "name" : "Cursed amulet of magic",
+    "accuracyMagic" : -3,
+    "strengthMagic" : -80,
+    "slot" : 2
   },
   "11968" : {
     "itemId" : 11968,
@@ -5985,7 +6145,7 @@
   "23122" : {
     "itemId" : 23122,
     "name" : "Oily pearl fishing rod",
-    "speed" : 5,
+    "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "UNARMED"
   },
@@ -6065,6 +6225,13 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "GUN"
+  },
+  "29818" : {
+    "itemId" : 29818,
+    "name" : "Araxyte slayer helmet (i)",
+    "accuracyMagic" : 3,
+    "accuracyRanged" : 3,
+    "slot" : 0
   },
   "8710" : {
     "itemId" : 8710,
@@ -6421,7 +6588,7 @@
   "22842" : {
     "itemId" : 22842,
     "name" : "Pearl barbarian rod",
-    "speed" : 5,
+    "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "UNARMED"
   },
@@ -6450,6 +6617,11 @@
     "itemId" : 13615,
     "name" : "Graceful hood (13615)",
     "slot" : 0
+  },
+  "29513" : {
+    "itemId" : 29513,
+    "name" : "Colourful crown shirt (29513)",
+    "slot" : 4
   },
   "7537" : {
     "itemId" : 7537,
@@ -6792,6 +6964,7 @@
     "itemId" : 10340,
     "name" : "3rd age robe",
     "accuracyMagic" : 19,
+    "strengthMagic" : 1,
     "slot" : 7
   },
   "5618" : {
@@ -6809,6 +6982,7 @@
     "accuracyMagic" : 15,
     "accuracyRanged" : -10,
     "strengthMelee" : -2,
+    "strengthMagic" : 2,
     "slot" : 5
   },
   "26490" : {
@@ -6870,7 +7044,7 @@
     "itemId" : 12002,
     "name" : "Occult necklace",
     "accuracyMagic" : 12,
-    "strengthMagic" : 10,
+    "strengthMagic" : 5,
     "prayer" : 2,
     "slot" : 2
   },
@@ -6985,6 +7159,11 @@
     "accuracyRanged" : 14,
     "prayer" : 4,
     "slot" : 7
+  },
+  "29510" : {
+    "itemId" : 29510,
+    "name" : "Colourful crown shirt (29510)",
+    "slot" : 4
   },
   "27771" : {
     "itemId" : 27771,
@@ -7226,6 +7405,13 @@
     "slot" : 3,
     "weaponCategory" : "THROWN"
   },
+  "29615" : {
+    "itemId" : 29615,
+    "name" : "Imbued guthix cape (deadman)",
+    "accuracyMagic" : 15,
+    "strengthMagic" : 2,
+    "slot" : 1
+  },
   "24250" : {
     "itemId" : 24250,
     "name" : "Imbued zamorak cape (l)",
@@ -7366,6 +7552,14 @@
     "accuracyRanged" : 2,
     "slot" : 4
   },
+  "29013" : {
+    "itemId" : 29013,
+    "name" : "Blue moon chestplate",
+    "accuracyMagic" : 30,
+    "strengthMelee" : 2,
+    "strengthMagic" : 1,
+    "slot" : 4
+  },
   "10147" : {
     "itemId" : 10147,
     "name" : "Red salamander",
@@ -7387,6 +7581,11 @@
     "itemId" : 24401,
     "name" : "Twisted trousers (t2)",
     "slot" : 7
+  },
+  "28904" : {
+    "itemId" : 28904,
+    "name" : "Dizana's max hood",
+    "slot" : 0
   },
   "9096" : {
     "itemId" : 9096,
@@ -7632,6 +7831,14 @@
     "is2h" : true,
     "weaponCategory" : "BLUDGEON"
   },
+  "29058" : {
+    "itemId" : 29058,
+    "name" : "Blue moon chestplate (broken)",
+    "accuracyMagic" : 30,
+    "strengthMelee" : 2,
+    "strengthMagic" : 1,
+    "slot" : 4
+  },
   "20095" : {
     "itemId" : 20095,
     "name" : "Ankou mask",
@@ -7682,6 +7889,14 @@
     "prayer" : 5,
     "slot" : 5
   },
+  "4874" : {
+    "itemId" : 4874,
+    "name" : "Ahrim's robeskirt 100",
+    "accuracyMagic" : 22,
+    "accuracyRanged" : -7,
+    "strengthMagic" : 1,
+    "slot" : 7
+  },
   "26759" : {
     "itemId" : 26759,
     "name" : "Elite calamity breeches",
@@ -7692,12 +7907,10 @@
     "accuracyRanged" : 14,
     "slot" : 7
   },
-  "4874" : {
-    "itemId" : 4874,
-    "name" : "Ahrim's robeskirt 100",
-    "accuracyMagic" : 22,
-    "accuracyRanged" : -7,
-    "slot" : 7
+  "29515" : {
+    "itemId" : 29515,
+    "name" : "Colourful crown shirt (29515)",
+    "slot" : 4
   },
   "8670" : {
     "itemId" : 8670,
@@ -7896,6 +8109,7 @@
     "itemId" : 10338,
     "name" : "3rd age robe top",
     "accuracyMagic" : 24,
+    "strengthMagic" : 1,
     "slot" : 4
   },
   "12445" : {
@@ -8060,7 +8274,7 @@
   },
   "26180" : {
     "itemId" : 26180,
-    "name" : "Hardcore group iron platelegs",
+    "name" : "Hardcore group ironman platelegs",
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
@@ -8334,7 +8548,7 @@
   },
   "6187" : {
     "itemId" : 6187,
-    "name" : "Princess skirt",
+    "name" : "Royal frog skirt",
     "slot" : 7
   },
   "22941" : {
@@ -8404,7 +8618,7 @@
     "name" : "Twisted ancestral hat",
     "accuracyMagic" : 8,
     "accuracyRanged" : -2,
-    "strengthMagic" : 2,
+    "strengthMagic" : 3,
     "slot" : 0
   },
   "13114" : {
@@ -8892,6 +9106,7 @@
     "name" : "Ahrim's hood 50",
     "accuracyMagic" : 6,
     "accuracyRanged" : -2,
+    "strengthMagic" : 1,
     "slot" : 0
   },
   "6130" : {
@@ -8959,7 +9174,7 @@
   },
   "26166" : {
     "itemId" : 26166,
-    "name" : "Group iron platelegs",
+    "name" : "Group ironman platelegs",
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
@@ -8997,6 +9212,7 @@
     "itemId" : 10342,
     "name" : "3rd age mage hat",
     "accuracyMagic" : 8,
+    "strengthMagic" : 1,
     "slot" : 0
   },
   "24211" : {
@@ -9293,6 +9509,11 @@
     "name" : "Oldschool jumper (27824)",
     "slot" : 4
   },
+  "20101" : {
+    "itemId" : 20101,
+    "name" : "Ankou gloves",
+    "slot" : 9
+  },
   "7675" : {
     "itemId" : 7675,
     "name" : "Wooden sword",
@@ -9304,10 +9525,13 @@
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
   },
-  "20101" : {
-    "itemId" : 20101,
-    "name" : "Ankou gloves",
-    "slot" : 9
+  "28869" : {
+    "itemId" : 28869,
+    "name" : "Hunters' sunlight crossbow",
+    "accuracyRanged" : 79,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "CROSSBOW"
   },
   "11791" : {
     "itemId" : 11791,
@@ -9369,7 +9593,7 @@
   },
   "27050" : {
     "itemId" : 27050,
-    "name" : "Group iron platebody (unranked) (27050)",
+    "name" : "Group ironman platebody (unranked) (27050)",
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
@@ -9488,6 +9712,11 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "STAFF"
+  },
+  "29265" : {
+    "itemId" : 29265,
+    "name" : "Guild hunter top",
+    "slot" : 4
   },
   "26994" : {
     "itemId" : 26994,
@@ -9678,6 +9907,14 @@
     "name" : "Mining hood",
     "slot" : 0
   },
+  "28936" : {
+    "itemId" : 28936,
+    "name" : "Sunfire fanatic cuirass",
+    "accuracyMagic" : -30,
+    "accuracyRanged" : -15,
+    "prayer" : 10,
+    "slot" : 4
+  },
   "26834" : {
     "itemId" : 26834,
     "name" : "Abyssal lantern (green logs)",
@@ -9753,6 +9990,18 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "STAFF"
+  },
+  "29605" : {
+    "itemId" : 29605,
+    "name" : "Armadyl godsword (deadman)",
+    "accuracySlash" : 132,
+    "accuracyCrush" : 80,
+    "strengthMelee" : 132,
+    "prayer" : 8,
+    "speed" : 6,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "TWO_HANDED_SWORD"
   },
   "6219" : {
     "itemId" : 6219,
@@ -9866,6 +10115,14 @@
     "itemId" : 28120,
     "name" : "Colourful jumper (28120)",
     "slot" : 4
+  },
+  "29019" : {
+    "itemId" : 29019,
+    "name" : "Blue moon helm",
+    "accuracyMagic" : 6,
+    "strengthMelee" : 3,
+    "strengthMagic" : 1,
+    "slot" : 0
   },
   "10551" : {
     "itemId" : 10551,
@@ -10076,6 +10333,19 @@
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
   },
+  "28997" : {
+    "itemId" : 28997,
+    "name" : "Dual macuahuitl",
+    "accuracyStab" : 115,
+    "accuracySlash" : -4,
+    "accuracyCrush" : 121,
+    "accuracyMagic" : -4,
+    "strengthMelee" : 81,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "SPIKED"
+  },
   "25555" : {
     "itemId" : 25555,
     "name" : "Golden prospector boots",
@@ -10163,6 +10433,14 @@
     "accuracyRanged" : -1,
     "slot" : 0
   },
+  "29061" : {
+    "itemId" : 29061,
+    "name" : "Blue moon tassets (broken)",
+    "accuracyMagic" : 22,
+    "strengthMelee" : 1,
+    "strengthMagic" : 1,
+    "slot" : 7
+  },
   "9769" : {
     "itemId" : 9769,
     "name" : "Hitpoints cape(t)",
@@ -10228,7 +10506,7 @@
   },
   "20599" : {
     "itemId" : 20599,
-    "name" : "Ahrim's robeskirt (20599)",
+    "name" : "Ahrim's robeskirt",
     "accuracyMagic" : 22,
     "accuracyRanged" : -7,
     "slot" : 7
@@ -10319,6 +10597,11 @@
     "itemId" : 9948,
     "name" : "Hunter cape",
     "slot" : 1
+  },
+  "29443" : {
+    "itemId" : 29443,
+    "name" : "Egg priest mitre",
+    "slot" : 0
   },
   "27473" : {
     "itemId" : 27473,
@@ -10457,7 +10740,7 @@
     "name" : "Twisted ancestral robe bottom",
     "accuracyMagic" : 26,
     "accuracyRanged" : -7,
-    "strengthMagic" : 2,
+    "strengthMagic" : 3,
     "slot" : 7
   },
   "27444" : {
@@ -10580,18 +10863,6 @@
     "prayer" : 6,
     "slot" : 7
   },
-  "6773" : {
-    "itemId" : 6773,
-    "name" : "Rat pole",
-    "accuracySlash" : -1,
-    "accuracyCrush" : 7,
-    "accuracyMagic" : 4,
-    "strengthMelee" : 3,
-    "speed" : 5,
-    "slot" : 3,
-    "is2h" : true,
-    "weaponCategory" : "BLUNT"
-  },
   "23989" : {
     "itemId" : 23989,
     "name" : "Crystal halberd (inactive)",
@@ -10622,6 +10893,28 @@
     "name" : "Iron sq shield",
     "accuracyMagic" : -6,
     "slot" : 5
+  },
+  "28919" : {
+    "itemId" : 28919,
+    "name" : "Tonalztics of ralos (uncharged)",
+    "accuracyRanged" : 115,
+    "strengthRanged" : 55,
+    "prayer" : 2,
+    "speed" : 7,
+    "slot" : 3,
+    "weaponCategory" : "THROWN"
+  },
+  "6773" : {
+    "itemId" : 6773,
+    "name" : "Rat pole",
+    "accuracySlash" : -1,
+    "accuracyCrush" : 7,
+    "accuracyMagic" : 4,
+    "strengthMelee" : 3,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLUNT"
   },
   "4757" : {
     "itemId" : 4757,
@@ -10692,7 +10985,7 @@
   },
   "28473" : {
     "itemId" : 28473,
-    "name" : "Blood ancient sceptre (l) (28473)",
+    "name" : "Blood ancient sceptre (l)",
     "accuracyStab" : 20,
     "accuracySlash" : -1,
     "accuracyCrush" : 50,
@@ -10897,6 +11190,17 @@
     "slot" : 3,
     "weaponCategory" : "CROSSBOW"
   },
+  "29577" : {
+    "itemId" : 29577,
+    "name" : "Burning claws",
+    "accuracyStab" : 43,
+    "accuracySlash" : 54,
+    "strengthMelee" : 32,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "CLAW"
+  },
   "27430" : {
     "itemId" : 27430,
     "name" : "Robe top of ruin",
@@ -10973,6 +11277,14 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "SLASH_SWORD"
+  },
+  "29067" : {
+    "itemId" : 29067,
+    "name" : "Blood moon chestplate (broken)",
+    "accuracyMagic" : -15,
+    "accuracyRanged" : -10,
+    "strengthMelee" : 4,
+    "slot" : 4
   },
   "23050" : {
     "itemId" : 23050,
@@ -11175,7 +11487,7 @@
   },
   "26162" : {
     "itemId" : 26162,
-    "name" : "Group iron platebody (26162)",
+    "name" : "Group ironman platebody (26162)",
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
@@ -11288,6 +11600,11 @@
     "strengthRanged" : 107,
     "slot" : 13
   },
+  "29493" : {
+    "itemId" : 29493,
+    "name" : "Colourful cape (29493)",
+    "slot" : 1
+  },
   "5013" : {
     "itemId" : 5013,
     "name" : "Mining helmet",
@@ -11396,7 +11713,7 @@
   },
   "26176" : {
     "itemId" : 26176,
-    "name" : "Hardcore group iron platebody (26176)",
+    "name" : "Hardcore group ironman platebody (26176)",
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
@@ -11620,6 +11937,14 @@
     "accuracyRanged" : -1,
     "slot" : 10
   },
+  "29562" : {
+    "itemId" : 29562,
+    "name" : "Elite black platebody",
+    "accuracyMagic" : -30,
+    "accuracyRanged" : -15,
+    "prayer" : 8,
+    "slot" : 4
+  },
   "3689" : {
     "itemId" : 3689,
     "name" : "Lyre",
@@ -11737,7 +12062,7 @@
     "strengthMelee" : -100,
     "speed" : 4,
     "slot" : 3,
-    "weaponCategory" : "BLUNT"
+    "weaponCategory" : "STAB_SWORD"
   },
   "4164" : {
     "itemId" : 4164,
@@ -12029,6 +12354,7 @@
     "name" : "Ahrim's robetop 50",
     "accuracyMagic" : 30,
     "accuracyRanged" : -10,
+    "strengthMagic" : 1,
     "slot" : 4
   },
   "20229" : {
@@ -12041,6 +12367,7 @@
     "itemId" : 12420,
     "name" : "Light infinity top",
     "accuracyMagic" : 22,
+    "strengthMagic" : 1,
     "slot" : 4
   },
   "1167" : {
@@ -12179,6 +12506,11 @@
     "accuracyMagic" : -5,
     "accuracyRanged" : 2,
     "slot" : 7
+  },
+  "29516" : {
+    "itemId" : 29516,
+    "name" : "Colourful crown shirt (29516)",
+    "slot" : 4
   },
   "28070" : {
     "itemId" : 28070,
@@ -12352,7 +12684,7 @@
     "name" : "Virtus mask",
     "accuracyMagic" : 8,
     "accuracyRanged" : -3,
-    "strengthMagic" : 1,
+    "strengthMagic" : 2,
     "prayer" : 1,
     "slot" : 0
   },
@@ -12578,6 +12910,11 @@
     "name" : "Turquoise boots",
     "slot" : 10
   },
+  "29501" : {
+    "itemId" : 29501,
+    "name" : "Colourful cape (29501)",
+    "slot" : 1
+  },
   "10588" : {
     "itemId" : 10588,
     "name" : "Salve amulet (e)",
@@ -12616,6 +12953,7 @@
     "itemId" : 6916,
     "name" : "Infinity top",
     "accuracyMagic" : 22,
+    "strengthMagic" : 1,
     "slot" : 4
   },
   "8774" : {
@@ -12985,6 +13323,11 @@
     "itemId" : 11783,
     "name" : "Black mask (1) (i)",
     "slot" : 0
+  },
+  "29437" : {
+    "itemId" : 29437,
+    "name" : "Egg priest robe",
+    "slot" : 7
   },
   "4952" : {
     "itemId" : 4952,
@@ -13397,6 +13740,14 @@
     "prayer" : 5,
     "slot" : 5
   },
+  "29045" : {
+    "itemId" : 29045,
+    "name" : "Blood moon tassets (29045)",
+    "accuracyMagic" : -21,
+    "accuracyRanged" : -7,
+    "strengthMelee" : 2,
+    "slot" : 7
+  },
   "26758" : {
     "itemId" : 26758,
     "name" : "Superior calamity breeches (l)",
@@ -13411,6 +13762,7 @@
     "itemId" : 6889,
     "name" : "Mage's book",
     "accuracyMagic" : 15,
+    "strengthMagic" : 2,
     "slot" : 5
   },
   "7390" : {
@@ -13440,7 +13792,7 @@
   },
   "27048" : {
     "itemId" : 27048,
-    "name" : "Group iron platebody (unranked)",
+    "name" : "Group ironman platebody (unranked)",
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
@@ -13475,6 +13827,7 @@
     "name" : "Ahrim's robetop 25",
     "accuracyMagic" : 30,
     "accuracyRanged" : -10,
+    "strengthMagic" : 1,
     "slot" : 4
   },
   "10143" : {
@@ -13486,6 +13839,12 @@
   "4302" : {
     "itemId" : 4302,
     "name" : "Ham hood",
+    "slot" : 0
+  },
+  "29566" : {
+    "itemId" : 29566,
+    "name" : "Dark squall hood",
+    "accuracyMagic" : 2,
     "slot" : 0
   },
   "23363" : {
@@ -13592,6 +13951,13 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "SPEAR"
+  },
+  "29822" : {
+    "itemId" : 29822,
+    "name" : "Araxyte slayer helmet (i) (29822)",
+    "accuracyMagic" : 3,
+    "accuracyRanged" : 3,
+    "slot" : 0
   },
   "26743" : {
     "itemId" : 26743,
@@ -13902,7 +14268,7 @@
   },
   "6184" : {
     "itemId" : 6184,
-    "name" : "Prince tunic",
+    "name" : "Royal frog tunic",
     "slot" : 4
   },
   "6465" : {
@@ -14028,19 +14394,12 @@
     "name" : "Defence cape",
     "slot" : 1
   },
-  "3485" : {
-    "itemId" : 3485,
-    "name" : "Gilded plateskirt",
-    "accuracyMagic" : -21,
-    "accuracyRanged" : -11,
-    "slot" : 7
-  },
   "26245" : {
     "itemId" : 26245,
     "name" : "Virtus robe bottom",
     "accuracyMagic" : 26,
     "accuracyRanged" : -9,
-    "strengthMagic" : 1,
+    "strengthMagic" : 2,
     "prayer" : 1,
     "slot" : 7
   },
@@ -14185,6 +14544,11 @@
     "accuracyRanged" : 8,
     "slot" : 4
   },
+  "29512" : {
+    "itemId" : 29512,
+    "name" : "Colourful crown shirt (29512)",
+    "slot" : 4
+  },
   "21063" : {
     "itemId" : 21063,
     "name" : "Graceful hood (21063)",
@@ -14305,11 +14669,11 @@
   "28226" : {
     "itemId" : 28226,
     "name" : "3rd age felling axe",
-    "accuracyStab" : -2,
-    "accuracySlash" : 38,
-    "accuracyCrush" : 32,
-    "strengthMelee" : 42,
-    "speed" : 5,
+    "accuracyStab" : -3,
+    "accuracySlash" : 60,
+    "accuracyCrush" : 51,
+    "strengthMelee" : 67,
+    "speed" : 7,
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "AXE"
@@ -14458,6 +14822,14 @@
     "is2h" : true,
     "weaponCategory" : "BOW"
   },
+  "29064" : {
+    "itemId" : 29064,
+    "name" : "Blue moon helm (broken)",
+    "accuracyMagic" : 6,
+    "strengthMelee" : 3,
+    "strengthMagic" : 1,
+    "slot" : 0
+  },
   "4985" : {
     "itemId" : 4985,
     "name" : "Verac's flail 25",
@@ -14509,6 +14881,11 @@
     "name" : "Iron arrow(p+)",
     "strengthRanged" : 10,
     "slot" : 13
+  },
+  "29505" : {
+    "itemId" : 29505,
+    "name" : "Colourful cape (29505)",
+    "slot" : 1
   },
   "7409" : {
     "itemId" : 7409,
@@ -14600,6 +14977,14 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "STAFF"
+  },
+  "29031" : {
+    "itemId" : 29031,
+    "name" : "Eclipse moon chestplate (29031)",
+    "accuracyMagic" : -15,
+    "accuracyRanged" : 31,
+    "strengthMelee" : 3,
+    "slot" : 4
   },
   "5026" : {
     "itemId" : 5026,
@@ -14834,6 +15219,15 @@
     "name" : "Void melee helm",
     "slot" : 0
   },
+  "29599" : {
+    "itemId" : 29599,
+    "name" : "Corrupted dark bow",
+    "accuracyRanged" : 95,
+    "speed" : 6,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BOW"
+  },
   "28763" : {
     "itemId" : 28763,
     "name" : "Trailblazer reloaded bronze trophy",
@@ -14874,6 +15268,18 @@
     "itemId" : 8925,
     "name" : "Bandana eyepatch (8925)",
     "slot" : 0
+  },
+  "29263" : {
+    "itemId" : 29263,
+    "name" : "Guild hunter headwear",
+    "slot" : 0
+  },
+  "3485" : {
+    "itemId" : 3485,
+    "name" : "Gilded plateskirt",
+    "accuracyMagic" : -21,
+    "accuracyRanged" : -11,
+    "slot" : 7
   },
   "8750" : {
     "itemId" : 8750,
@@ -14948,6 +15354,7 @@
     "itemId" : 12459,
     "name" : "Dark infinity bottoms",
     "accuracyMagic" : 17,
+    "strengthMagic" : 1,
     "slot" : 7
   },
   "20760" : {
@@ -15141,6 +15548,7 @@
     "name" : "Ahrim's robeskirt 25",
     "accuracyMagic" : 22,
     "accuracyRanged" : -7,
+    "strengthMagic" : 1,
     "slot" : 7
   },
   "21255" : {
@@ -15354,7 +15762,7 @@
   },
   "27044" : {
     "itemId" : 27044,
-    "name" : "Group iron platelegs (unranked)",
+    "name" : "Group ironman platelegs (unranked)",
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
@@ -15506,11 +15914,19 @@
     "name" : "Robe top of the eye (green)",
     "slot" : 4
   },
+  "29049" : {
+    "itemId" : 29049,
+    "name" : "Eclipse moon chestplate (broken)",
+    "accuracyMagic" : -15,
+    "accuracyRanged" : 31,
+    "strengthMelee" : 3,
+    "slot" : 4
+  },
   "19720" : {
     "itemId" : 19720,
     "name" : "Occult necklace (or)",
     "accuracyMagic" : 12,
-    "strengthMagic" : 10,
+    "strengthMagic" : 5,
     "prayer" : 2,
     "slot" : 2
   },
@@ -15701,6 +16117,11 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "BLUNT"
+  },
+  "29269" : {
+    "itemId" : 29269,
+    "name" : "Guild hunter boots",
+    "slot" : 10
   },
   "4918" : {
     "itemId" : 4918,
@@ -15900,6 +16321,21 @@
     "strengthRanged" : 82,
     "slot" : 13
   },
+  "28860" : {
+    "itemId" : 28860,
+    "name" : "Polar camo legs (28860)",
+    "accuracyRanged" : -7,
+    "slot" : 7
+  },
+  "29609" : {
+    "itemId" : 29609,
+    "name" : "Volatile nightmare staff (deadman)",
+    "accuracyMagic" : 16,
+    "strengthMagic" : 15,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
+  },
   "1835" : {
     "itemId" : 1835,
     "name" : "Desert robe",
@@ -15927,6 +16363,19 @@
     "strengthRanged" : 10,
     "slot" : 13
   },
+  "4798" : {
+    "itemId" : 4798,
+    "name" : "Adamant brutal",
+    "strengthRanged" : 45,
+    "slot" : 13
+  },
+  "27042" : {
+    "itemId" : 27042,
+    "name" : "Group ironman helm (unranked)",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -3,
+    "slot" : 0
+  },
   "22547" : {
     "itemId" : 22547,
     "name" : "Craw's bow (u)",
@@ -15937,18 +16386,10 @@
     "is2h" : true,
     "weaponCategory" : "BOW"
   },
-  "4798" : {
-    "itemId" : 4798,
-    "name" : "Adamant brutal",
-    "strengthRanged" : 45,
+  "28991" : {
+    "itemId" : 28991,
+    "name" : "Atlatl dart",
     "slot" : 13
-  },
-  "27042" : {
-    "itemId" : 27042,
-    "name" : "Group iron helm (unranked)",
-    "accuracyMagic" : -6,
-    "accuracyRanged" : -3,
-    "slot" : 0
   },
   "3758" : {
     "itemId" : 3758,
@@ -16042,6 +16483,11 @@
     "accuracyMagic" : 15,
     "strengthMagic" : 2,
     "slot" : 12
+  },
+  "29491" : {
+    "itemId" : 29491,
+    "name" : "Colourful cape",
+    "slot" : 1
   },
   "6388" : {
     "itemId" : 6388,
@@ -16174,7 +16620,7 @@
   },
   "27054" : {
     "itemId" : 27054,
-    "name" : "Group iron platebody (unranked) (27054)",
+    "name" : "Group ironman platebody (unranked) (27054)",
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
@@ -16217,6 +16663,11 @@
     "is2h" : true,
     "weaponCategory" : "CLAW"
   },
+  "29509" : {
+    "itemId" : 29509,
+    "name" : "Colourful crown shirt",
+    "slot" : 4
+  },
   "1325" : {
     "itemId" : 1325,
     "name" : "Steel scimitar",
@@ -16248,7 +16699,7 @@
     "name" : "Ancestral robe bottom",
     "accuracyMagic" : 26,
     "accuracyRanged" : -7,
-    "strengthMagic" : 2,
+    "strengthMagic" : 3,
     "slot" : 7
   },
   "8954" : {
@@ -16343,7 +16794,7 @@
   },
   "26156" : {
     "itemId" : 26156,
-    "name" : "Group iron helm",
+    "name" : "Group ironman helm",
     "accuracyMagic" : -6,
     "accuracyRanged" : -3,
     "slot" : 0
@@ -16872,6 +17323,14 @@
     "name" : "Mystic robe top (or)",
     "accuracyMagic" : 20,
     "slot" : 4
+  },
+  "29007" : {
+    "itemId" : 29007,
+    "name" : "Eclipse moon tassets",
+    "accuracyMagic" : -15,
+    "accuracyRanged" : 17,
+    "strengthMelee" : 1,
+    "slot" : 7
   },
   "5678" : {
     "itemId" : 5678,
@@ -17437,6 +17896,15 @@
     "name" : "Ring of dueling(8)",
     "slot" : 12
   },
+  "29806" : {
+    "itemId" : 29806,
+    "name" : "Aranea boots",
+    "accuracyMagic" : 5,
+    "accuracyRanged" : 6,
+    "strengthMelee" : 4,
+    "prayer" : 1,
+    "slot" : 10
+  },
   "20838" : {
     "itemId" : 20838,
     "name" : "Corrupted helm",
@@ -17673,6 +18141,7 @@
     "name" : "Ahrim's hood 25",
     "accuracyMagic" : 6,
     "accuracyRanged" : -2,
+    "strengthMagic" : 1,
     "slot" : 0
   },
   "6373" : {
@@ -17683,6 +18152,14 @@
   "26771" : {
     "itemId" : 26771,
     "name" : "Black mask (10) (i) (26771)",
+    "slot" : 0
+  },
+  "29073" : {
+    "itemId" : 29073,
+    "name" : "Blood moon helm (broken)",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -2,
+    "strengthMelee" : 4,
     "slot" : 0
   },
   "28736" : {
@@ -17878,6 +18355,7 @@
     "itemId" : 6918,
     "name" : "Infinity hat",
     "accuracyMagic" : 6,
+    "strengthMagic" : 1,
     "slot" : 0
   },
   "5690" : {
@@ -17939,6 +18417,14 @@
     "name" : "Crystal body (inactive) (27759)",
     "slot" : 4
   },
+  "29033" : {
+    "itemId" : 29033,
+    "name" : "Eclipse moon tassets (29033)",
+    "accuracyMagic" : -15,
+    "accuracyRanged" : 17,
+    "strengthMelee" : 1,
+    "slot" : 7
+  },
   "8958" : {
     "itemId" : 8958,
     "name" : "Grey naval shirt",
@@ -17993,7 +18479,7 @@
   },
   "26170" : {
     "itemId" : 26170,
-    "name" : "Hardcore group iron helm",
+    "name" : "Hardcore group ironman helm",
     "accuracyMagic" : -6,
     "accuracyRanged" : -3,
     "slot" : 0
@@ -18299,6 +18785,13 @@
     "strengthRanged" : 10,
     "slot" : 13
   },
+  "29617" : {
+    "itemId" : 29617,
+    "name" : "Imbued saradomin cape (deadman)",
+    "accuracyMagic" : 15,
+    "strengthMagic" : 2,
+    "slot" : 1
+  },
   "20000" : {
     "itemId" : 20000,
     "name" : "Dragon scimitar (or)",
@@ -18367,6 +18860,14 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "SLASH_SWORD"
+  },
+  "29055" : {
+    "itemId" : 29055,
+    "name" : "Eclipse moon helm (broken)",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : 8,
+    "strengthMelee" : 3,
+    "slot" : 0
   },
   "5645" : {
     "itemId" : 5645,
@@ -18459,6 +18960,13 @@
     "name" : "Imbued guthix max hood",
     "slot" : 0
   },
+  "28069" : {
+    "itemId" : 28069,
+    "name" : "Fighter torso (l)(or)",
+    "accuracyMagic" : -40,
+    "strengthMelee" : 4,
+    "slot" : 4
+  },
   "1203" : {
     "itemId" : 1203,
     "name" : "Iron dagger",
@@ -18471,12 +18979,10 @@
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
   },
-  "28069" : {
-    "itemId" : 28069,
-    "name" : "Fighter torso (l)(or)",
-    "accuracyMagic" : -40,
-    "strengthMelee" : 4,
-    "slot" : 4
+  "29433" : {
+    "itemId" : 29433,
+    "name" : "Book of egg",
+    "slot" : 5
   },
   "22496" : {
     "itemId" : 22496,
@@ -18644,6 +19150,12 @@
     "slot" : 3,
     "weaponCategory" : "CROSSBOW"
   },
+  "28854" : {
+    "itemId" : 28854,
+    "name" : "Desert camo legs (28854)",
+    "accuracyRanged" : -7,
+    "slot" : 7
+  },
   "22121" : {
     "itemId" : 22121,
     "name" : "Wrath tiara",
@@ -18781,6 +19293,7 @@
     "itemId" : 20520,
     "name" : "Elder chaos robe",
     "accuracyMagic" : 6,
+    "strengthMagic" : 1,
     "slot" : 7
   },
   "6328" : {
@@ -18902,7 +19415,7 @@
   },
   "6186" : {
     "itemId" : 6186,
-    "name" : "Princess blouse",
+    "name" : "Royal frog blouse",
     "slot" : 4
   },
   "23218" : {
@@ -19007,11 +19520,13 @@
     "name" : "Brown apron",
     "slot" : 4
   },
-  "887" : {
-    "itemId" : 887,
-    "name" : "Steel arrow(p)",
-    "strengthRanged" : 16,
-    "slot" : 13
+  "29043" : {
+    "itemId" : 29043,
+    "name" : "Blood moon chestplate (29043)",
+    "accuracyMagic" : -15,
+    "accuracyRanged" : -10,
+    "strengthMelee" : 4,
+    "slot" : 4
   },
   "21434" : {
     "itemId" : 21434,
@@ -19213,6 +19728,7 @@
     "itemId" : 23652,
     "name" : "Mage's book (23652)",
     "accuracyMagic" : 15,
+    "strengthMagic" : 2,
     "slot" : 5
   },
   "9729" : {
@@ -19240,6 +19756,7 @@
     "itemId" : 27115,
     "name" : "Elder chaos top (or)",
     "accuracyMagic" : 10,
+    "strengthMagic" : 1,
     "slot" : 4
   },
   "28537" : {
@@ -19315,6 +19832,15 @@
     "speed" : 5,
     "slot" : 3,
     "weaponCategory" : "PICKAXE"
+  },
+  "29602" : {
+    "itemId" : 29602,
+    "name" : "Corrupted volatile nightmare staff",
+    "accuracyMagic" : 16,
+    "strengthMagic" : 15,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
   },
   "21087" : {
     "itemId" : 21087,
@@ -19563,6 +20089,14 @@
     "name" : "Shattered boots (t3)",
     "slot" : 10
   },
+  "29010" : {
+    "itemId" : 29010,
+    "name" : "Eclipse moon helm",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : 8,
+    "strengthMelee" : 3,
+    "slot" : 0
+  },
   "28792" : {
     "itemId" : 28792,
     "name" : "Bone mace",
@@ -19735,6 +20269,20 @@
     "name" : "Gilded sq shield",
     "accuracyMagic" : -6,
     "slot" : 5
+  },
+  "29037" : {
+    "itemId" : 29037,
+    "name" : "Blue moon chestplate (29037)",
+    "accuracyMagic" : 30,
+    "strengthMelee" : 2,
+    "strengthMagic" : 1,
+    "slot" : 4
+  },
+  "887" : {
+    "itemId" : 887,
+    "name" : "Steel arrow(p)",
+    "strengthRanged" : 16,
+    "slot" : 13
   },
   "6809" : {
     "itemId" : 6809,
@@ -19943,6 +20491,17 @@
     "accuracyRanged" : -2,
     "slot" : 0
   },
+  "29084" : {
+    "itemId" : 29084,
+    "name" : "Sulphur blades",
+    "accuracyStab" : 11,
+    "accuracySlash" : 72,
+    "strengthMelee" : 64,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "SLASH_SWORD"
+  },
   "22981" : {
     "itemId" : 22981,
     "name" : "Ferocious gloves",
@@ -19997,6 +20556,11 @@
     "name" : "Archers ring (i) (26768)",
     "accuracyRanged" : 8,
     "slot" : 12
+  },
+  "28949" : {
+    "itemId" : 28949,
+    "name" : "Dizana's quiver (uncharged) (l)",
+    "slot" : 1
   },
   "28718" : {
     "itemId" : 28718,
@@ -20122,6 +20686,13 @@
     "name" : "Graceful top (27452)",
     "slot" : 4
   },
+  "29613" : {
+    "itemId" : 29613,
+    "name" : "Imbued zamorak cape (deadman)",
+    "accuracyMagic" : 15,
+    "strengthMagic" : 2,
+    "slot" : 1
+  },
   "23789" : {
     "itemId" : 23789,
     "name" : "Ardougne knight platelegs",
@@ -20143,7 +20714,7 @@
   },
   "26160" : {
     "itemId" : 26160,
-    "name" : "Group iron platebody (26160)",
+    "name" : "Group ironman platebody (26160)",
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
@@ -20176,6 +20747,14 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "BLUNT"
+  },
+  "29560" : {
+    "itemId" : 29560,
+    "name" : "Elite black full helm",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -3,
+    "prayer" : 4,
+    "slot" : 0
   },
   "26854" : {
     "itemId" : 26854,
@@ -20552,6 +21131,7 @@
     "accuracyMagic" : 15,
     "accuracyRanged" : -10,
     "strengthMelee" : -2,
+    "strengthMagic" : 2,
     "slot" : 5
   },
   "13624" : {
@@ -20669,6 +21249,13 @@
     "accuracyMagic" : 8,
     "accuracyRanged" : 11,
     "slot" : 7
+  },
+  "28906" : {
+    "itemId" : 28906,
+    "name" : "Dizana's max cape (l)",
+    "accuracyRanged" : 18,
+    "strengthRanged" : 3,
+    "slot" : 1
   },
   "853" : {
     "itemId" : 853,
@@ -20806,6 +21393,7 @@
     "name" : "Ahrim's robetop 75",
     "accuracyMagic" : 30,
     "accuracyRanged" : -10,
+    "strengthMagic" : 1,
     "slot" : 4
   },
   "11966" : {
@@ -20850,11 +21438,6 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "BANNER"
-  },
-  "27463" : {
-    "itemId" : 27463,
-    "name" : "Treat cauldron",
-    "slot" : 5
   },
   "24428" : {
     "itemId" : 24428,
@@ -20948,6 +21531,17 @@
     "name" : "Camel mask",
     "slot" : 0
   },
+  "27463" : {
+    "itemId" : 27463,
+    "name" : "Treat cauldron",
+    "slot" : 5
+  },
+  "28837" : {
+    "itemId" : 28837,
+    "name" : "Irit tar",
+    "strengthRanged" : 60,
+    "slot" : 13
+  },
   "5044" : {
     "itemId" : 5044,
     "name" : "Shorts (5044)",
@@ -20984,6 +21578,13 @@
     "slot" : 3,
     "weaponCategory" : "STAFF"
   },
+  "29816" : {
+    "itemId" : 29816,
+    "name" : "Araxyte slayer helmet",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -2,
+    "slot" : 0
+  },
   "27125" : {
     "itemId" : 27125,
     "name" : "Dagon'hai robe top (or)",
@@ -21019,6 +21620,14 @@
     "strengthRanged" : 22,
     "slot" : 13
   },
+  "29022" : {
+    "itemId" : 29022,
+    "name" : "Blood moon chestplate",
+    "accuracyMagic" : -15,
+    "accuracyRanged" : -10,
+    "strengthMelee" : 4,
+    "slot" : 4
+  },
   "9292" : {
     "itemId" : 9292,
     "name" : "Silver bolts (p)",
@@ -21042,6 +21651,11 @@
     "accuracyRanged" : -3,
     "slot" : 0
   },
+  "29777" : {
+    "itemId" : 29777,
+    "name" : "Bruma torch (off-hand)",
+    "slot" : 5
+  },
   "22816" : {
     "itemId" : 22816,
     "name" : "Cormorant's glove",
@@ -21053,6 +21667,7 @@
     "itemId" : 24288,
     "name" : "Dagon'hai hat",
     "accuracyMagic" : 5,
+    "strengthMagic" : 1,
     "prayer" : 2,
     "slot" : 0
   },
@@ -21227,7 +21842,7 @@
   },
   "6185" : {
     "itemId" : 6185,
-    "name" : "Prince leggings",
+    "name" : "Royal frog leggings",
     "slot" : 7
   },
   "7141" : {
@@ -21244,7 +21859,7 @@
   "22846" : {
     "itemId" : 22846,
     "name" : "Pearl fishing rod",
-    "speed" : 5,
+    "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "UNARMED"
   },
@@ -21292,6 +21907,15 @@
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
   },
+  "28945" : {
+    "itemId" : 28945,
+    "name" : "Echo boots",
+    "accuracyMagic" : -3,
+    "accuracyRanged" : -1,
+    "strengthMelee" : 3,
+    "prayer" : 4,
+    "slot" : 10
+  },
   "26723" : {
     "itemId" : 26723,
     "name" : "Wristbands of the arena",
@@ -21313,6 +21937,7 @@
     "name" : "Ahrim's hood",
     "accuracyMagic" : 6,
     "accuracyRanged" : -2,
+    "strengthMagic" : 1,
     "slot" : 0
   },
   "4359" : {
@@ -21402,6 +22027,12 @@
     "name" : "Prospector jacket",
     "slot" : 4
   },
+  "29570" : {
+    "itemId" : 29570,
+    "name" : "Dark squall robe bottom",
+    "accuracyMagic" : 3,
+    "slot" : 7
+  },
   "10466" : {
     "itemId" : 10466,
     "name" : "Guthix robe legs",
@@ -21481,7 +22112,7 @@
   "22844" : {
     "itemId" : 22844,
     "name" : "Pearl fly fishing rod",
-    "speed" : 5,
+    "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "UNARMED"
   },
@@ -21588,6 +22219,7 @@
     "name" : "Ahrim's robeskirt",
     "accuracyMagic" : 22,
     "accuracyRanged" : -7,
+    "strengthMagic" : 1,
     "slot" : 7
   },
   "1040" : {
@@ -22124,6 +22756,7 @@
     "itemId" : 12419,
     "name" : "Light infinity hat",
     "accuracyMagic" : 6,
+    "strengthMagic" : 1,
     "slot" : 0
   },
   "26235" : {
@@ -22232,12 +22865,6 @@
     "name" : "Medical gown",
     "slot" : 4
   },
-  "6062" : {
-    "itemId" : 6062,
-    "name" : "Bronze bolts (p++)",
-    "strengthRanged" : 10,
-    "slot" : 13
-  },
   "23626" : {
     "itemId" : 23626,
     "name" : "Kodai wand (23626)",
@@ -22269,6 +22896,18 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "BOW"
+  },
+  "6062" : {
+    "itemId" : 6062,
+    "name" : "Bronze bolts (p++)",
+    "strengthRanged" : 10,
+    "slot" : 13
+  },
+  "28842" : {
+    "itemId" : 28842,
+    "name" : "Wood camo legs (28842)",
+    "accuracyRanged" : -7,
+    "slot" : 7
   },
   "1033" : {
     "itemId" : 1033,
@@ -22326,11 +22965,6 @@
     "is2h" : true,
     "weaponCategory" : "SPEAR"
   },
-  "9788" : {
-    "itemId" : 9788,
-    "name" : "Slayer hood",
-    "slot" : 0
-  },
   "4411" : {
     "itemId" : 4411,
     "name" : "Team-49 cape",
@@ -22361,6 +22995,18 @@
     "name" : "Ring of the gods (i) (26764)",
     "prayer" : 8,
     "slot" : 12
+  },
+  "9788" : {
+    "itemId" : 9788,
+    "name" : "Slayer hood",
+    "slot" : 0
+  },
+  "28902" : {
+    "itemId" : 28902,
+    "name" : "Dizana's max cape",
+    "accuracyRanged" : 18,
+    "strengthRanged" : 3,
+    "slot" : 1
   },
   "6341" : {
     "itemId" : 6341,
@@ -22398,10 +23044,25 @@
     "name" : "Purple boots",
     "slot" : 10
   },
+  "29495" : {
+    "itemId" : 29495,
+    "name" : "Colourful cape (29495)",
+    "slot" : 1
+  },
   "7535" : {
     "itemId" : 7535,
     "name" : "Diving apparatus",
     "slot" : 1
+  },
+  "29589" : {
+    "itemId" : 29589,
+    "name" : "Emberlight",
+    "accuracyStab" : 63,
+    "accuracySlash" : 70,
+    "strengthMelee" : 13,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SLASH_SWORD"
   },
   "13221" : {
     "itemId" : 13221,
@@ -22571,6 +23232,7 @@
     "name" : "Ahrim's robeskirt 50",
     "accuracyMagic" : 22,
     "accuracyRanged" : -7,
+    "strengthMagic" : 1,
     "slot" : 7
   },
   "26753" : {
@@ -22606,6 +23268,12 @@
     "accuracyMagic" : -8,
     "accuracyRanged" : -3,
     "slot" : 5
+  },
+  "28848" : {
+    "itemId" : 28848,
+    "name" : "Jungle camo legs (28848)",
+    "accuracyRanged" : -7,
+    "slot" : 7
   },
   "28122" : {
     "itemId" : 28122,
@@ -23048,6 +23716,7 @@
     "itemId" : 25413,
     "name" : "Bloodbark helm",
     "accuracyMagic" : 5,
+    "strengthMagic" : 1,
     "slot" : 0
   },
   "1159" : {
@@ -23386,6 +24055,7 @@
     "itemId" : 12421,
     "name" : "Light infinity bottoms",
     "accuracyMagic" : 17,
+    "strengthMagic" : 1,
     "slot" : 7
   },
   "25346" : {
@@ -23523,6 +24193,7 @@
     "itemId" : 12458,
     "name" : "Dark infinity top",
     "accuracyMagic" : 22,
+    "strengthMagic" : 1,
     "slot" : 4
   },
   "1211" : {
@@ -24474,8 +25145,20 @@
   },
   "27046" : {
     "itemId" : 27046,
-    "name" : "Group iron bracers (unranked)",
+    "name" : "Group ironman bracers (unranked)",
     "slot" : 9
+  },
+  "29801" : {
+    "itemId" : 29801,
+    "name" : "Amulet of rancour",
+    "accuracyStab" : 25,
+    "accuracySlash" : 25,
+    "accuracyCrush" : 25,
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -8,
+    "strengthMelee" : 12,
+    "prayer" : 2,
+    "slot" : 2
   },
   "13285" : {
     "itemId" : 13285,
@@ -24497,10 +25180,18 @@
   },
   "26174" : {
     "itemId" : 26174,
-    "name" : "Hardcore group iron platebody (26174)",
+    "name" : "Hardcore group ironman platebody (26174)",
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
+  },
+  "29028" : {
+    "itemId" : 29028,
+    "name" : "Blood moon helm",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -2,
+    "strengthMelee" : 4,
+    "slot" : 0
   },
   "27551" : {
     "itemId" : 27551,
@@ -24644,14 +25335,14 @@
   },
   "27052" : {
     "itemId" : 27052,
-    "name" : "Group iron platebody (unranked) (27052)",
+    "name" : "Group ironman platebody (unranked) (27052)",
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
   },
   "26168" : {
     "itemId" : 26168,
-    "name" : "Group iron bracers",
+    "name" : "Group ironman bracers",
     "slot" : 9
   },
   "20730" : {
@@ -24766,6 +25457,16 @@
     "slot" : 3,
     "is2h" : true,
     "weaponCategory" : "UNARMED"
+  },
+  "29591" : {
+    "itemId" : 29591,
+    "name" : "Scorching bow",
+    "accuracyRanged" : 124,
+    "strengthRanged" : 40,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BOW"
   },
   "12902" : {
     "itemId" : 12902,
@@ -25026,6 +25727,11 @@
     "itemId" : 26836,
     "name" : "Abyssal lantern (oak logs)",
     "slot" : 5
+  },
+  "29267" : {
+    "itemId" : 29267,
+    "name" : "Guild hunter legs",
+    "slot" : 7
   },
   "25207" : {
     "itemId" : 25207,
@@ -25695,7 +26401,7 @@
   },
   "25518" : {
     "itemId" : 25518,
-    "name" : "Ancestral hat (25518)",
+    "name" : "Ancestral hat",
     "accuracyMagic" : 8,
     "accuracyRanged" : -2,
     "strengthMagic" : 2,
@@ -25734,7 +26440,7 @@
     "name" : "Ancestral hat",
     "accuracyMagic" : 8,
     "accuracyRanged" : -2,
-    "strengthMagic" : 2,
+    "strengthMagic" : 3,
     "slot" : 0
   },
   "27029" : {
@@ -25809,6 +26515,7 @@
     "name" : "Ahrim's robetop 100",
     "accuracyMagic" : 30,
     "accuracyRanged" : -10,
+    "strengthMagic" : 1,
     "slot" : 4
   },
   "23276" : {
@@ -26123,6 +26830,11 @@
     "name" : "Flower crown (27153)",
     "slot" : 0
   },
+  "28851" : {
+    "itemId" : 28851,
+    "name" : "Desert camo top (28851)",
+    "slot" : 4
+  },
   "23821" : {
     "itemId" : 23821,
     "name" : "Corrupted axe",
@@ -26191,6 +26903,11 @@
     "itemId" : 7388,
     "name" : "Blue skirt (t)",
     "slot" : 7
+  },
+  "28845" : {
+    "itemId" : 28845,
+    "name" : "Jungle camo top (28845)",
+    "slot" : 4
   },
   "1708" : {
     "itemId" : 1708,
@@ -26318,7 +27035,7 @@
   },
   "23644" : {
     "itemId" : 23644,
-    "name" : "Eternal boots (23644)",
+    "name" : "Eternal boots",
     "accuracyMagic" : 8,
     "slot" : 10
   },
@@ -26347,16 +27064,6 @@
     "strengthRanged" : 28,
     "slot" : 13
   },
-  "12426" : {
-    "itemId" : 12426,
-    "name" : "3rd age longsword",
-    "accuracySlash" : 72,
-    "accuracyCrush" : 60,
-    "strengthMelee" : 75,
-    "speed" : 5,
-    "slot" : 3,
-    "weaponCategory" : "TWO_HANDED_SWORD"
-  },
   "27127" : {
     "itemId" : 27127,
     "name" : "Dagon'hai robe bottom (or)",
@@ -26374,6 +27081,7 @@
     "name" : "Ahrim's hood 100",
     "accuracyMagic" : 6,
     "accuracyRanged" : -2,
+    "strengthMagic" : 1,
     "slot" : 0
   },
   "6599" : {
@@ -26419,18 +27127,6 @@
     "strengthRanged" : 6,
     "slot" : 4
   },
-  "1225" : {
-    "itemId" : 1225,
-    "name" : "Mithril dagger(p)",
-    "accuracyStab" : 11,
-    "accuracySlash" : 5,
-    "accuracyCrush" : -4,
-    "accuracyMagic" : 1,
-    "strengthMelee" : 10,
-    "speed" : 4,
-    "slot" : 3,
-    "weaponCategory" : "STAB_SWORD"
-  },
   "19988" : {
     "itemId" : 19988,
     "name" : "Blacksmith's helm",
@@ -26459,6 +27155,28 @@
     "name" : "Dragon bolts (p)",
     "strengthRanged" : 122,
     "slot" : 13
+  },
+  "1225" : {
+    "itemId" : 1225,
+    "name" : "Mithril dagger(p)",
+    "accuracyStab" : 11,
+    "accuracySlash" : 5,
+    "accuracyCrush" : -4,
+    "accuracyMagic" : 1,
+    "strengthMelee" : 10,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "STAB_SWORD"
+  },
+  "29000" : {
+    "itemId" : 29000,
+    "name" : "Eclipse atlatl",
+    "accuracyRanged" : 87,
+    "strengthMelee" : 40,
+    "speed" : 4,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "THROWN"
   },
   "11898" : {
     "itemId" : 11898,
@@ -26903,6 +27621,14 @@
     "slot" : 3,
     "weaponCategory" : "CROSSBOW"
   },
+  "29564" : {
+    "itemId" : 29564,
+    "name" : "Elite black platelegs",
+    "accuracyMagic" : -21,
+    "accuracyRanged" : -11,
+    "prayer" : 6,
+    "slot" : 7
+  },
   "27828" : {
     "itemId" : 27828,
     "name" : "Silver partyhat",
@@ -26978,6 +27704,17 @@
     "name" : "Fremennik gloves",
     "slot" : 9
   },
+  "28834" : {
+    "itemId" : 28834,
+    "name" : "Tecu salamander",
+    "accuracySlash" : 77,
+    "accuracyRanged" : 87,
+    "strengthMelee" : 91,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "SALAMANDER"
+  },
   "6279" : {
     "itemId" : 6279,
     "name" : "Broodoo shield (6279)",
@@ -27045,6 +27782,7 @@
     "itemId" : 25416,
     "name" : "Bloodbark legs",
     "accuracyMagic" : 16,
+    "strengthMagic" : 1,
     "slot" : 7
   },
   "23611" : {
@@ -27065,6 +27803,7 @@
     "itemId" : 24291,
     "name" : "Dagon'hai robe top",
     "accuracyMagic" : 25,
+    "strengthMagic" : 1,
     "prayer" : 2,
     "slot" : 4
   },
@@ -27229,6 +27968,7 @@
     "itemId" : 24294,
     "name" : "Dagon'hai robe bottom",
     "accuracyMagic" : 18,
+    "strengthMagic" : 1,
     "prayer" : 2,
     "slot" : 7
   },
@@ -27354,6 +28094,14 @@
     "name" : "Cow gloves",
     "slot" : 9
   },
+  "28939" : {
+    "itemId" : 28939,
+    "name" : "Sunfire fanatic chausses",
+    "accuracyMagic" : -4,
+    "accuracyRanged" : -11,
+    "prayer" : 8,
+    "slot" : 7
+  },
   "875" : {
     "itemId" : 875,
     "name" : "Adamant knife(p)",
@@ -27402,6 +28150,24 @@
     "itemId" : 21432,
     "name" : "Wilderness cape (21432)",
     "slot" : 1
+  },
+  "12426" : {
+    "itemId" : 12426,
+    "name" : "3rd age longsword",
+    "accuracySlash" : 72,
+    "accuracyCrush" : 60,
+    "strengthMelee" : 75,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "TWO_HANDED_SWORD"
+  },
+  "29039" : {
+    "itemId" : 29039,
+    "name" : "Blue moon tassets (29039)",
+    "accuracyMagic" : 22,
+    "strengthMelee" : 1,
+    "strengthMagic" : 1,
+    "slot" : 7
   },
   "4503" : {
     "itemId" : 4503,
@@ -27458,7 +28224,7 @@
     "name" : "Virtus robe top",
     "accuracyMagic" : 35,
     "accuracyRanged" : -11,
-    "strengthMagic" : 1,
+    "strengthMagic" : 2,
     "prayer" : 2,
     "slot" : 4
   },
@@ -27570,7 +28336,7 @@
   },
   "26182" : {
     "itemId" : 26182,
-    "name" : "Hardcore group iron bracers",
+    "name" : "Hardcore group ironman bracers",
     "slot" : 9
   },
   "10958" : {
@@ -27637,6 +28403,11 @@
     "name" : "Purple hat",
     "accuracyMagic" : 3,
     "slot" : 0
+  },
+  "29507" : {
+    "itemId" : 29507,
+    "name" : "Rainbow crown shirt",
+    "slot" : 4
   },
   "1173" : {
     "itemId" : 1173,
@@ -27860,8 +28631,13 @@
     "name" : "Twisted ancestral robe top",
     "accuracyMagic" : 35,
     "accuracyRanged" : -8,
-    "strengthMagic" : 2,
+    "strengthMagic" : 3,
     "slot" : 4
+  },
+  "29441" : {
+    "itemId" : 29441,
+    "name" : "Egg priest necklace",
+    "slot" : 2
   },
   "24321" : {
     "itemId" : 24321,
@@ -27986,6 +28762,16 @@
     "itemId" : 6860,
     "name" : "Tri-jester hat",
     "slot" : 0
+  },
+  "29283" : {
+    "itemId" : 29283,
+    "name" : "Mixed hide legs",
+    "accuracyStab" : 3,
+    "accuracySlash" : -1,
+    "accuracyCrush" : -2,
+    "accuracyMagic" : -10,
+    "accuracyRanged" : 14,
+    "slot" : 7
   },
   "4730" : {
     "itemId" : 4730,
@@ -28423,6 +29209,14 @@
     "slot" : 3,
     "weaponCategory" : "THROWN"
   },
+  "29004" : {
+    "itemId" : 29004,
+    "name" : "Eclipse moon chestplate",
+    "accuracyMagic" : -15,
+    "accuracyRanged" : 31,
+    "strengthMelee" : 3,
+    "slot" : 4
+  },
   "10826" : {
     "itemId" : 10826,
     "name" : "Neitiznot shield",
@@ -28705,6 +29499,11 @@
     "itemId" : 13607,
     "name" : "Graceful top (13607)",
     "slot" : 4
+  },
+  "29499" : {
+    "itemId" : 29499,
+    "name" : "Colourful cape (29499)",
+    "slot" : 1
   },
   "6070" : {
     "itemId" : 6070,
@@ -29037,11 +29836,10 @@
     "name" : "Bobble scarf",
     "slot" : 2
   },
-  "9796" : {
-    "itemId" : 9796,
-    "name" : "Smithing cape(t)",
-    "prayer" : 4,
-    "slot" : 1
+  "29774" : {
+    "itemId" : 29774,
+    "name" : "Amy's saw (off-hand)",
+    "slot" : 5
   },
   "1195" : {
     "itemId" : 1195,
@@ -29062,6 +29860,20 @@
     "is2h" : true,
     "weaponCategory" : "SPEAR"
   },
+  "28933" : {
+    "itemId" : 28933,
+    "name" : "Sunfire fanatic helm",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -3,
+    "prayer" : 6,
+    "slot" : 0
+  },
+  "9796" : {
+    "itemId" : 9796,
+    "name" : "Smithing cape(t)",
+    "prayer" : 4,
+    "slot" : 1
+  },
   "1021" : {
     "itemId" : 1021,
     "name" : "Blue cape",
@@ -29078,7 +29890,20 @@
     "itemId" : 27117,
     "name" : "Elder chaos robe (or)",
     "accuracyMagic" : 6,
+    "strengthMagic" : 1,
     "slot" : 7
+  },
+  "29804" : {
+    "itemId" : 29804,
+    "name" : "Amulet of rancour (s)",
+    "accuracyStab" : 25,
+    "accuracySlash" : 25,
+    "accuracyCrush" : 25,
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -8,
+    "strengthMelee" : 12,
+    "prayer" : 2,
+    "slot" : 2
   },
   "1327" : {
     "itemId" : 1327,
@@ -29128,6 +29953,7 @@
     "accuracyCrush" : -8,
     "accuracyMagic" : 12,
     "accuracyRanged" : -12,
+    "strengthMagic" : 2,
     "slot" : 5
   },
   "11377" : {
@@ -29225,6 +30051,18 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "STAB_SWORD"
+  },
+  "29607" : {
+    "itemId" : 29607,
+    "name" : "Voidwaker (deadman)",
+    "accuracyStab" : 70,
+    "accuracySlash" : 80,
+    "accuracyCrush" : -2,
+    "accuracyMagic" : 5,
+    "strengthMelee" : 80,
+    "speed" : 4,
+    "slot" : 3,
+    "weaponCategory" : "SLASH_SWORD"
   },
   "74" : {
     "itemId" : 74,
@@ -29376,6 +30214,13 @@
     "accuracyMagic" : -21,
     "accuracyRanged" : -11,
     "slot" : 7
+  },
+  "28955" : {
+    "itemId" : 28955,
+    "name" : "Blessed dizana's quiver",
+    "accuracyRanged" : 18,
+    "strengthRanged" : 3,
+    "slot" : 1
   },
   "4107" : {
     "itemId" : 4107,
@@ -29649,6 +30494,15 @@
     "strengthRanged" : 55,
     "slot" : 13
   },
+  "29611" : {
+    "itemId" : 29611,
+    "name" : "Dark bow (deadman)",
+    "accuracyRanged" : 95,
+    "speed" : 9,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BOW"
+  },
   "8682" : {
     "itemId" : 8682,
     "name" : "Steel heraldic helm",
@@ -29810,6 +30664,11 @@
     "name" : "Steel sq shield",
     "accuracyMagic" : -6,
     "slot" : 5
+  },
+  "29503" : {
+    "itemId" : 29503,
+    "name" : "Colourful cape (29503)",
+    "slot" : 1
   },
   "20196" : {
     "itemId" : 20196,
@@ -29989,6 +30848,21 @@
     "accuracyRanged" : -3,
     "slot" : 0
   },
+  "3775" : {
+    "itemId" : 3775,
+    "name" : "Fremennik blue shirt",
+    "slot" : 4
+  },
+  "28922" : {
+    "itemId" : 28922,
+    "name" : "Tonalztics of ralos",
+    "accuracyRanged" : 115,
+    "strengthRanged" : 55,
+    "prayer" : 2,
+    "speed" : 7,
+    "slot" : 3,
+    "weaponCategory" : "THROWN"
+  },
   "23893" : {
     "itemId" : 23893,
     "name" : "Crystal legs (attuned)",
@@ -30000,9 +30874,9 @@
     "prayer" : 3,
     "slot" : 7
   },
-  "3775" : {
-    "itemId" : 3775,
-    "name" : "Fremennik blue shirt",
+  "29511" : {
+    "itemId" : 29511,
+    "name" : "Colourful crown shirt (29511)",
     "slot" : 4
   },
   "626" : {
@@ -30041,7 +30915,7 @@
   },
   "26178" : {
     "itemId" : 26178,
-    "name" : "Hardcore group iron platebody (26178)",
+    "name" : "Hardcore group ironman platebody (26178)",
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
@@ -30093,6 +30967,14 @@
     "name" : "Dragon sq shield (g)",
     "accuracyMagic" : -6,
     "slot" : 5
+  },
+  "29286" : {
+    "itemId" : 29286,
+    "name" : "Mixed hide boots",
+    "accuracyMagic" : -10,
+    "accuracyRanged" : 5,
+    "strengthMelee" : 2,
+    "slot" : 10
   },
   "12243" : {
     "itemId" : 12243,
@@ -30197,6 +31079,14 @@
     "itemId" : 28609,
     "name" : "Spider hat (28609)",
     "slot" : 0
+  },
+  "29070" : {
+    "itemId" : 29070,
+    "name" : "Blood moon tassets (broken)",
+    "accuracyMagic" : -21,
+    "accuracyRanged" : -7,
+    "strengthMelee" : 2,
+    "slot" : 7
   },
   "20710" : {
     "itemId" : 20710,
@@ -30310,18 +31200,6 @@
     "name" : "Void knight top (l)(or)",
     "slot" : 4
   },
-  "11998" : {
-    "itemId" : 11998,
-    "name" : "Smoke battlestaff",
-    "accuracyStab" : 7,
-    "accuracySlash" : -1,
-    "accuracyCrush" : 28,
-    "accuracyMagic" : 12,
-    "strengthMelee" : 35,
-    "speed" : 5,
-    "slot" : 3,
-    "weaponCategory" : "STAFF"
-  },
   "28531" : {
     "itemId" : 28531,
     "name" : "Corrupted voidwaker",
@@ -30415,6 +31293,28 @@
     "name" : "Adventurer's boots (t3)",
     "slot" : 10
   },
+  "29305" : {
+    "itemId" : 29305,
+    "name" : "Hunter's spear",
+    "accuracyRanged" : 73,
+    "strengthMelee" : 48,
+    "prayer" : 1,
+    "speed" : 6,
+    "slot" : 3,
+    "weaponCategory" : "THROWN"
+  },
+  "11998" : {
+    "itemId" : 11998,
+    "name" : "Smoke battlestaff",
+    "accuracyStab" : 7,
+    "accuracySlash" : -1,
+    "accuracyCrush" : 28,
+    "accuracyMagic" : 12,
+    "strengthMelee" : 35,
+    "speed" : 5,
+    "slot" : 3,
+    "weaponCategory" : "STAFF"
+  },
   "23785" : {
     "itemId" : 23785,
     "name" : "Ardougne knight helm",
@@ -30460,7 +31360,7 @@
   },
   "26164" : {
     "itemId" : 26164,
-    "name" : "Group iron platebody (26164)",
+    "name" : "Group ironman platebody (26164)",
     "accuracyMagic" : -30,
     "accuracyRanged" : -15,
     "slot" : 4
@@ -30729,6 +31629,7 @@
     "itemId" : 13235,
     "name" : "Eternal boots",
     "accuracyMagic" : 8,
+    "strengthMagic" : 1,
     "slot" : 10
   },
   "25376" : {
@@ -31020,6 +31921,14 @@
     "accuracyRanged" : 6,
     "slot" : 7
   },
+  "27194" : {
+    "itemId" : 27194,
+    "name" : "Ancestral robe bottom (Last Man Standing)",
+    "accuracyMagic" : 26,
+    "accuracyRanged" : -7,
+    "strengthMagic" : 4,
+    "slot" : 7
+  },
   "13589" : {
     "itemId" : 13589,
     "name" : "Graceful boots (13589)",
@@ -31134,6 +32043,7 @@
     "name" : "Ahrim's robeskirt 75",
     "accuracyMagic" : 22,
     "accuracyRanged" : -7,
+    "strengthMagic" : 1,
     "slot" : 7
   },
   "24207" : {
@@ -31628,6 +32538,14 @@
     "name" : "Twisted trousers (t3)",
     "slot" : 7
   },
+  "29289" : {
+    "itemId" : 29289,
+    "name" : "Mixed hide cape",
+    "accuracyMagic" : -15,
+    "accuracyRanged" : 5,
+    "strengthMelee" : 1,
+    "slot" : 1
+  },
   "3861" : {
     "itemId" : 3861,
     "name" : "Games necklace(4)",
@@ -31755,6 +32673,13 @@
     "speed" : 4,
     "slot" : 3,
     "weaponCategory" : "UNARMED"
+  },
+  "28957" : {
+    "itemId" : 28957,
+    "name" : "Blessed dizana's quiver (l)",
+    "accuracyRanged" : 18,
+    "strengthRanged" : 3,
+    "slot" : 1
   },
   "632" : {
     "itemId" : 632,
@@ -31966,6 +32891,14 @@
     "prayer" : 1,
     "slot" : 0
   },
+  "29025" : {
+    "itemId" : 29025,
+    "name" : "Blood moon tassets",
+    "accuracyMagic" : -21,
+    "accuracyRanged" : -7,
+    "strengthMelee" : 2,
+    "slot" : 7
+  },
   "2501" : {
     "itemId" : 2501,
     "name" : "Red d'hide body",
@@ -32114,6 +33047,20 @@
     "slot" : 3,
     "weaponCategory" : "POWERED_STAFF"
   },
+  "28988" : {
+    "itemId" : 28988,
+    "name" : "Blue moon spear",
+    "accuracyStab" : 70,
+    "accuracySlash" : 62,
+    "accuracyCrush" : 62,
+    "accuracyMagic" : 30,
+    "strengthMelee" : 71,
+    "strengthMagic" : 5,
+    "speed" : 5,
+    "slot" : 3,
+    "is2h" : true,
+    "weaponCategory" : "BLADED_STAFF"
+  },
   "8862" : {
     "itemId" : 8862,
     "name" : "Three barrels",
@@ -32155,6 +33102,11 @@
     "name" : "Void seal(7)",
     "slot" : 2
   },
+  "29439" : {
+    "itemId" : 29439,
+    "name" : "Egg priest robe top",
+    "slot" : 4
+  },
   "4998" : {
     "itemId" : 4998,
     "name" : "Verac's plateskirt 0",
@@ -32188,6 +33140,7 @@
     "itemId" : 6924,
     "name" : "Infinity bottoms",
     "accuracyMagic" : 17,
+    "strengthMagic" : 1,
     "slot" : 7
   },
   "1075" : {
@@ -32257,6 +33210,13 @@
     "accuracyRanged" : -3,
     "slot" : 5
   },
+  "8856" : {
+    "itemId" : 8856,
+    "name" : "Defensive shield",
+    "accuracyMagic" : -6,
+    "accuracyRanged" : -2,
+    "slot" : 5
+  },
   "8470" : {
     "itemId" : 8470,
     "name" : "Rune heraldic helm (8470)",
@@ -32280,6 +33240,7 @@
     "itemId" : 12457,
     "name" : "Dark infinity hat",
     "accuracyMagic" : 6,
+    "strengthMagic" : 1,
     "slot" : 0
   },
   "6221" : {
