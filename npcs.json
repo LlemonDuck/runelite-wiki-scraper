@@ -23,30 +23,6 @@
       "size" : 1
     }
   },
-  "5961" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 10,
-        "DEFENCE" : 10,
-        "STRENGTH" : 10,
-        "HITPOINTS" : 100,
-        "RANGED" : 100,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 100,
-      "defenseSlash" : 100,
-      "defenseCrush" : 100,
-      "defenseRanged" : 50,
-      "defenseMagic" : 50
-    },
-    "attributes" : {
-      "npcId" : 5961,
-      "name" : "Spinolyp",
-      "size" : 1
-    }
-  },
   "12333" : {
     "skills" : {
       "levels" : {
@@ -112,24 +88,6 @@
       "size" : 1
     }
   },
-  "1691" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 27,
-        "DEFENCE" : 73,
-        "STRENGTH" : 27,
-        "HITPOINTS" : 33,
-        "RANGED" : 0,
-        "MAGIC" : 27
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 1691,
-      "name" : "Splatter",
-      "size" : 1
-    }
-  },
   "10532" : {
     "skills" : {
       "levels" : {
@@ -154,30 +112,6 @@
       "size" : 5
     }
   },
-  "6086" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 1,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 2,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : -42,
-      "defenseSlash" : -42,
-      "defenseCrush" : -42,
-      "defenseRanged" : -42,
-      "defenseMagic" : -42
-    },
-    "attributes" : {
-      "npcId" : 6086,
-      "name" : "Gnome woman",
-      "size" : 1
-    }
-  },
   "3292" : {
     "skills" : {
       "levels" : {
@@ -199,29 +133,6 @@
     "attributes" : {
       "npcId" : 3292,
       "name" : "Al Kharid warrior",
-      "size" : 1
-    }
-  },
-  "12046" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 160,
-        "DEFENCE" : 120,
-        "STRENGTH" : 150,
-        "HITPOINTS" : 160,
-        "RANGED" : 0,
-        "MAGIC" : 80
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 70,
-      "defenseSlash" : 60,
-      "defenseCrush" : 40,
-      "defenseRanged" : 40
-    },
-    "attributes" : {
-      "npcId" : 12046,
-      "name" : "Evelot",
       "size" : 1
     }
   },
@@ -256,7 +167,7 @@
         "ATTACK" : 60,
         "DEFENCE" : 20,
         "STRENGTH" : 60,
-        "HITPOINTS" : 6,
+        "HITPOINTS" : 30,
         "RANGED" : 40,
         "MAGIC" : 60
       }
@@ -290,7 +201,6 @@
       "defenseStab" : 252,
       "defenseSlash" : 250,
       "defenseCrush" : 244,
-      "defenseRanged" : 249,
       "defenseMagic" : -11
     },
     "attributes" : {
@@ -337,7 +247,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1690,
-      "name" : "Splatter (Lvl 33)",
+      "name" : "Splatter",
       "size" : 1
     }
   },
@@ -381,6 +291,25 @@
       "name" : "Nechryarch",
       "isDemon" : true,
       "size" : 2
+    }
+  },
+  "13490" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 30,
+        "DEFENCE" : 20,
+        "STRENGTH" : 15,
+        "HITPOINTS" : 35,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 13490,
+      "name" : "Zombie pirate",
+      "isUndead" : true,
+      "size" : 1
     }
   },
   "4919" : {
@@ -565,7 +494,6 @@
       "defenseStab" : 100,
       "defenseSlash" : 100,
       "defenseCrush" : 10,
-      "defenseRanged" : 100,
       "defenseMagic" : 100
     },
     "attributes" : {
@@ -629,7 +557,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 563,
-      "name" : "Zombie pirate",
+      "name" : "Zombie pirate (Lvl 57)",
       "isUndead" : true,
       "size" : 1
     }
@@ -637,10 +565,10 @@
   "455" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
+        "ATTACK" : 10,
+        "DEFENCE" : 6,
+        "STRENGTH" : 6,
+        "HITPOINTS" : 18,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -692,7 +620,6 @@
       "defenseStab" : 12,
       "defenseSlash" : 14,
       "defenseCrush" : 13,
-      "defenseRanged" : 13,
       "defenseMagic" : 5
     },
     "attributes" : {
@@ -817,6 +744,26 @@
       "size" : 1
     }
   },
+  "13790" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 1,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 60,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseMagic" : -50
+    },
+    "attributes" : {
+      "npcId" : 13790,
+      "name" : "Ice block",
+      "size" : 1
+    }
+  },
   "7286" : {
     "skills" : {
       "levels" : {
@@ -855,7 +802,6 @@
     },
     "defensiveBonuses" : {
       "defenseCrush" : 10,
-      "defenseRanged" : 200,
       "defenseMagic" : 200
     },
     "attributes" : {
@@ -906,7 +852,6 @@
     "attributes" : {
       "npcId" : 6321,
       "name" : "Jungle Demon (hard)",
-      "isDemon" : true,
       "size" : 3
     }
   },
@@ -946,10 +891,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 20,
       "defenseSlash" : 70,
       "defenseCrush" : 70,
-      "defenseRanged" : 90,
       "defenseMagic" : 30
     },
     "attributes" : {
@@ -1050,6 +994,95 @@
       "size" : 1
     }
   },
+  "1691" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 27,
+        "DEFENCE" : 73,
+        "STRENGTH" : 27,
+        "HITPOINTS" : 33,
+        "RANGED" : 0,
+        "MAGIC" : 27
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 1691,
+      "name" : "Splatter (Lvl 44)",
+      "size" : 1
+    }
+  },
+  "13784" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 75,
+        "STRENGTH" : 110,
+        "HITPOINTS" : 250,
+        "RANGED" : 1,
+        "MAGIC" : 55
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 30,
+      "defenseSlash" : 30,
+      "defenseCrush" : 20,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 13784,
+      "name" : "Prince Itzla Arkan",
+      "size" : 1
+    }
+  },
+  "12821" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 350,
+        "DEFENCE" : 200,
+        "STRENGTH" : 400,
+        "HITPOINTS" : 1500,
+        "RANGED" : 350,
+        "MAGIC" : 300
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 65,
+      "defenseSlash" : 5,
+      "defenseCrush" : 30,
+      "defenseRanged" : 825,
+      "defenseMagic" : 750
+    },
+    "attributes" : {
+      "npcId" : 12821,
+      "name" : "Sol Heredit",
+      "size" : 5
+    }
+  },
+  "6086" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 1,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 2,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : -42,
+      "defenseSlash" : -42,
+      "defenseCrush" : -42,
+      "defenseRanged" : -42,
+      "defenseMagic" : -42
+    },
+    "attributes" : {
+      "npcId" : 6086,
+      "name" : "Gnome woman",
+      "size" : 1
+    }
+  },
   "12374" : {
     "skills" : {
       "levels" : {
@@ -1135,6 +1168,24 @@
       "size" : 2
     }
   },
+  "13752" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 13752,
+      "name" : "Emissary Forebearer",
+      "size" : 1
+    }
+  },
   "458" : {
     "skills" : {
       "levels" : {
@@ -1176,24 +1227,6 @@
       "size" : 1
     }
   },
-  "9034" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 98,
-        "DEFENCE" : 98,
-        "STRENGTH" : 98,
-        "HITPOINTS" : 100,
-        "RANGED" : 98,
-        "MAGIC" : 98
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 9034,
-      "name" : "Crystalline Dark Beast",
-      "size" : 3
-    }
-  },
   "6076" : {
     "skills" : {
       "levels" : {
@@ -1218,7 +1251,7 @@
         "ATTACK" : 1,
         "DEFENCE" : 0,
         "STRENGTH" : 1,
-        "HITPOINTS" : 120,
+        "HITPOINTS" : 7,
         "RANGED" : 1,
         "MAGIC" : 0
       }
@@ -1228,6 +1261,30 @@
       "npcId" : 10829,
       "name" : "Blood Spawn HM",
       "size" : 1
+    }
+  },
+  "12810" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 200,
+        "DEFENCE" : 125,
+        "STRENGTH" : 330,
+        "HITPOINTS" : 125,
+        "RANGED" : 160,
+        "MAGIC" : 100
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 30,
+      "defenseSlash" : 30,
+      "defenseCrush" : 30,
+      "defenseRanged" : 45,
+      "defenseMagic" : 15
+    },
+    "attributes" : {
+      "npcId" : 12810,
+      "name" : "Jaguar warrior",
+      "size" : 2
     }
   },
   "5242" : {
@@ -1331,6 +1388,31 @@
       "npcId" : 3551,
       "name" : "Tough Guy",
       "size" : 1
+    }
+  },
+  "6493" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 280,
+        "DEFENCE" : 300,
+        "STRENGTH" : 196,
+        "HITPOINTS" : 255,
+        "RANGED" : 250,
+        "MAGIC" : 300
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 100,
+      "defenseSlash" : 100,
+      "defenseCrush" : 100,
+      "defenseRanged" : 100,
+      "defenseMagic" : 100
+    },
+    "attributes" : {
+      "npcId" : 6493,
+      "name" : "Commander Zilyana",
+      "size" : 2,
+      "accuracyMagic" : 200
     }
   },
   "142" : {
@@ -1498,6 +1580,28 @@
       "size" : 1
     }
   },
+  "5831" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 100,
+        "DEFENCE" : 60,
+        "STRENGTH" : 100,
+        "HITPOINTS" : 80,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 30,
+      "defenseSlash" : 60,
+      "defenseCrush" : 30
+    },
+    "attributes" : {
+      "npcId" : 5831,
+      "name" : "Ice troll grunt",
+      "size" : 1
+    }
+  },
   "12107" : {
     "skills" : {
       "levels" : {
@@ -1590,6 +1694,42 @@
       "npcId" : 4347,
       "name" : "Sir Pelleas",
       "size" : 1
+    }
+  },
+  "3047" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 0,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 0,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 3047,
+      "name" : "Goblin (Lvl 5) (0)",
+      "size" : 1
+    }
+  },
+  "9034" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 98,
+        "DEFENCE" : 98,
+        "STRENGTH" : 98,
+        "HITPOINTS" : 100,
+        "RANGED" : 98,
+        "MAGIC" : 98
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 9034,
+      "name" : "Crystalline Dark Beast",
+      "size" : 3
     }
   },
   "6309" : {
@@ -1707,6 +1847,26 @@
       "size" : 1
     }
   },
+  "12363" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 110,
+        "DEFENCE" : 110,
+        "STRENGTH" : 110,
+        "HITPOINTS" : 80,
+        "RANGED" : 110,
+        "MAGIC" : 110
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12363,
+      "name" : "Lesser demon",
+      "isDemon" : true,
+      "size" : 2,
+      "accuracyMagic" : 100
+    }
+  },
   "2623" : {
     "skills" : {
       "levels" : {
@@ -1765,7 +1925,6 @@
     "attributes" : {
       "npcId" : 6326,
       "name" : "Skeleton Hellhound (hard)",
-      "isDemon" : true,
       "size" : 2
     }
   },
@@ -2701,6 +2860,30 @@
       "size" : 1
     }
   },
+  "13728" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 40,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 120,
+        "RANGED" : 1,
+        "MAGIC" : 90
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 50,
+      "defenseCrush" : 10,
+      "defenseMagic" : 60
+    },
+    "attributes" : {
+      "npcId" : 13728,
+      "name" : "Frost Nagua",
+      "size" : 1,
+      "accuracyMagic" : 70
+    }
+  },
   "2217" : {
     "skills" : {
       "levels" : {
@@ -2829,26 +3012,6 @@
     "attributes" : {
       "npcId" : 519,
       "name" : "Highwayman",
-      "size" : 1
-    }
-  },
-  "12456" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 150,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 500,
-        "RANGED" : 1,
-        "MAGIC" : 255
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseMagic" : 300
-    },
-    "attributes" : {
-      "npcId" : 12456,
-      "name" : "Malevolent Mage",
       "size" : 1
     }
   },
@@ -2991,6 +3154,7 @@
     "attributes" : {
       "npcId" : 3962,
       "name" : "Nezikchened",
+      "isDemon" : true,
       "size" : 3
     }
   },
@@ -3021,10 +3185,10 @@
   "5705" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 12,
+        "ATTACK" : 147,
+        "DEFENCE" : 17,
+        "STRENGTH" : 26,
+        "HITPOINTS" : 17,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -3498,8 +3662,7 @@
     "defensiveBonuses" : {
       "defenseStab" : 10,
       "defenseSlash" : 10,
-      "defenseCrush" : 10,
-      "defenseRanged" : 10
+      "defenseCrush" : 10
     },
     "attributes" : {
       "npcId" : 433,
@@ -3554,24 +3717,6 @@
       "npcId" : 8917,
       "name" : "Fragment of Seren",
       "size" : 3
-    }
-  },
-  "7620" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 20,
-        "DEFENCE" : 20,
-        "STRENGTH" : 20,
-        "HITPOINTS" : 45,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 7620,
-      "name" : "Temple Guardian",
-      "size" : 2
     }
   },
   "10525" : {
@@ -3737,6 +3882,30 @@
       "size" : 1
     }
   },
+  "12879" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 90,
+        "DEFENCE" : 40,
+        "STRENGTH" : 105,
+        "HITPOINTS" : 100,
+        "RANGED" : 1,
+        "MAGIC" : 50
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 50,
+      "defenseCrush" : 10,
+      "defenseRanged" : 200,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 12879,
+      "name" : "Sulphur Nagua",
+      "size" : 2
+    }
+  },
   "2234" : {
     "skills" : {
       "levels" : {
@@ -3798,7 +3967,6 @@
     "attributes" : {
       "npcId" : 724,
       "name" : "Mummy",
-      "isUndead" : true,
       "size" : 1
     }
   },
@@ -3832,10 +4000,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 10,
       "defenseSlash" : 70,
       "defenseCrush" : 70,
-      "defenseRanged" : 50,
       "defenseMagic" : 60
     },
     "attributes" : {
@@ -4017,27 +4184,49 @@
       "size" : 1
     }
   },
+  "12814" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 110,
+        "DEFENCE" : 80,
+        "STRENGTH" : 110,
+        "HITPOINTS" : 50,
+        "RANGED" : 110,
+        "MAGIC" : 110
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseRanged" : 50,
+      "defenseMagic" : 75
+    },
+    "attributes" : {
+      "npcId" : 12814,
+      "name" : "Fremennik warband archer",
+      "size" : 1,
+      "accuracyMagic" : 150
+    }
+  },
   "11175" : {
     "skills" : {
       "levels" : {
         "ATTACK" : 80,
         "DEFENCE" : 60,
-        "STRENGTH" : 80,
-        "HITPOINTS" : 80,
+        "STRENGTH" : 125,
+        "HITPOINTS" : 60,
         "RANGED" : 1,
         "MAGIC" : 60
       }
     },
     "defensiveBonuses" : {
       "defenseStab" : 60,
-      "defenseSlash" : 60,
+      "defenseSlash" : 30,
       "defenseCrush" : 20,
-      "defenseRanged" : 180,
+      "defenseRanged" : 20,
       "defenseMagic" : 20
     },
     "attributes" : {
       "npcId" : 11175,
-      "name" : "Spider (Lvl 87)",
+      "name" : "Araxyte",
       "size" : 1
     }
   },
@@ -4096,7 +4285,6 @@
       "defenseStab" : 12,
       "defenseSlash" : 14,
       "defenseCrush" : 13,
-      "defenseRanged" : 13,
       "defenseMagic" : 5
     },
     "attributes" : {
@@ -4146,6 +4334,43 @@
       "npcId" : 1684,
       "name" : "Giant crypt spider",
       "size" : 1
+    }
+  },
+  "7620" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 20,
+        "DEFENCE" : 20,
+        "STRENGTH" : 20,
+        "HITPOINTS" : 45,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 7620,
+      "name" : "Temple Guardian",
+      "size" : 2
+    }
+  },
+  "10775" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 80,
+        "DEFENCE" : 1,
+        "STRENGTH" : 40,
+        "HITPOINTS" : 2,
+        "RANGED" : 80,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 10775,
+      "name" : "Nylocas Toxobolos EM",
+      "size" : 1,
+      "accuracyMagic" : 505
     }
   },
   "2265" : {
@@ -4208,10 +4433,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 10,
       "defenseSlash" : 70,
       "defenseCrush" : 70,
-      "defenseRanged" : 50,
       "defenseMagic" : 60
     },
     "attributes" : {
@@ -4233,10 +4457,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 30,
+      "defenseStab" : 20,
       "defenseSlash" : 110,
       "defenseCrush" : 85,
-      "defenseRanged" : 95,
       "defenseMagic" : 30
     },
     "attributes" : {
@@ -4420,12 +4643,12 @@
   "3300" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 38,
+        "DEFENCE" : 31,
+        "STRENGTH" : 40,
+        "HITPOINTS" : 52,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -4491,10 +4714,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 10,
       "defenseSlash" : 70,
       "defenseCrush" : 70,
-      "defenseRanged" : 50,
       "defenseMagic" : 60
     },
     "attributes" : {
@@ -4519,6 +4741,27 @@
     "attributes" : {
       "npcId" : 4694,
       "name" : "Confusion beast",
+      "size" : 2
+    }
+  },
+  "7248" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 80,
+        "DEFENCE" : 85,
+        "STRENGTH" : 70,
+        "HITPOINTS" : 98,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseMagic" : -10
+    },
+    "attributes" : {
+      "npcId" : 7248,
+      "name" : "Lesser demon (Lvl 94) (0)",
+      "isDemon" : true,
       "size" : 2
     }
   },
@@ -4690,16 +4933,35 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 30,
+      "defenseStab" : 20,
       "defenseSlash" : 115,
       "defenseCrush" : 90,
-      "defenseRanged" : 95,
       "defenseMagic" : 30
     },
     "attributes" : {
       "npcId" : 8027,
       "name" : "Rune dragon",
       "size" : 4
+    }
+  },
+  "13789" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 1,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 60,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseMagic" : -50
+    },
+    "attributes" : {
+      "npcId" : 13789,
+      "name" : "Frost crab",
+      "size" : 1
     }
   },
   "6607" : {
@@ -4778,6 +5040,28 @@
       "size" : 2
     }
   },
+  "10435" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 35,
+        "DEFENCE" : 25,
+        "STRENGTH" : 30,
+        "HITPOINTS" : 40,
+        "RANGED" : 35,
+        "MAGIC" : 25
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseSlash" : 30,
+      "defenseCrush" : 10,
+      "defenseMagic" : 30
+    },
+    "attributes" : {
+      "npcId" : 10435,
+      "name" : "Sourhog",
+      "size" : 3
+    }
+  },
   "421" : {
     "skills" : {
       "levels" : {
@@ -4830,7 +5114,6 @@
       "defenseStab" : 9,
       "defenseSlash" : 11,
       "defenseCrush" : -2,
-      "defenseRanged" : 4,
       "defenseMagic" : 1
     },
     "attributes" : {
@@ -5159,12 +5442,12 @@
   "5760" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
+        "ATTACK" : 41,
         "DEFENCE" : 42,
-        "STRENGTH" : 0,
+        "STRENGTH" : 1,
         "HITPOINTS" : 34,
         "RANGED" : 40,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -5553,7 +5836,6 @@
       "defenseStab" : 55,
       "defenseSlash" : 55,
       "defenseCrush" : 5,
-      "defenseRanged" : 55,
       "defenseMagic" : 55
     },
     "attributes" : {
@@ -5633,7 +5915,7 @@
       "defenseStab" : 10,
       "defenseSlash" : 10,
       "defenseCrush" : 10,
-      "defenseRanged" : 20,
+      "defenseRanged" : -10,
       "defenseMagic" : 20
     },
     "attributes" : {
@@ -5746,51 +6028,6 @@
       "size" : 2
     }
   },
-  "7248" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 80,
-        "DEFENCE" : 85,
-        "STRENGTH" : 70,
-        "HITPOINTS" : 98,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseMagic" : -10
-    },
-    "attributes" : {
-      "npcId" : 7248,
-      "name" : "Lesser demon",
-      "isDemon" : true,
-      "size" : 2
-    }
-  },
-  "12439" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 255,
-        "DEFENCE" : 255,
-        "STRENGTH" : 255,
-        "HITPOINTS" : 750,
-        "RANGED" : 255,
-        "MAGIC" : 0
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 255,
-      "defenseSlash" : 255,
-      "defenseCrush" : 255,
-      "defenseRanged" : 255,
-      "defenseMagic" : 10
-    },
-    "attributes" : {
-      "npcId" : 12439,
-      "name" : "Dagannoth Rex",
-      "size" : 3
-    }
-  },
   "3615" : {
     "skills" : {
       "levels" : {
@@ -5863,7 +6100,7 @@
         "ATTACK" : 5,
         "DEFENCE" : 6,
         "STRENGTH" : 5,
-        "HITPOINTS" : 0,
+        "HITPOINTS" : 20,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -6019,41 +6256,15 @@
       "size" : 3
     }
   },
-  "11246" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 106,
-        "DEFENCE" : 90,
-        "STRENGTH" : 126,
-        "HITPOINTS" : 1250,
-        "RANGED" : 130,
-        "MAGIC" : 130
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 201,
-      "defenseSlash" : 206,
-      "defenseCrush" : 188,
-      "defenseRanged" : 231,
-      "defenseMagic" : 101
-    },
-    "attributes" : {
-      "npcId" : 11246,
-      "name" : "Revenant maledictus",
-      "isUndead" : true,
-      "size" : 5,
-      "accuracyMagic" : 60
-    }
-  },
   "1060" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
+        "ATTACK" : 37,
+        "DEFENCE" : 38,
+        "STRENGTH" : 38,
         "HITPOINTS" : 200,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -6190,6 +6401,29 @@
       "size" : 1
     }
   },
+  "13465" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 80,
+        "DEFENCE" : 80,
+        "STRENGTH" : 80,
+        "HITPOINTS" : 80,
+        "RANGED" : 25,
+        "MAGIC" : 40
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 15,
+      "defenseSlash" : 20,
+      "defenseCrush" : 10,
+      "defenseMagic" : -10
+    },
+    "attributes" : {
+      "npcId" : 13465,
+      "name" : "Elite Dark Warrior",
+      "size" : 1
+    }
+  },
   "11730" : {
     "skills" : {
       "levels" : {
@@ -6255,6 +6489,29 @@
       "npcId" : 320,
       "name" : "Dark energy core",
       "size" : 1
+    }
+  },
+  "13011" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 258,
+        "DEFENCE" : 60,
+        "STRENGTH" : 100,
+        "HITPOINTS" : 500,
+        "RANGED" : 1,
+        "MAGIC" : 100
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 100,
+      "defenseCrush" : 100,
+      "defenseRanged" : 500,
+      "defenseMagic" : 500
+    },
+    "attributes" : {
+      "npcId" : 13011,
+      "name" : "Blood Moon",
+      "size" : 5
     }
   },
   "3137" : {
@@ -6374,7 +6631,6 @@
     "attributes" : {
       "npcId" : 717,
       "name" : "Mummy (Lvl 96)",
-      "isUndead" : true,
       "size" : 1
     }
   },
@@ -6534,7 +6790,7 @@
         "ATTACK" : 40,
         "DEFENCE" : 12,
         "STRENGTH" : 40,
-        "HITPOINTS" : 4,
+        "HITPOINTS" : 25,
         "RANGED" : 40,
         "MAGIC" : 40
       }
@@ -6551,31 +6807,6 @@
       "name" : "Baboon Brawler (Lvl 56)",
       "size" : 1,
       "accuracyMagic" : 20
-    }
-  },
-  "12440" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 240,
-        "DEFENCE" : 240,
-        "STRENGTH" : 240,
-        "HITPOINTS" : 250,
-        "RANGED" : 1,
-        "MAGIC" : 240
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 70,
-      "defenseSlash" : 90,
-      "defenseCrush" : 90,
-      "defenseRanged" : 70,
-      "defenseMagic" : 80
-    },
-    "attributes" : {
-      "npcId" : 12440,
-      "name" : "King Black Dragon",
-      "isDragon" : true,
-      "size" : 5
     }
   },
   "7119" : {
@@ -6779,6 +7010,29 @@
       "size" : 2
     }
   },
+  "13671" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 50,
+        "STRENGTH" : 120,
+        "HITPOINTS" : 58,
+        "RANGED" : 60,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 25,
+      "defenseSlash" : 25,
+      "defenseCrush" : 25,
+      "defenseMagic" : -10
+    },
+    "attributes" : {
+      "npcId" : 13671,
+      "name" : "Mirrorback Araxyte",
+      "size" : 2
+    }
+  },
   "3353" : {
     "skills" : {
       "levels" : {
@@ -6833,10 +7087,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 20,
       "defenseSlash" : 70,
       "defenseCrush" : 70,
-      "defenseRanged" : 90,
       "defenseMagic" : 30
     },
     "attributes" : {
@@ -6861,6 +7114,30 @@
       "npcId" : 1126,
       "name" : "Barrelchest (hard)",
       "size" : 3
+    }
+  },
+  "13660" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 200,
+        "DEFENCE" : 100,
+        "STRENGTH" : 165,
+        "HITPOINTS" : 1500,
+        "RANGED" : 160,
+        "MAGIC" : 100
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 50,
+      "defenseCrush" : 50,
+      "defenseRanged" : 50,
+      "defenseMagic" : 100
+    },
+    "attributes" : {
+      "npcId" : 13660,
+      "name" : "Jaguar warrior (Lvl 518)",
+      "size" : 2
     }
   },
   "7410" : {
@@ -7027,6 +7304,30 @@
       "size" : 1
     }
   },
+  "13537" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 40,
+        "DEFENCE" : 90,
+        "STRENGTH" : 40,
+        "HITPOINTS" : 150,
+        "RANGED" : 1,
+        "MAGIC" : 150
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 40,
+      "defenseCrush" : 60,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 13537,
+      "name" : "Mercenary mage",
+      "size" : 1,
+      "accuracyMagic" : 150
+    }
+  },
   "132" : {
     "skills" : {
       "levels" : {
@@ -7072,13 +7373,60 @@
       "size" : 1
     }
   },
+  "12818" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 300,
+        "DEFENCE" : 250,
+        "STRENGTH" : 300,
+        "HITPOINTS" : 250,
+        "RANGED" : 350,
+        "MAGIC" : 300
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseRanged" : 25,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 12818,
+      "name" : "Manticore",
+      "size" : 3
+    }
+  },
+  "11246" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 106,
+        "DEFENCE" : 90,
+        "STRENGTH" : 126,
+        "HITPOINTS" : 1250,
+        "RANGED" : 130,
+        "MAGIC" : 130
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 201,
+      "defenseSlash" : 206,
+      "defenseCrush" : 188,
+      "defenseRanged" : 231,
+      "defenseMagic" : 101
+    },
+    "attributes" : {
+      "npcId" : 11246,
+      "name" : "Revenant maledictus",
+      "isUndead" : true,
+      "size" : 5,
+      "accuracyMagic" : 60
+    }
+  },
   "4382" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 1,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 1,
+        "ATTACK" : 99,
+        "DEFENCE" : 99,
+        "STRENGTH" : 99,
+        "HITPOINTS" : 99,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -7117,12 +7465,12 @@
   "5764" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
+        "ATTACK" : 69,
         "DEFENCE" : 68,
-        "STRENGTH" : 0,
+        "STRENGTH" : 1,
         "HITPOINTS" : 54,
         "RANGED" : 70,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -7229,43 +7577,28 @@
       "accuracyMagic" : 90
     }
   },
-  "936" : {
+  "13495" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 40,
-        "DEFENCE" : 40,
-        "STRENGTH" : 75,
-        "HITPOINTS" : 90,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 24,
+        "DEFENCE" : 24,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 17,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : {
-      "defenseCrush" : 10,
-      "defenseRanged" : 200,
-      "defenseMagic" : 200
+      "defenseStab" : 9,
+      "defenseSlash" : 11,
+      "defenseCrush" : -2,
+      "defenseRanged" : 4,
+      "defenseMagic" : 1
     },
     "attributes" : {
-      "npcId" : 936,
-      "name" : "Mountain troll (Lvl 69)",
-      "size" : 1
-    }
-  },
-  "3959" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 76,
-        "DEFENCE" : 76,
-        "STRENGTH" : 76,
-        "HITPOINTS" : 90,
-        "RANGED" : 0,
-        "MAGIC" : 0
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 3959,
-      "name" : "Tormented Warrior",
+      "npcId" : 13495,
+      "name" : "Skeleton (Lvl 18)",
+      "isUndead" : true,
       "size" : 1
     }
   },
@@ -7306,24 +7639,6 @@
     "attributes" : {
       "npcId" : 4342,
       "name" : "Sir Lucan",
-      "size" : 1
-    }
-  },
-  "8367" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 0,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 120,
-        "RANGED" : 1,
-        "MAGIC" : 0
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 8367,
-      "name" : "Blood spawn",
       "size" : 1
     }
   },
@@ -7655,7 +7970,7 @@
       "defenseSlash" : 134,
       "defenseCrush" : 120,
       "defenseRanged" : 261,
-      "defenseMagic" : 40
+      "defenseMagic" : 34
     },
     "attributes" : {
       "npcId" : 12078,
@@ -7832,6 +8147,45 @@
       "size" : 1
     }
   },
+  "13824" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 50,
+        "DEFENCE" : 10,
+        "STRENGTH" : 30,
+        "HITPOINTS" : 60,
+        "RANGED" : 1,
+        "MAGIC" : 5
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 13824,
+      "name" : "Adala",
+      "size" : 1
+    }
+  },
+  "936" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 40,
+        "DEFENCE" : 40,
+        "STRENGTH" : 75,
+        "HITPOINTS" : 90,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseCrush" : 10,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 936,
+      "name" : "Mountain troll (Lvl 69)",
+      "size" : 1
+    }
+  },
   "11068" : {
     "skills" : {
       "levels" : {
@@ -7848,6 +8202,25 @@
       "npcId" : 11068,
       "name" : "Lynx",
       "size" : 2
+    }
+  },
+  "14126" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 55,
+        "DEFENCE" : 55,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 40,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 14126,
+      "name" : "Small scarab",
+      "isKalphite" : true,
+      "size" : 1
     }
   },
   "7881" : {
@@ -7964,13 +8337,56 @@
       "size" : 1
     }
   },
+  "3959" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 76,
+        "DEFENCE" : 76,
+        "STRENGTH" : 76,
+        "HITPOINTS" : 90,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 3959,
+      "name" : "Tormented Warrior",
+      "size" : 1
+    }
+  },
+  "13599" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 255,
+        "DEFENCE" : 150,
+        "STRENGTH" : 255,
+        "HITPOINTS" : 600,
+        "RANGED" : 255,
+        "MAGIC" : 255
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 75,
+      "defenseSlash" : 175,
+      "defenseCrush" : 68,
+      "defenseMagic" : 5
+    },
+    "attributes" : {
+      "npcId" : 13599,
+      "name" : "Tormented Demon",
+      "isDemon" : true,
+      "size" : 3,
+      "accuracyMagic" : 300
+    }
+  },
   "5697" : {
     "skills" : {
       "levels" : {
         "ATTACK" : 137,
         "DEFENCE" : 16,
         "STRENGTH" : 26,
-        "HITPOINTS" : 12,
+        "HITPOINTS" : 16,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -8097,12 +8513,12 @@
   "7750" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 500,
+        "DEFENCE" : 500,
+        "STRENGTH" : 420,
+        "HITPOINTS" : 1500,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -8112,24 +8528,21 @@
       "size" : 5
     }
   },
-  "3026" : {
+  "10393" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 23,
-        "DEFENCE" : 23,
-        "STRENGTH" : 23,
-        "HITPOINTS" : 32,
-        "RANGED" : 1,
-        "MAGIC" : 1
+        "ATTACK" : 19,
+        "DEFENCE" : 14,
+        "STRENGTH" : 18,
+        "HITPOINTS" : 22,
+        "RANGED" : 0,
+        "MAGIC" : 0
       }
     },
-    "defensiveBonuses" : {
-      "defenseSlash" : 5,
-      "defenseCrush" : 5
-    },
+    "defensiveBonuses" : { },
     "attributes" : {
-      "npcId" : 3026,
-      "name" : "Pit Scorpion",
+      "npcId" : 10393,
+      "name" : "Warrior of Murahs",
       "size" : 1
     }
   },
@@ -8220,7 +8633,7 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : -10,
+      "defenseStab" : -20,
       "defenseSlash" : 40,
       "defenseCrush" : 30,
       "defenseMagic" : 50
@@ -8392,6 +8805,25 @@
       "size" : 3
     }
   },
+  "10778" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 100,
+        "DEFENCE" : 6,
+        "STRENGTH" : 90,
+        "HITPOINTS" : 3,
+        "RANGED" : 100,
+        "MAGIC" : 6
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 10778,
+      "name" : "Nylocas Toxobolos EM (Big)",
+      "size" : 2,
+      "accuracyMagic" : 400
+    }
+  },
   "11715" : {
     "skills" : {
       "levels" : {
@@ -8487,20 +8919,20 @@
   "7389" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 22,
-        "DEFENCE" : 18,
-        "STRENGTH" : 18,
-        "HITPOINTS" : 64,
+        "ATTACK" : 64,
+        "DEFENCE" : 55,
+        "STRENGTH" : 59,
+        "HITPOINTS" : 60,
         "RANGED" : 1,
         "MAGIC" : 1
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 10,
-      "defenseSlash" : 10,
-      "defenseCrush" : 5,
-      "defenseRanged" : 10,
-      "defenseMagic" : 5
+      "defenseStab" : 41,
+      "defenseSlash" : 43,
+      "defenseCrush" : 23,
+      "defenseRanged" : 40,
+      "defenseMagic" : 24
     },
     "attributes" : {
       "npcId" : 7389,
@@ -8679,6 +9111,24 @@
       "size" : 1
     }
   },
+  "12833" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 1,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 10,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12833,
+      "name" : "Passionate Supporter",
+      "size" : 1
+    }
+  },
   "8094" : {
     "skills" : {
       "levels" : {
@@ -8737,7 +9187,7 @@
         "DEFENCE" : 10,
         "STRENGTH" : 10,
         "HITPOINTS" : 100,
-        "RANGED" : 1,
+        "RANGED" : 100,
         "MAGIC" : 1
       }
     },
@@ -8750,19 +9200,37 @@
     },
     "attributes" : {
       "npcId" : 5947,
-      "name" : "Spinolyp (Lvl 76)",
+      "name" : "Spinolyp",
       "size" : 1
+    }
+  },
+  "13812" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 120,
+        "DEFENCE" : 80,
+        "STRENGTH" : 110,
+        "HITPOINTS" : 100,
+        "RANGED" : 1,
+        "MAGIC" : 40
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 13812,
+      "name" : "Dire Wolf Alpha",
+      "size" : 3
     }
   },
   "3476" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 140,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 72,
+        "DEFENCE" : 105,
+        "STRENGTH" : 71,
+        "HITPOINTS" : 144,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -8887,6 +9355,45 @@
       "size" : 4
     }
   },
+  "3026" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 23,
+        "DEFENCE" : 23,
+        "STRENGTH" : 23,
+        "HITPOINTS" : 32,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseSlash" : 5,
+      "defenseCrush" : 5
+    },
+    "attributes" : {
+      "npcId" : 3026,
+      "name" : "Pit Scorpion",
+      "size" : 1
+    }
+  },
+  "13484" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 25,
+        "DEFENCE" : 80,
+        "STRENGTH" : 200,
+        "HITPOINTS" : 30,
+        "RANGED" : 80,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 13484,
+      "name" : "Strong Warrior",
+      "size" : 1
+    }
+  },
   "4104" : {
     "skills" : {
       "levels" : {
@@ -8926,7 +9433,6 @@
       "defenseStab" : 45,
       "defenseSlash" : 45,
       "defenseCrush" : 5,
-      "defenseRanged" : 45,
       "defenseMagic" : -5
     },
     "attributes" : {
@@ -8966,7 +9472,7 @@
         "DEFENCE" : 37,
         "STRENGTH" : 38,
         "HITPOINTS" : 37,
-        "RANGED" : 0,
+        "RANGED" : 1,
         "MAGIC" : 1
       }
     },
@@ -8999,6 +9505,30 @@
       "size" : 5
     }
   },
+  "13685" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 80,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 520,
+        "RANGED" : 0,
+        "MAGIC" : 170
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 100,
+      "defenseSlash" : 100,
+      "defenseCrush" : 40,
+      "defenseMagic" : 100
+    },
+    "attributes" : {
+      "npcId" : 13685,
+      "name" : "Amoxliatl",
+      "size" : 3,
+      "accuracyMagic" : 160
+    }
+  },
   "5126" : {
     "skills" : {
       "levels" : {
@@ -9021,6 +9551,30 @@
       "npcId" : 5126,
       "name" : "Experiment No.2",
       "size" : 2
+    }
+  },
+  "13469" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 25,
+        "DEFENCE" : 80,
+        "STRENGTH" : 25,
+        "HITPOINTS" : 80,
+        "RANGED" : 25,
+        "MAGIC" : 80
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 5,
+      "defenseSlash" : 10,
+      "defenseCrush" : 15,
+      "defenseMagic" : 50
+    },
+    "attributes" : {
+      "npcId" : 13469,
+      "name" : "Elite Dark Mage",
+      "size" : 1,
+      "accuracyMagic" : 80
     }
   },
   "2209" : {
@@ -9135,7 +9689,7 @@
     "attributes" : {
       "npcId" : 5127,
       "name" : "Mouse",
-      "size" : 1
+      "size" : 4
     }
   },
   "7393" : {
@@ -9158,31 +9712,6 @@
       "npcId" : 7393,
       "name" : "Cockathrice",
       "size" : 3
-    }
-  },
-  "12445" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 280,
-        "DEFENCE" : 300,
-        "STRENGTH" : 196,
-        "HITPOINTS" : 500,
-        "RANGED" : 250,
-        "MAGIC" : 300
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 100,
-      "defenseSlash" : 100,
-      "defenseCrush" : 100,
-      "defenseRanged" : 100,
-      "defenseMagic" : 100
-    },
-    "attributes" : {
-      "npcId" : 12445,
-      "name" : "Commander Zilyana",
-      "size" : 2,
-      "accuracyMagic" : 200
     }
   },
   "1722" : {
@@ -9324,30 +9853,6 @@
       "accuracyMagic" : 280
     }
   },
-  "4109" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 3,
-        "DEFENCE" : 3,
-        "STRENGTH" : 3,
-        "HITPOINTS" : 10,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : -12,
-      "defenseSlash" : -12,
-      "defenseCrush" : -12,
-      "defenseRanged" : -12,
-      "defenseMagic" : -12
-    },
-    "attributes" : {
-      "npcId" : 4109,
-      "name" : "Penda",
-      "size" : 1
-    }
-  },
   "2455" : {
     "skills" : {
       "levels" : {
@@ -9409,6 +9914,7 @@
     "attributes" : {
       "npcId" : 6327,
       "name" : "Agrith Naar (hard)",
+      "isDemon" : true,
       "size" : 3
     }
   },
@@ -9427,27 +9933,6 @@
     "attributes" : {
       "npcId" : 1298,
       "name" : "Afflicted (Lvl 30)",
-      "size" : 1
-    }
-  },
-  "4135" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 30,
-        "DEFENCE" : 15,
-        "STRENGTH" : 95,
-        "HITPOINTS" : 95,
-        "RANGED" : 60,
-        "MAGIC" : 0
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseRanged" : 200,
-      "defenseMagic" : 200
-    },
-    "attributes" : {
-      "npcId" : 4135,
-      "name" : "Thrower troll",
       "size" : 1
     }
   },
@@ -9472,6 +9957,30 @@
       "size" : 3
     }
   },
+  "13114" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 38,
+        "DEFENCE" : 31,
+        "STRENGTH" : 40,
+        "HITPOINTS" : 52,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 39,
+      "defenseSlash" : 40,
+      "defenseCrush" : 36,
+      "defenseRanged" : 36,
+      "defenseMagic" : -11
+    },
+    "attributes" : {
+      "npcId" : 13114,
+      "name" : "Knight of Varlamore",
+      "size" : 1
+    }
+  },
   "2267" : {
     "skills" : {
       "levels" : {
@@ -9492,7 +10001,7 @@
     },
     "attributes" : {
       "npcId" : 2267,
-      "name" : "Dagannoth Rex (Lvl 303)",
+      "name" : "Dagannoth Rex",
       "size" : 3
     }
   },
@@ -9517,6 +10026,24 @@
     "attributes" : {
       "npcId" : 639,
       "name" : "Tyras guard",
+      "size" : 1
+    }
+  },
+  "4689" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 38,
+        "DEFENCE" : 38,
+        "STRENGTH" : 41,
+        "HITPOINTS" : 50,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 4689,
+      "name" : "Angry giant rat",
       "size" : 1
     }
   },
@@ -9604,6 +10131,54 @@
       "npcId" : 6320,
       "name" : "Me (hard)",
       "size" : 1
+    }
+  },
+  "4109" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 3,
+        "DEFENCE" : 3,
+        "STRENGTH" : 3,
+        "HITPOINTS" : 10,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : -12,
+      "defenseSlash" : -12,
+      "defenseCrush" : -12,
+      "defenseRanged" : -12,
+      "defenseMagic" : -12
+    },
+    "attributes" : {
+      "npcId" : 4109,
+      "name" : "Penda",
+      "size" : 1
+    }
+  },
+  "12815" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 110,
+        "DEFENCE" : 80,
+        "STRENGTH" : 110,
+        "HITPOINTS" : 50,
+        "RANGED" : 110,
+        "MAGIC" : 110
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 50,
+      "defenseCrush" : 50,
+      "defenseMagic" : 30
+    },
+    "attributes" : {
+      "npcId" : 12815,
+      "name" : "Fremennik warband seer",
+      "size" : 1,
+      "accuracyMagic" : 150
     }
   },
   "134" : {
@@ -9696,10 +10271,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 30,
+      "defenseStab" : 10,
       "defenseSlash" : 50,
       "defenseCrush" : 50,
-      "defenseRanged" : 30,
       "defenseMagic" : 40
     },
     "attributes" : {
@@ -9724,6 +10298,50 @@
     "attributes" : {
       "npcId" : 3909,
       "name" : "Bear Cub (Lvl 15)",
+      "size" : 1
+    }
+  },
+  "13463" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 90,
+        "DEFENCE" : 90,
+        "STRENGTH" : 120,
+        "HITPOINTS" : 90,
+        "RANGED" : 20,
+        "MAGIC" : 70
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 110,
+      "defenseSlash" : 130,
+      "defenseCrush" : 40,
+      "defenseMagic" : -5
+    },
+    "attributes" : {
+      "npcId" : 13463,
+      "name" : "Elite Black Knight",
+      "size" : 1
+    }
+  },
+  "4135" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 30,
+        "DEFENCE" : 15,
+        "STRENGTH" : 95,
+        "HITPOINTS" : 95,
+        "RANGED" : 60,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseRanged" : 200,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 4135,
+      "name" : "Thrower troll",
       "size" : 1
     }
   },
@@ -9792,39 +10410,15 @@
       "size" : 1
     }
   },
-  "12446" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 340,
-        "DEFENCE" : 270,
-        "STRENGTH" : 300,
-        "HITPOINTS" : 1000,
-        "RANGED" : 1,
-        "MAGIC" : 200
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 80,
-      "defenseSlash" : 80,
-      "defenseCrush" : 80,
-      "defenseRanged" : 80,
-      "defenseMagic" : 130
-    },
-    "attributes" : {
-      "npcId" : 12446,
-      "name" : "K'ril Tsutsaroth",
-      "size" : 5
-    }
-  },
   "12573" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 1,
+        "DEFENCE" : 180,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 250,
+        "RANGED" : 1,
+        "MAGIC" : 300
       }
     },
     "defensiveBonuses" : { },
@@ -10023,6 +10617,29 @@
       "size" : 2
     }
   },
+  "13738" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 80,
+        "DEFENCE" : 60,
+        "STRENGTH" : 70,
+        "HITPOINTS" : 50,
+        "RANGED" : 1,
+        "MAGIC" : 20
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 25,
+      "defenseSlash" : 25,
+      "defenseCrush" : 40,
+      "defenseMagic" : 15
+    },
+    "attributes" : {
+      "npcId" : 13738,
+      "name" : "Emissary Chosen",
+      "size" : 1
+    }
+  },
   "12386" : {
     "skills" : {
       "levels" : {
@@ -10047,12 +10664,12 @@
   "8385" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 100,
-        "DEFENCE" : 100,
-        "STRENGTH" : 100,
-        "HITPOINTS" : 0,
-        "RANGED" : 100,
-        "MAGIC" : 100
+        "ATTACK" : 1,
+        "DEFENCE" : 50,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 200,
+        "RANGED" : 1,
+        "MAGIC" : 50
       }
     },
     "defensiveBonuses" : { },
@@ -10273,6 +10890,24 @@
       "size" : 1
     }
   },
+  "13291" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 14,
+        "DEFENCE" : 12,
+        "STRENGTH" : 13,
+        "HITPOINTS" : 17,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 13291,
+      "name" : "Thief",
+      "size" : 1
+    }
+  },
   "410" : {
     "skills" : {
       "levels" : {
@@ -10323,7 +10958,7 @@
         "ATTACK" : 400,
         "DEFENCE" : 150,
         "STRENGTH" : 400,
-        "HITPOINTS" : 3250,
+        "HITPOINTS" : 3500,
         "RANGED" : 300,
         "MAGIC" : 300
       }
@@ -10342,79 +10977,13 @@
       "accuracyMagic" : 80
     }
   },
-  "12455" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 210,
-        "DEFENCE" : 120,
-        "STRENGTH" : 290,
-        "HITPOINTS" : 750,
-        "RANGED" : 220,
-        "MAGIC" : 120
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 65,
-      "defenseSlash" : 65,
-      "defenseCrush" : 65,
-      "defenseRanged" : 50,
-      "defenseMagic" : 30
-    },
-    "attributes" : {
-      "npcId" : 12455,
-      "name" : "Jal-ImKot",
-      "size" : 4
-    }
-  },
-  "4689" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 38,
-        "DEFENCE" : 38,
-        "STRENGTH" : 41,
-        "HITPOINTS" : 50,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 4689,
-      "name" : "Angry giant rat",
-      "size" : 1
-    }
-  },
-  "2584" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 95,
-        "DEFENCE" : 25,
-        "STRENGTH" : 5,
-        "HITPOINTS" : 10,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 50,
-      "defenseSlash" : 50,
-      "defenseCrush" : 100,
-      "defenseRanged" : 10,
-      "defenseMagic" : 50
-    },
-    "attributes" : {
-      "npcId" : 2584,
-      "name" : "Abyssal leech (Lvl 41)",
-      "size" : 1
-    }
-  },
   "10828" : {
     "skills" : {
       "levels" : {
         "ATTACK" : 100,
         "DEFENCE" : 100,
         "STRENGTH" : 100,
-        "HITPOINTS" : 0,
+        "HITPOINTS" : 100,
         "RANGED" : 100,
         "MAGIC" : 100
       }
@@ -10462,10 +11031,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 30,
+      "defenseStab" : 20,
       "defenseSlash" : 115,
       "defenseCrush" : 90,
-      "defenseRanged" : 95,
       "defenseMagic" : 30
     },
     "attributes" : {
@@ -10481,7 +11049,7 @@
         "ATTACK" : 40,
         "DEFENCE" : 12,
         "STRENGTH" : 40,
-        "HITPOINTS" : 4,
+        "HITPOINTS" : 20,
         "RANGED" : 40,
         "MAGIC" : 40
       }
@@ -10584,6 +11152,54 @@
       "size" : 1
     }
   },
+  "14137" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 21,
+        "DEFENCE" : 21,
+        "STRENGTH" : 21,
+        "HITPOINTS" : 20,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 21,
+      "defenseSlash" : 23,
+      "defenseCrush" : 21,
+      "defenseRanged" : 20,
+      "defenseMagic" : -6
+    },
+    "attributes" : {
+      "npcId" : 14137,
+      "name" : "Weaponsmaster",
+      "size" : 1
+    }
+  },
+  "2584" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 95,
+        "DEFENCE" : 25,
+        "STRENGTH" : 5,
+        "HITPOINTS" : 10,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 50,
+      "defenseCrush" : 100,
+      "defenseRanged" : 10,
+      "defenseMagic" : 50
+    },
+    "attributes" : {
+      "npcId" : 2584,
+      "name" : "Abyssal leech (Lvl 41)",
+      "size" : 1
+    }
+  },
   "7794" : {
     "skills" : {
       "levels" : {
@@ -10624,7 +11240,6 @@
       "defenseStab" : 100,
       "defenseSlash" : 100,
       "defenseCrush" : 100,
-      "defenseRanged" : 100,
       "defenseMagic" : 100
     },
     "attributes" : {
@@ -10774,7 +11389,7 @@
         "DEFENCE" : 25,
         "STRENGTH" : 26,
         "HITPOINTS" : 28,
-        "RANGED" : 0,
+        "RANGED" : 1,
         "MAGIC" : 1
       }
     },
@@ -11154,7 +11769,6 @@
     "attributes" : {
       "npcId" : 6293,
       "name" : "Bouncer (hard)",
-      "isDemon" : true,
       "size" : 2
     }
   },
@@ -11198,7 +11812,6 @@
       "defenseStab" : 259,
       "defenseSlash" : 257,
       "defenseCrush" : 241,
-      "defenseRanged" : 250,
       "defenseMagic" : -11
     },
     "attributes" : {
@@ -11268,7 +11881,6 @@
     "attributes" : {
       "npcId" : 949,
       "name" : "Mummy (Lvl 84)",
-      "isUndead" : true,
       "size" : 1
     }
   },
@@ -11284,7 +11896,7 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : -10,
+      "defenseStab" : -20,
       "defenseSlash" : 40,
       "defenseCrush" : 30,
       "defenseMagic" : 50
@@ -11381,7 +11993,6 @@
       "defenseStab" : 40,
       "defenseSlash" : 140,
       "defenseCrush" : 60,
-      "defenseRanged" : 190,
       "defenseMagic" : 300
     },
     "attributes" : {
@@ -11573,7 +12184,6 @@
       "defenseStab" : 15,
       "defenseSlash" : 250,
       "defenseCrush" : 30,
-      "defenseRanged" : 250,
       "defenseMagic" : 10
     },
     "attributes" : {
@@ -11614,7 +12224,7 @@
         "ATTACK" : 400,
         "DEFENCE" : 150,
         "STRENGTH" : 400,
-        "HITPOINTS" : 3250,
+        "HITPOINTS" : 3500,
         "RANGED" : 300,
         "MAGIC" : 300
       }
@@ -11631,30 +12241,6 @@
       "name" : "Verzik Vitur HM (P3/Spider)",
       "size" : 7,
       "accuracyMagic" : 80
-    }
-  },
-  "5185" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 8,
-        "DEFENCE" : 9,
-        "STRENGTH" : 6,
-        "HITPOINTS" : 16,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 3,
-      "defenseSlash" : 4,
-      "defenseCrush" : 4,
-      "defenseRanged" : 3,
-      "defenseMagic" : 2
-    },
-    "attributes" : {
-      "npcId" : 5185,
-      "name" : "Guard (Lvl 10)",
-      "size" : 1
     }
   },
   "1726" : {
@@ -11695,6 +12281,25 @@
       "size" : 1
     }
   },
+  "12377" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 50,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 25,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12377,
+      "name" : "Scarred imp",
+      "isDemon" : true,
+      "size" : 1
+    }
+  },
   "2145" : {
     "skills" : {
       "levels" : {
@@ -11719,25 +12324,6 @@
       "isUndead" : true,
       "size" : 1,
       "accuracyMagic" : 100
-    }
-  },
-  "448" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 8,
-        "DEFENCE" : 4,
-        "STRENGTH" : 4,
-        "HITPOINTS" : 16,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 448,
-      "name" : "Crawling Hand (Lvl 8)",
-      "isUndead" : true,
-      "size" : 1
     }
   },
   "1559" : {
@@ -11821,6 +12407,72 @@
     "attributes" : {
       "npcId" : 4635,
       "name" : "Mercenary Captain",
+      "size" : 1
+    }
+  },
+  "13656" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 200,
+        "DEFENCE" : 150,
+        "STRENGTH" : 250,
+        "HITPOINTS" : 1500,
+        "RANGED" : 0,
+        "MAGIC" : 300
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 200,
+      "defenseSlash" : 65,
+      "defenseCrush" : 85,
+      "defenseRanged" : 300,
+      "defenseMagic" : 400
+    },
+    "attributes" : {
+      "npcId" : 13656,
+      "name" : "Vardorvis",
+      "size" : 2
+    }
+  },
+  "6355" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 120,
+        "DEFENCE" : 120,
+        "STRENGTH" : 120,
+        "HITPOINTS" : 116,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 6355,
+      "name" : "Bouncer (Lvl 137)",
+      "size" : 2
+    }
+  },
+  "5185" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 8,
+        "DEFENCE" : 9,
+        "STRENGTH" : 6,
+        "HITPOINTS" : 16,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 3,
+      "defenseSlash" : 4,
+      "defenseCrush" : 4,
+      "defenseRanged" : 3,
+      "defenseMagic" : 2
+    },
+    "attributes" : {
+      "npcId" : 5185,
+      "name" : "Guard (Lvl 10)",
       "size" : 1
     }
   },
@@ -11909,9 +12561,9 @@
   "11176" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 120,
-        "DEFENCE" : 80,
-        "STRENGTH" : 120,
+        "ATTACK" : 160,
+        "DEFENCE" : 70,
+        "STRENGTH" : 160,
         "HITPOINTS" : 100,
         "RANGED" : 1,
         "MAGIC" : 80
@@ -11919,14 +12571,14 @@
     },
     "defensiveBonuses" : {
       "defenseStab" : 60,
-      "defenseSlash" : 60,
+      "defenseSlash" : 30,
       "defenseCrush" : 20,
-      "defenseRanged" : 180,
+      "defenseRanged" : 20,
       "defenseMagic" : 20
     },
     "attributes" : {
       "npcId" : 11176,
-      "name" : "Spider (Lvl 123)",
+      "name" : "Araxyte (Lvl 146)",
       "size" : 2
     }
   },
@@ -12112,49 +12764,6 @@
       "npcId" : 5244,
       "name" : "Snake (Lvl 24)",
       "size" : 1
-    }
-  },
-  "12377" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 50,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 25,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 12377,
-      "name" : "Scarred imp",
-      "isDemon" : true,
-      "size" : 1
-    }
-  },
-  "12442" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 255,
-        "DEFENCE" : 255,
-        "STRENGTH" : 255,
-        "HITPOINTS" : 750,
-        "RANGED" : 0,
-        "MAGIC" : 255
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 255,
-      "defenseSlash" : 255,
-      "defenseCrush" : 255,
-      "defenseRanged" : 10,
-      "defenseMagic" : 255
-    },
-    "attributes" : {
-      "npcId" : 12442,
-      "name" : "Dagannoth Prime",
-      "size" : 3
     }
   },
   "527" : {
@@ -12445,45 +13054,40 @@
       "size" : 1
     }
   },
-  "12365" : {
+  "13006" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 110,
-        "DEFENCE" : 110,
-        "STRENGTH" : 110,
-        "HITPOINTS" : 80,
-        "RANGED" : 110,
-        "MAGIC" : 110
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 12365,
-      "name" : "Lesser demon (Lvl 94) (0)",
-      "isDemon" : true,
-      "size" : 2,
-      "accuracyMagic" : 100
-    }
-  },
-  "1877" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 100,
-        "DEFENCE" : 60,
-        "STRENGTH" : 100,
-        "HITPOINTS" : 80,
+        "ATTACK" : 11,
+        "DEFENCE" : 13,
+        "STRENGTH" : 13,
+        "HITPOINTS" : 19,
         "RANGED" : 1,
         "MAGIC" : 1
       }
     },
-    "defensiveBonuses" : {
-      "defenseStab" : 30,
-      "defenseSlash" : 60,
-      "defenseCrush" : 30
-    },
+    "defensiveBonuses" : { },
     "attributes" : {
-      "npcId" : 1877,
-      "name" : "Ice troll grunt",
+      "npcId" : 13006,
+      "name" : "Oryx",
+      "size" : 2
+    }
+  },
+  "448" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 8,
+        "DEFENCE" : 4,
+        "STRENGTH" : 4,
+        "HITPOINTS" : 16,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 448,
+      "name" : "Crawling Hand (Lvl 8)",
+      "isUndead" : true,
       "size" : 1
     }
   },
@@ -12525,6 +13129,7 @@
     "attributes" : {
       "npcId" : 6318,
       "name" : "Nezikchened (hard)",
+      "isDemon" : true,
       "size" : 3
     }
   },
@@ -12589,31 +13194,6 @@
       "name" : "Zakl'n Gritch",
       "isDemon" : true,
       "size" : 2
-    }
-  },
-  "12450" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 250,
-        "DEFENCE" : 100,
-        "STRENGTH" : 150,
-        "HITPOINTS" : 320,
-        "RANGED" : 1,
-        "MAGIC" : 180
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 200,
-      "defenseSlash" : 200,
-      "defenseCrush" : 200,
-      "defenseRanged" : 200,
-      "defenseMagic" : -60
-    },
-    "attributes" : {
-      "npcId" : 12450,
-      "name" : "Derwen",
-      "size" : 3,
-      "accuracyMagic" : 80
     }
   },
   "414" : {
@@ -12683,7 +13263,7 @@
         "DEFENCE" : 48,
         "STRENGTH" : 48,
         "HITPOINTS" : 49,
-        "RANGED" : 0,
+        "RANGED" : 1,
         "MAGIC" : 1
       }
     },
@@ -12741,6 +13321,24 @@
       "size" : 1
     }
   },
+  "12979" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 55,
+        "DEFENCE" : 55,
+        "STRENGTH" : 50,
+        "HITPOINTS" : 80,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12979,
+      "name" : "White jaguar",
+      "size" : 2
+    }
+  },
   "2090" : {
     "skills" : {
       "levels" : {
@@ -12771,10 +13369,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 20,
+      "defenseStab" : 10,
       "defenseSlash" : 40,
       "defenseCrush" : 40,
-      "defenseRanged" : 20,
       "defenseMagic" : 30
     },
     "attributes" : {
@@ -12949,29 +13546,26 @@
       "accuracyMagic" : 50
     }
   },
-  "6614" : {
+  "426" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 228,
-        "DEFENCE" : 180,
-        "STRENGTH" : 295,
-        "HITPOINTS" : 30,
+        "ATTACK" : 55,
+        "DEFENCE" : 85,
+        "STRENGTH" : 85,
+        "HITPOINTS" : 78,
         "RANGED" : 1,
         "MAGIC" : 1
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 150,
-      "defenseSlash" : 163,
-      "defenseCrush" : 20,
-      "defenseRanged" : 275,
-      "defenseMagic" : 210
+      "defenseSlash" : 20,
+      "defenseCrush" : 20
     },
     "attributes" : {
-      "npcId" : 6614,
-      "name" : "Greater Skeleton Hellhound",
-      "isUndead" : true,
-      "size" : 2
+      "npcId" : 426,
+      "name" : "Turoth (Lvl 86)",
+      "isLeafy" : true,
+      "size" : 1
     }
   },
   "2477" : {
@@ -12989,7 +13583,6 @@
       "defenseStab" : 10,
       "defenseSlash" : 10,
       "defenseCrush" : 10,
-      "defenseRanged" : 10,
       "defenseMagic" : 10
     },
     "attributes" : {
@@ -13001,12 +13594,12 @@
   "3477" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 50,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 72,
+        "DEFENCE" : 85,
+        "STRENGTH" : 58,
+        "HITPOINTS" : 59,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -13055,6 +13648,30 @@
     "attributes" : {
       "npcId" : 3420,
       "name" : "Rabbit (1)",
+      "size" : 1
+    }
+  },
+  "12916" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 70,
+        "DEFENCE" : 40,
+        "STRENGTH" : 70,
+        "HITPOINTS" : 100,
+        "RANGED" : 1,
+        "MAGIC" : 20
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 28,
+      "defenseSlash" : 26,
+      "defenseCrush" : 10,
+      "defenseRanged" : 20,
+      "defenseMagic" : 5
+    },
+    "attributes" : {
+      "npcId" : 12916,
+      "name" : "Knight of Varlamore (Lvl 81)",
       "size" : 1
     }
   },
@@ -13226,8 +13843,7 @@
     "defensiveBonuses" : {
       "defenseStab" : 100,
       "defenseSlash" : 100,
-      "defenseCrush" : 80,
-      "defenseRanged" : 250
+      "defenseCrush" : 80
     },
     "attributes" : {
       "npcId" : 11290,
@@ -13272,51 +13888,47 @@
       "size" : 1
     }
   },
-  "11761" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 150,
-        "DEFENCE" : 150,
-        "STRENGTH" : 150,
-        "HITPOINTS" : 880,
-        "RANGED" : 150,
-        "MAGIC" : 150
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 40,
-      "defenseSlash" : 40,
-      "defenseCrush" : 20,
-      "defenseRanged" : 20,
-      "defenseMagic" : 20
-    },
-    "attributes" : {
-      "npcId" : 11761,
-      "name" : "Elidinis' Warden (Lvl 544)",
-      "size" : 5,
-      "accuracyMagic" : 230
-    }
-  },
-  "426" : {
+  "12976" : {
     "skills" : {
       "levels" : {
         "ATTACK" : 55,
-        "DEFENCE" : 85,
-        "STRENGTH" : 85,
-        "HITPOINTS" : 78,
+        "DEFENCE" : 55,
+        "STRENGTH" : 50,
+        "HITPOINTS" : 80,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12976,
+      "name" : "Jaguar",
+      "size" : 2
+    }
+  },
+  "6614" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 228,
+        "DEFENCE" : 180,
+        "STRENGTH" : 295,
+        "HITPOINTS" : 30,
         "RANGED" : 1,
         "MAGIC" : 1
       }
     },
     "defensiveBonuses" : {
-      "defenseSlash" : 20,
-      "defenseCrush" : 20
+      "defenseStab" : 150,
+      "defenseSlash" : 163,
+      "defenseCrush" : 20,
+      "defenseRanged" : 275,
+      "defenseMagic" : 210
     },
     "attributes" : {
-      "npcId" : 426,
-      "name" : "Turoth (Lvl 86)",
-      "isLeafy" : true,
-      "size" : 1
+      "npcId" : 6614,
+      "name" : "Greater Skeleton Hellhound",
+      "isUndead" : true,
+      "size" : 2
     }
   },
   "4534" : {
@@ -13473,7 +14085,6 @@
       "defenseStab" : 50,
       "defenseSlash" : 100,
       "defenseCrush" : 25,
-      "defenseRanged" : 100,
       "defenseMagic" : 100
     },
     "attributes" : {
@@ -13564,7 +14175,6 @@
       "defenseStab" : 3,
       "defenseSlash" : 5,
       "defenseCrush" : 13,
-      "defenseRanged" : 23,
       "defenseMagic" : 16
     },
     "attributes" : {
@@ -13581,7 +14191,7 @@
         "STRENGTH" : 0,
         "HITPOINTS" : 35,
         "RANGED" : 30,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : {
@@ -13592,6 +14202,30 @@
     "attributes" : {
       "npcId" : 5157,
       "name" : "H.A.M. Archer",
+      "size" : 1
+    }
+  },
+  "13283" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 17,
+        "DEFENCE" : 17,
+        "STRENGTH" : 22,
+        "HITPOINTS" : 27,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 4,
+      "defenseSlash" : 8,
+      "defenseCrush" : 5,
+      "defenseRanged" : 4,
+      "defenseMagic" : 1
+    },
+    "attributes" : {
+      "npcId" : 13283,
+      "name" : "Bandit (Lvl 23)",
       "size" : 1
     }
   },
@@ -13662,7 +14296,7 @@
     },
     "attributes" : {
       "npcId" : 12720,
-      "name" : "Armoured zombie (0)",
+      "name" : "Armoured zombie (Lvl 85)",
       "isUndead" : true,
       "size" : 1
     }
@@ -13969,12 +14603,12 @@
   "5761" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
+        "ATTACK" : 44,
         "DEFENCE" : 46,
-        "STRENGTH" : 0,
+        "STRENGTH" : 1,
         "HITPOINTS" : 41,
         "RANGED" : 45,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -14040,7 +14674,6 @@
       "defenseStab" : 30,
       "defenseSlash" : 40,
       "defenseCrush" : 20,
-      "defenseRanged" : 30,
       "defenseMagic" : 10
     },
     "attributes" : {
@@ -14356,7 +14989,7 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : -10,
+      "defenseStab" : -20,
       "defenseSlash" : 20,
       "defenseCrush" : 5
     },
@@ -14405,32 +15038,6 @@
       "size" : 1
     }
   },
-  "7935" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 76,
-        "DEFENCE" : 80,
-        "STRENGTH" : 80,
-        "HITPOINTS" : 80,
-        "RANGED" : 80,
-        "MAGIC" : 104
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 138,
-      "defenseSlash" : 140,
-      "defenseCrush" : 142,
-      "defenseRanged" : 140,
-      "defenseMagic" : 62
-    },
-    "attributes" : {
-      "npcId" : 7935,
-      "name" : "Revenant hellhound",
-      "isUndead" : true,
-      "size" : 3,
-      "accuracyMagic" : 30
-    }
-  },
   "8360" : {
     "skills" : {
       "levels" : {
@@ -14448,6 +15055,24 @@
       "name" : "The Maiden of Sugadinti",
       "size" : 6,
       "accuracyMagic" : 300
+    }
+  },
+  "10844" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 40,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 30,
+        "RANGED" : 1,
+        "MAGIC" : 40
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 10844,
+      "name" : "Nylocas Athanatos EM",
+      "size" : 3
     }
   },
   "10" : {
@@ -14551,10 +15176,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 20,
       "defenseSlash" : 70,
       "defenseCrush" : 70,
-      "defenseRanged" : 90,
       "defenseMagic" : 30
     },
     "attributes" : {
@@ -14840,6 +15464,53 @@
       "size" : 1
     }
   },
+  "7935" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 76,
+        "DEFENCE" : 80,
+        "STRENGTH" : 80,
+        "HITPOINTS" : 80,
+        "RANGED" : 80,
+        "MAGIC" : 104
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 138,
+      "defenseSlash" : 140,
+      "defenseCrush" : 142,
+      "defenseRanged" : 140,
+      "defenseMagic" : 62
+    },
+    "attributes" : {
+      "npcId" : 7935,
+      "name" : "Revenant hellhound",
+      "isUndead" : true,
+      "size" : 3,
+      "accuracyMagic" : 30
+    }
+  },
+  "6382" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 170,
+        "DEFENCE" : 170,
+        "STRENGTH" : 170,
+        "HITPOINTS" : 170,
+        "RANGED" : 1,
+        "MAGIC" : 170
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseSlash" : 50,
+      "defenseMagic" : 50
+    },
+    "attributes" : {
+      "npcId" : 6382,
+      "name" : "Jungle Demon",
+      "size" : 3
+    }
+  },
   "10796" : {
     "skills" : {
       "levels" : {
@@ -14871,10 +15542,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 20,
       "defenseSlash" : 100,
       "defenseCrush" : 70,
-      "defenseRanged" : 90,
       "defenseMagic" : 30
     },
     "attributes" : {
@@ -14943,7 +15613,6 @@
       "defenseStab" : 9,
       "defenseSlash" : 12,
       "defenseCrush" : 5,
-      "defenseRanged" : 28,
       "defenseMagic" : 45
     },
     "attributes" : {
@@ -14997,12 +15666,12 @@
   "12574" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 1,
+        "DEFENCE" : 220,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 380,
+        "RANGED" : 1,
+        "MAGIC" : 380
       }
     },
     "defensiveBonuses" : { },
@@ -15111,30 +15780,6 @@
       "size" : 3
     }
   },
-  "2650" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 30,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 10,
-        "RANGED" : 21,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 5,
-      "defenseSlash" : 5,
-      "defenseCrush" : 30,
-      "defenseRanged" : 50,
-      "defenseMagic" : 5
-    },
-    "attributes" : {
-      "npcId" : 2650,
-      "name" : "Blood Blamish Snail (Lvl 20)",
-      "size" : 1
-    }
-  },
   "11069" : {
     "skills" : {
       "levels" : {
@@ -15229,6 +15874,25 @@
       "npcId" : 476,
       "name" : "Wall beast",
       "size" : 1
+    }
+  },
+  "10779" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 100,
+        "DEFENCE" : 6,
+        "STRENGTH" : 90,
+        "HITPOINTS" : 3,
+        "RANGED" : 100,
+        "MAGIC" : 6
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 10779,
+      "name" : "Nylocas Hagios EM (Big)",
+      "size" : 2,
+      "accuracyMagic" : 400
     }
   },
   "3865" : {
@@ -15462,7 +16126,6 @@
       "defenseStab" : 8,
       "defenseSlash" : 7,
       "defenseCrush" : 3,
-      "defenseRanged" : 2,
       "defenseMagic" : 16
     },
     "attributes" : {
@@ -15574,7 +16237,6 @@
     "attributes" : {
       "npcId" : 720,
       "name" : "Mummy (Lvl 103)",
-      "isUndead" : true,
       "size" : 1
     }
   },
@@ -15625,6 +16287,49 @@
       "name" : "Headless Beast (hard)",
       "isUndead" : true,
       "size" : 3
+    }
+  },
+  "10774" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 80,
+        "DEFENCE" : 1,
+        "STRENGTH" : 40,
+        "HITPOINTS" : 2,
+        "RANGED" : 80,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 10774,
+      "name" : "Nylocas Ischyros EM",
+      "size" : 1,
+      "accuracyMagic" : 505
+    }
+  },
+  "2650" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 30,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 10,
+        "RANGED" : 21,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 5,
+      "defenseSlash" : 5,
+      "defenseCrush" : 30,
+      "defenseRanged" : 50,
+      "defenseMagic" : 5
+    },
+    "attributes" : {
+      "npcId" : 2650,
+      "name" : "Blood Blamish Snail (Lvl 20)",
+      "size" : 1
     }
   },
   "4692" : {
@@ -15694,7 +16399,7 @@
         "ATTACK" : 1,
         "DEFENCE" : 0,
         "STRENGTH" : 1,
-        "HITPOINTS" : 120,
+        "HITPOINTS" : 7,
         "RANGED" : 1,
         "MAGIC" : 0
       }
@@ -15894,6 +16599,31 @@
       "size" : 2
     }
   },
+  "3975" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 13,
+        "DEFENCE" : 18,
+        "STRENGTH" : 13,
+        "HITPOINTS" : 25,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 5,
+      "defenseSlash" : 5,
+      "defenseCrush" : 5,
+      "defenseRanged" : 5,
+      "defenseMagic" : -5
+    },
+    "attributes" : {
+      "npcId" : 3975,
+      "name" : "Ghost (Lvl 19) (0)",
+      "isUndead" : true,
+      "size" : 1
+    }
+  },
   "10833" : {
     "skills" : {
       "levels" : {
@@ -15917,29 +16647,6 @@
       "name" : "Verzik Vitur EM (P2/Vampyre)",
       "size" : 3,
       "accuracyMagic" : 32
-    }
-  },
-  "12730" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 73,
-        "DEFENCE" : 68,
-        "STRENGTH" : 72,
-        "HITPOINTS" : 85,
-        "RANGED" : 0,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 20,
-      "defenseSlash" : 20,
-      "defenseRanged" : 10
-    },
-    "attributes" : {
-      "npcId" : 12730,
-      "name" : "Armoured zombie (1)",
-      "isUndead" : true,
-      "size" : 1
     }
   },
   "8384" : {
@@ -15984,6 +16691,31 @@
       "accuracyMagic" : 90
     }
   },
+  "12819" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 120,
+        "DEFENCE" : 150,
+        "STRENGTH" : 190,
+        "HITPOINTS" : 125,
+        "RANGED" : 220,
+        "MAGIC" : 350
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 15,
+      "defenseSlash" : 15,
+      "defenseCrush" : 15,
+      "defenseRanged" : 35,
+      "defenseMagic" : 5
+    },
+    "attributes" : {
+      "npcId" : 12819,
+      "name" : "Shockwave Colossus",
+      "size" : 3,
+      "accuracyMagic" : 55
+    }
+  },
   "8713" : {
     "skills" : {
       "levels" : {
@@ -16005,6 +16737,31 @@
     "attributes" : {
       "npcId" : 8713,
       "name" : "Sarachnis",
+      "size" : 5
+    }
+  },
+  "6502" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 240,
+        "DEFENCE" : 240,
+        "STRENGTH" : 240,
+        "HITPOINTS" : 240,
+        "RANGED" : 1,
+        "MAGIC" : 240
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 70,
+      "defenseSlash" : 90,
+      "defenseCrush" : 90,
+      "defenseRanged" : 70,
+      "defenseMagic" : 80
+    },
+    "attributes" : {
+      "npcId" : 6502,
+      "name" : "King Black Dragon",
+      "isDragon" : true,
       "size" : 5
     }
   },
@@ -16035,10 +16792,10 @@
   "5713" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 12,
+        "ATTACK" : 163,
+        "DEFENCE" : 18,
+        "STRENGTH" : 26,
+        "HITPOINTS" : 18,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -16054,12 +16811,12 @@
   "5759" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
+        "ATTACK" : 32,
         "DEFENCE" : 33,
-        "STRENGTH" : 0,
+        "STRENGTH" : 1,
         "HITPOINTS" : 29,
         "RANGED" : 34,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -16067,6 +16824,49 @@
       "npcId" : 5759,
       "name" : "Penance Ranger (Lvl 32)",
       "size" : 1
+    }
+  },
+  "7751" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 500,
+        "DEFENCE" : 500,
+        "STRENGTH" : 420,
+        "HITPOINTS" : 1500,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 7751,
+      "name" : "Well-armed Foe",
+      "size" : 3
+    }
+  },
+  "11758" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 300,
+        "DEFENCE" : 100,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 4500,
+        "RANGED" : 190,
+        "MAGIC" : 190
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 70,
+      "defenseSlash" : 70,
+      "defenseCrush" : 70,
+      "defenseRanged" : 70,
+      "defenseMagic" : -30
+    },
+    "attributes" : {
+      "npcId" : 11758,
+      "name" : "Tumeken's Warden",
+      "size" : 5,
+      "accuracyMagic" : 225
     }
   },
   "11717" : {
@@ -16125,10 +16925,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 20,
       "defenseSlash" : 70,
       "defenseCrush" : 70,
-      "defenseRanged" : 90,
       "defenseMagic" : 30
     },
     "attributes" : {
@@ -16136,30 +16935,6 @@
       "name" : "Bronze dragon",
       "isDragon" : true,
       "size" : 4
-    }
-  },
-  "5211" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 21,
-        "DEFENCE" : 21,
-        "STRENGTH" : 21,
-        "HITPOINTS" : 20,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 21,
-      "defenseSlash" : 23,
-      "defenseCrush" : 21,
-      "defenseRanged" : 20,
-      "defenseMagic" : -6
-    },
-    "attributes" : {
-      "npcId" : 5211,
-      "name" : "Weaponsmaster",
-      "size" : 1
     }
   },
   "8064" : {
@@ -16595,6 +17370,30 @@
       "size" : 1
     }
   },
+  "13775" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 90,
+        "DEFENCE" : 70,
+        "STRENGTH" : 70,
+        "HITPOINTS" : 55,
+        "RANGED" : 1,
+        "MAGIC" : 15
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 30,
+      "defenseSlash" : 30,
+      "defenseCrush" : 20,
+      "defenseRanged" : 30,
+      "defenseMagic" : 5
+    },
+    "attributes" : {
+      "npcId" : 13775,
+      "name" : "Emissary Brawler",
+      "size" : 1
+    }
+  },
   "11716" : {
     "skills" : {
       "levels" : {
@@ -16820,48 +17619,6 @@
       "accuracyMagic" : 30
     }
   },
-  "12459" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 270,
-        "DEFENCE" : 220,
-        "STRENGTH" : 290,
-        "HITPOINTS" : 500,
-        "RANGED" : 1,
-        "MAGIC" : 300
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 75,
-      "defenseSlash" : 80,
-      "defenseCrush" : 200,
-      "defenseRanged" : 100,
-      "defenseMagic" : 190
-    },
-    "attributes" : {
-      "npcId" : 12459,
-      "name" : "Night beast (Lvl 362)",
-      "size" : 4
-    }
-  },
-  "7751" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 7751,
-      "name" : "Well-armed Foe",
-      "size" : 3
-    }
-  },
   "3283" : {
     "skills" : {
       "levels" : {
@@ -17011,7 +17768,7 @@
     },
     "attributes" : {
       "npcId" : 1443,
-      "name" : "Jungle Demon",
+      "name" : "Jungle Demon (Lvl 195)",
       "isDemon" : true,
       "size" : 3
     }
@@ -17576,7 +18333,7 @@
         "ATTACK" : 400,
         "DEFENCE" : 200,
         "STRENGTH" : 400,
-        "HITPOINTS" : 3250,
+        "HITPOINTS" : 3500,
         "RANGED" : 400,
         "MAGIC" : 400
       }
@@ -17861,31 +18618,6 @@
       "npcId" : 1234,
       "name" : "Arzinian Avatar of Magic (Lvl 125)",
       "size" : 1
-    }
-  },
-  "11762" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 150,
-        "DEFENCE" : 150,
-        "STRENGTH" : 150,
-        "HITPOINTS" : 880,
-        "RANGED" : 150,
-        "MAGIC" : 150
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 40,
-      "defenseSlash" : 40,
-      "defenseCrush" : 20,
-      "defenseRanged" : 20,
-      "defenseMagic" : 20
-    },
-    "attributes" : {
-      "npcId" : 11762,
-      "name" : "Tumeken's Warden",
-      "size" : 5,
-      "accuracyMagic" : 230
     }
   },
   "6331" : {
@@ -18200,10 +18932,10 @@
   "5689" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 12,
+        "ATTACK" : 133,
+        "DEFENCE" : 15,
+        "STRENGTH" : 16,
+        "HITPOINTS" : 15,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -18240,24 +18972,6 @@
       "isVampyre3" : true,
       "size" : 1,
       "accuracyMagic" : 16
-    }
-  },
-  "1037" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 25,
-        "DEFENCE" : 50,
-        "STRENGTH" : 25,
-        "HITPOINTS" : 25,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 1037,
-      "name" : "Snake (Lvl 35)",
-      "size" : 1
     }
   },
   "4660" : {
@@ -18406,7 +19120,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2484,
-      "name" : "Goblin (Lvl 5) (0)",
+      "name" : "Goblin (Lvl 5) (1)",
       "size" : 1
     }
   },
@@ -18459,10 +19173,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 10,
       "defenseSlash" : 70,
       "defenseCrush" : 70,
-      "defenseRanged" : 50,
       "defenseMagic" : 60
     },
     "attributes" : {
@@ -18475,12 +19188,12 @@
   "5946" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
+        "ATTACK" : 10,
+        "DEFENCE" : 10,
+        "STRENGTH" : 10,
         "HITPOINTS" : 100,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -18567,12 +19280,12 @@
   "5765" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
+        "ATTACK" : 79,
         "DEFENCE" : 80,
-        "STRENGTH" : 0,
+        "STRENGTH" : 1,
         "HITPOINTS" : 58,
         "RANGED" : 78,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -18691,7 +19404,7 @@
         "DEFENCE" : 44,
         "STRENGTH" : 43,
         "HITPOINTS" : 38,
-        "RANGED" : 0,
+        "RANGED" : 1,
         "MAGIC" : 1
       }
     },
@@ -18724,6 +19437,29 @@
       "npcId" : 2790,
       "name" : "Cow",
       "size" : 2
+    }
+  },
+  "13732" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 30,
+        "DEFENCE" : 30,
+        "STRENGTH" : 35,
+        "HITPOINTS" : 25,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 20,
+      "defenseSlash" : 20,
+      "defenseCrush" : 30,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 13732,
+      "name" : "Emissary Acolyte",
+      "size" : 1
     }
   },
   "2454" : {
@@ -18883,6 +19619,24 @@
       "size" : 2
     }
   },
+  "12957" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 1,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 1,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12957,
+      "name" : "Cuthbert, Lord of Dread",
+      "size" : 1
+    }
+  },
   "6299" : {
     "skills" : {
       "levels" : {
@@ -18972,6 +19726,47 @@
       "size" : 3
     }
   },
+  "1037" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 25,
+        "DEFENCE" : 50,
+        "STRENGTH" : 25,
+        "HITPOINTS" : 25,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 1037,
+      "name" : "Snake (Lvl 35)",
+      "size" : 1
+    }
+  },
+  "12816" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 110,
+        "DEFENCE" : 80,
+        "STRENGTH" : 110,
+        "HITPOINTS" : 48,
+        "RANGED" : 110,
+        "MAGIC" : 110
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 50,
+      "defenseCrush" : 50
+    },
+    "attributes" : {
+      "npcId" : 12816,
+      "name" : "Fremennik warband berserker",
+      "size" : 1,
+      "accuracyMagic" : 150
+    }
+  },
   "106" : {
     "skills" : {
       "levels" : {
@@ -19012,6 +19807,30 @@
       "npcId" : 1545,
       "name" : "Black knight",
       "size" : 1
+    }
+  },
+  "14015" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 125,
+        "STRENGTH" : 50,
+        "HITPOINTS" : 400,
+        "RANGED" : 50,
+        "MAGIC" : 50
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 100,
+      "defenseSlash" : 100,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 14015,
+      "name" : "Hueycoatl tail (broken)",
+      "isDragon" : true,
+      "size" : 5,
+      "accuracyMagic" : 200
     }
   },
   "820" : {
@@ -19086,10 +19905,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 10,
       "defenseSlash" : 70,
       "defenseCrush" : 70,
-      "defenseRanged" : 50,
       "defenseMagic" : 60
     },
     "attributes" : {
@@ -19199,6 +20017,25 @@
       "name" : "Dessous (hard)",
       "isVampyre1" : true,
       "size" : 1
+    }
+  },
+  "10777" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 100,
+        "DEFENCE" : 6,
+        "STRENGTH" : 90,
+        "HITPOINTS" : 3,
+        "RANGED" : 100,
+        "MAGIC" : 6
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 10777,
+      "name" : "Nylocas Ischyros EM (Big)",
+      "size" : 2,
+      "accuracyMagic" : 400
     }
   },
   "1705" : {
@@ -19366,7 +20203,7 @@
         "ATTACK" : 400,
         "DEFENCE" : 200,
         "STRENGTH" : 400,
-        "HITPOINTS" : 3250,
+        "HITPOINTS" : 3500,
         "RANGED" : 400,
         "MAGIC" : 400
       }
@@ -19478,7 +20315,7 @@
         "DEFENCE" : 27,
         "STRENGTH" : 29,
         "HITPOINTS" : 29,
-        "RANGED" : 0,
+        "RANGED" : 1,
         "MAGIC" : 1
       }
     },
@@ -19504,7 +20341,6 @@
       "defenseStab" : 80,
       "defenseSlash" : 160,
       "defenseCrush" : 240,
-      "defenseRanged" : 200,
       "defenseMagic" : 280
     },
     "attributes" : {
@@ -19740,7 +20576,6 @@
       "defenseStab" : 9,
       "defenseSlash" : 11,
       "defenseCrush" : -2,
-      "defenseRanged" : 4,
       "defenseMagic" : 1
     },
     "attributes" : {
@@ -19886,7 +20721,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 1448,
-      "name" : "Thief",
+      "name" : "Thief (Lvl 16) (0)",
       "size" : 1
     }
   },
@@ -19977,12 +20812,12 @@
   "2836" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 35,
+        "DEFENCE" : 30,
+        "STRENGTH" : 60,
+        "HITPOINTS" : 70,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -20074,7 +20909,6 @@
       "defenseStab" : 12,
       "defenseSlash" : 14,
       "defenseCrush" : 13,
-      "defenseRanged" : 13,
       "defenseMagic" : 5
     },
     "attributes" : {
@@ -20146,7 +20980,6 @@
       "defenseStab" : 15,
       "defenseSlash" : 250,
       "defenseCrush" : 30,
-      "defenseRanged" : 125,
       "defenseMagic" : 250
     },
     "attributes" : {
@@ -20169,10 +21002,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 30,
+      "defenseStab" : 10,
       "defenseSlash" : 50,
       "defenseCrush" : 50,
-      "defenseRanged" : 30,
       "defenseMagic" : 40
     },
     "attributes" : {
@@ -20426,9 +21258,7 @@
         "MAGIC" : 300
       }
     },
-    "defensiveBonuses" : {
-      "defenseRanged" : 300
-    },
+    "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 2043,
       "name" : "Zulrah (Magma/Melee)",
@@ -20485,7 +21315,7 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : -10,
+      "defenseStab" : -20,
       "defenseSlash" : 30,
       "defenseCrush" : 10
     },
@@ -20559,31 +21389,6 @@
       "size" : 1
     }
   },
-  "10812" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 100,
-        "DEFENCE" : 80,
-        "STRENGTH" : 180,
-        "HITPOINTS" : 1280,
-        "RANGED" : 72,
-        "MAGIC" : 120
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 10,
-      "defenseSlash" : 5,
-      "defenseCrush" : 10,
-      "defenseRanged" : 800,
-      "defenseMagic" : 600
-    },
-    "attributes" : {
-      "npcId" : 10812,
-      "name" : "Pestilent Bloat EM",
-      "isUndead" : true,
-      "size" : 5
-    }
-  },
   "9416" : {
     "skills" : {
       "levels" : {
@@ -20624,6 +21429,50 @@
     "attributes" : {
       "npcId" : 1862,
       "name" : "Tree spirit (Lvl 29)",
+      "size" : 1
+    }
+  },
+  "10812" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 100,
+        "DEFENCE" : 80,
+        "STRENGTH" : 180,
+        "HITPOINTS" : 1280,
+        "RANGED" : 72,
+        "MAGIC" : 120
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 10,
+      "defenseSlash" : 5,
+      "defenseCrush" : 10,
+      "defenseRanged" : 800,
+      "defenseMagic" : 600
+    },
+    "attributes" : {
+      "npcId" : 10812,
+      "name" : "Pestilent Bloat EM",
+      "isUndead" : true,
+      "size" : 5
+    }
+  },
+  "13489" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 20,
+        "DEFENCE" : 20,
+        "STRENGTH" : 10,
+        "HITPOINTS" : 30,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 13489,
+      "name" : "Zombie pirate (Lvl 22)",
+      "isUndead" : true,
       "size" : 1
     }
   },
@@ -20675,10 +21524,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 70,
+      "defenseStab" : 20,
       "defenseSlash" : 90,
       "defenseCrush" : 90,
-      "defenseRanged" : 70,
       "defenseMagic" : 80
     },
     "attributes" : {
@@ -20701,9 +21549,8 @@
     },
     "defensiveBonuses" : {
       "defenseStab" : 255,
-      "defenseSlash" : 65,
+      "defenseSlash" : 45,
       "defenseCrush" : 190,
-      "defenseRanged" : 320,
       "defenseMagic" : 440
     },
     "attributes" : {
@@ -20886,30 +21733,6 @@
       "size" : 3
     }
   },
-  "4656" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 32,
-        "DEFENCE" : 39,
-        "STRENGTH" : 32,
-        "HITPOINTS" : 60,
-        "RANGED" : 0,
-        "MAGIC" : 0
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 17,
-      "defenseSlash" : 15,
-      "defenseCrush" : 19,
-      "defenseRanged" : 19,
-      "defenseMagic" : -3
-    },
-    "attributes" : {
-      "npcId" : 4656,
-      "name" : "Mercenary",
-      "size" : 1
-    }
-  },
   "5634" : {
     "skills" : {
       "levels" : {
@@ -20932,10 +21755,10 @@
   "12394" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
+        "ATTACK" : 20,
+        "DEFENCE" : 20,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 120,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -21043,6 +21866,24 @@
       "size" : 2
     }
   },
+  "12539" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 64,
+        "DEFENCE" : 55,
+        "STRENGTH" : 59,
+        "HITPOINTS" : 60,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12539,
+      "name" : "Bloodthirsty Crawler",
+      "size" : 3
+    }
+  },
   "140" : {
     "skills" : {
       "levels" : {
@@ -21064,48 +21905,6 @@
     "attributes" : {
       "npcId" : 140,
       "name" : "Dagannoth (Lvl 135)",
-      "size" : 3
-    }
-  },
-  "12451" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 300,
-        "DEFENCE" : 240,
-        "STRENGTH" : 260,
-        "HITPOINTS" : 750,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 50,
-      "defenseSlash" : 50,
-      "defenseCrush" : 50,
-      "defenseRanged" : 50
-    },
-    "attributes" : {
-      "npcId" : 12451,
-      "name" : "Greater abyssal demon (Lvl 429)",
-      "isDemon" : true,
-      "size" : 3
-    }
-  },
-  "12539" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 12539,
-      "name" : "Bloodthirsty Crawler",
       "size" : 3
     }
   },
@@ -21163,10 +21962,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 60,
+      "defenseStab" : 20,
       "defenseSlash" : 60,
       "defenseCrush" : 60,
-      "defenseRanged" : 100,
       "defenseMagic" : 20
     },
     "attributes" : {
@@ -21216,6 +22014,54 @@
       "npcId" : 11284,
       "name" : "Umbra",
       "size" : 1
+    }
+  },
+  "4656" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 32,
+        "DEFENCE" : 39,
+        "STRENGTH" : 32,
+        "HITPOINTS" : 60,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 17,
+      "defenseSlash" : 15,
+      "defenseCrush" : 19,
+      "defenseRanged" : 19,
+      "defenseMagic" : -3
+    },
+    "attributes" : {
+      "npcId" : 4656,
+      "name" : "Mercenary",
+      "size" : 1
+    }
+  },
+  "13029" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 65,
+        "DEFENCE" : 10,
+        "STRENGTH" : 25,
+        "HITPOINTS" : 75,
+        "RANGED" : 1,
+        "MAGIC" : 25
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 35,
+      "defenseSlash" : 15,
+      "defenseCrush" : 50,
+      "defenseRanged" : 35,
+      "defenseMagic" : 50
+    },
+    "attributes" : {
+      "npcId" : 13029,
+      "name" : "Grimy Lizard",
+      "size" : 2
     }
   },
   "3130" : {
@@ -21395,10 +22241,12 @@
         "MAGIC" : 175
       }
     },
-    "defensiveBonuses" : { },
+    "defensiveBonuses" : {
+      "defenseMagic" : 75
+    },
     "attributes" : {
       "npcId" : 7396,
-      "name" : "Malevolent Mage (Lvl 162)",
+      "name" : "Malevolent Mage",
       "size" : 2
     }
   },
@@ -21433,7 +22281,7 @@
         "ATTACK" : 400,
         "DEFENCE" : 150,
         "STRENGTH" : 400,
-        "HITPOINTS" : 3250,
+        "HITPOINTS" : 3500,
         "RANGED" : 300,
         "MAGIC" : 300
       }
@@ -21667,7 +22515,6 @@
     "defensiveBonuses" : {
       "defenseStab" : 20,
       "defenseCrush" : 20,
-      "defenseRanged" : 50,
       "defenseMagic" : 300
     },
     "attributes" : {
@@ -21716,6 +22563,44 @@
       "npcId" : 6328,
       "name" : "King Roald",
       "size" : 1
+    }
+  },
+  "12978" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 55,
+        "DEFENCE" : 55,
+        "STRENGTH" : 50,
+        "HITPOINTS" : 80,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12978,
+      "name" : "Black jaguar",
+      "size" : 2
+    }
+  },
+  "12812" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 300,
+        "DEFENCE" : 190,
+        "STRENGTH" : 360,
+        "HITPOINTS" : 225,
+        "RANGED" : 120,
+        "MAGIC" : 250
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseRanged" : 12
+    },
+    "attributes" : {
+      "npcId" : 12812,
+      "name" : "Minotaur (Lvl 318)",
+      "size" : 3
     }
   },
   "8058" : {
@@ -21767,31 +22652,6 @@
       "npcId" : 2451,
       "name" : "Animated Iron Armour",
       "size" : 1
-    }
-  },
-  "12447" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 100,
-        "DEFENCE" : 100,
-        "STRENGTH" : 100,
-        "HITPOINTS" : 200,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 252,
-      "defenseSlash" : 250,
-      "defenseCrush" : 244,
-      "defenseRanged" : 249,
-      "defenseMagic" : -11
-    },
-    "attributes" : {
-      "npcId" : 12447,
-      "name" : "Dharok the Wretched (Lvl 666)",
-      "size" : 2,
-      "accuracyMagic" : -58
     }
   },
   "6306" : {
@@ -22281,25 +23141,6 @@
       "size" : 1
     }
   },
-  "456" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 11,
-        "DEFENCE" : 9,
-        "STRENGTH" : 7,
-        "HITPOINTS" : 19,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 456,
-      "name" : "Crawling Hand (Lvl 12) (0)",
-      "isUndead" : true,
-      "size" : 2
-    }
-  },
   "12336" : {
     "skills" : {
       "levels" : {
@@ -22429,7 +23270,6 @@
       "defenseStab" : 79,
       "defenseSlash" : 71,
       "defenseCrush" : 90,
-      "defenseRanged" : 100,
       "defenseMagic" : 106
     },
     "attributes" : {
@@ -22437,6 +23277,25 @@
       "name" : "Karil the Tainted",
       "size" : 1,
       "accuracyMagic" : -26
+    }
+  },
+  "13492" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 40,
+        "DEFENCE" : 20,
+        "STRENGTH" : 20,
+        "HITPOINTS" : 40,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 13492,
+      "name" : "Zombie pirate (Lvl 34)",
+      "isUndead" : true,
+      "size" : 1
     }
   },
   "521" : {
@@ -22491,7 +23350,7 @@
         "ATTACK" : 100,
         "DEFENCE" : 100,
         "STRENGTH" : 100,
-        "HITPOINTS" : 0,
+        "HITPOINTS" : 200,
         "RANGED" : 100,
         "MAGIC" : 100
       }
@@ -22588,12 +23447,12 @@
   "5762" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
+        "ATTACK" : 51,
         "DEFENCE" : 54,
-        "STRENGTH" : 0,
+        "STRENGTH" : 1,
         "HITPOINTS" : 50,
         "RANGED" : 52,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -22778,6 +23637,32 @@
       "size" : 2
     }
   },
+  "13657" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 220,
+        "DEFENCE" : 150,
+        "STRENGTH" : 220,
+        "HITPOINTS" : 1000,
+        "RANGED" : 220,
+        "MAGIC" : 220
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 100,
+      "defenseCrush" : 25,
+      "defenseRanged" : 100,
+      "defenseMagic" : 100
+    },
+    "attributes" : {
+      "npcId" : 13657,
+      "name" : "Cerberus (Lvl 473)",
+      "isDemon" : true,
+      "size" : 5,
+      "accuracyMagic" : 50
+    }
+  },
   "1275" : {
     "skills" : {
       "levels" : {
@@ -22834,6 +23719,31 @@
       "npcId" : 6605,
       "name" : "Bandit (Lvl 130)",
       "size" : 1
+    }
+  },
+  "11721" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 0,
+        "DEFENCE" : 80,
+        "STRENGTH" : 0,
+        "HITPOINTS" : 80,
+        "RANGED" : 0,
+        "MAGIC" : 125
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 60,
+      "defenseSlash" : 300,
+      "defenseCrush" : 100,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 11721,
+      "name" : "Kephri",
+      "isKalphite" : true,
+      "size" : 5,
+      "accuracyMagic" : 125
     }
   },
   "6587" : {
@@ -22904,7 +23814,7 @@
         "ATTACK" : 0,
         "DEFENCE" : 0,
         "STRENGTH" : 0,
-        "HITPOINTS" : 0,
+        "HITPOINTS" : 40,
         "RANGED" : 0,
         "MAGIC" : 0
       }
@@ -22994,28 +23904,6 @@
     "attributes" : {
       "npcId" : 6477,
       "name" : "Mutant tarn",
-      "size" : 3
-    }
-  },
-  "10436" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 35,
-        "DEFENCE" : 25,
-        "STRENGTH" : 30,
-        "HITPOINTS" : 40,
-        "RANGED" : 35,
-        "MAGIC" : 25
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseSlash" : 30,
-      "defenseCrush" : 10,
-      "defenseMagic" : 30
-    },
-    "attributes" : {
-      "npcId" : 10436,
-      "name" : "Sourhog",
       "size" : 3
     }
   },
@@ -23120,7 +24008,7 @@
       "npcId" : 12376,
       "name" : "Lesser demon (Lvl 39)",
       "isDemon" : true,
-      "size" : 2
+      "size" : 1
     }
   },
   "11710" : {
@@ -23129,7 +24017,7 @@
         "ATTACK" : 40,
         "DEFENCE" : 12,
         "STRENGTH" : 40,
-        "HITPOINTS" : 4,
+        "HITPOINTS" : 30,
         "RANGED" : 40,
         "MAGIC" : 40
       }
@@ -23146,6 +24034,49 @@
       "name" : "Baboon Thrower",
       "size" : 1,
       "accuracyMagic" : 20
+    }
+  },
+  "14009" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 125,
+        "STRENGTH" : 50,
+        "HITPOINTS" : 2500,
+        "RANGED" : 50,
+        "MAGIC" : 50
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 100,
+      "defenseSlash" : 100,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 14009,
+      "name" : "The Hueycoatl",
+      "isDragon" : true,
+      "size" : 7,
+      "accuracyMagic" : 200
+    }
+  },
+  "456" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 11,
+        "DEFENCE" : 9,
+        "STRENGTH" : 7,
+        "HITPOINTS" : 19,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 456,
+      "name" : "Crawling Hand (Lvl 12) (0)",
+      "isUndead" : true,
+      "size" : 2
     }
   },
   "1408" : {
@@ -23254,19 +24185,19 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 3253,
-      "name" : "Thief (Lvl 16)",
+      "name" : "Thief (Lvl 16) (1)",
       "size" : 1
     }
   },
   "1062" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
+        "ATTACK" : 37,
+        "DEFENCE" : 38,
+        "STRENGTH" : 38,
         "HITPOINTS" : 200,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -23346,12 +24277,12 @@
   "5141" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 16,
+        "DEFENCE" : 12,
+        "STRENGTH" : 20,
+        "HITPOINTS" : 30,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -23667,13 +24598,33 @@
       "size" : 1
     }
   },
+  "12361" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 110,
+        "DEFENCE" : 110,
+        "STRENGTH" : 110,
+        "HITPOINTS" : 80,
+        "RANGED" : 110,
+        "MAGIC" : 110
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12361,
+      "name" : "Lesser demon (Lvl 94) (1)",
+      "isDemon" : true,
+      "size" : 2,
+      "accuracyMagic" : 100
+    }
+  },
   "11713" : {
     "skills" : {
       "levels" : {
         "ATTACK" : 60,
         "DEFENCE" : 20,
         "STRENGTH" : 60,
-        "HITPOINTS" : 6,
+        "HITPOINTS" : 35,
         "RANGED" : 40,
         "MAGIC" : 60
       }
@@ -23797,6 +24748,30 @@
       "npcId" : 483,
       "name" : "Cave bug (Lvl 96)",
       "size" : 2
+    }
+  },
+  "13139" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 1,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 2,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : -42,
+      "defenseSlash" : -42,
+      "defenseCrush" : -42,
+      "defenseRanged" : -42,
+      "defenseMagic" : -42
+    },
+    "attributes" : {
+      "npcId" : 13139,
+      "name" : "Embertailed jerboa",
+      "size" : 1
     }
   },
   "12390" : {
@@ -24041,10 +25016,10 @@
   "1738" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
+        "ATTACK" : 87,
+        "DEFENCE" : 143,
+        "STRENGTH" : 157,
+        "HITPOINTS" : 173,
         "RANGED" : 0,
         "MAGIC" : 0
       }
@@ -24139,6 +25114,30 @@
       "size" : 1
     }
   },
+  "8987" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 54,
+        "DEFENCE" : 54,
+        "STRENGTH" : 54,
+        "HITPOINTS" : 57,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 87,
+      "defenseSlash" : 84,
+      "defenseCrush" : 76,
+      "defenseRanged" : 79,
+      "defenseMagic" : -10
+    },
+    "attributes" : {
+      "npcId" : 8987,
+      "name" : "Sir Jerro",
+      "size" : 1
+    }
+  },
   "7278" : {
     "skills" : {
       "levels" : {
@@ -24163,28 +25162,29 @@
       "size" : 1
     }
   },
-  "8987" : {
+  "13662" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 54,
-        "DEFENCE" : 54,
-        "STRENGTH" : 54,
-        "HITPOINTS" : 57,
-        "RANGED" : 1,
-        "MAGIC" : 1
+        "ATTACK" : 95,
+        "DEFENCE" : 88,
+        "STRENGTH" : 98,
+        "HITPOINTS" : 1000,
+        "RANGED" : 80,
+        "MAGIC" : 94
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 87,
-      "defenseSlash" : 84,
-      "defenseCrush" : 76,
-      "defenseRanged" : 79,
-      "defenseMagic" : -10
+      "defenseStab" : 148,
+      "defenseSlash" : 134,
+      "defenseCrush" : 162,
+      "defenseRanged" : 88,
+      "defenseMagic" : 69
     },
     "attributes" : {
-      "npcId" : 8987,
-      "name" : "Sir Jerro",
-      "size" : 1
+      "npcId" : 13662,
+      "name" : "Durial321",
+      "size" : 1,
+      "accuracyMagic" : 47
     }
   },
   "6046" : {
@@ -24226,30 +25226,6 @@
       "npcId" : 3943,
       "name" : "Lensa",
       "size" : 1
-    }
-  },
-  "12443" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 300,
-        "DEFENCE" : 260,
-        "STRENGTH" : 200,
-        "HITPOINTS" : 350,
-        "RANGED" : 380,
-        "MAGIC" : 200
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 180,
-      "defenseSlash" : 180,
-      "defenseCrush" : 180,
-      "defenseRanged" : 200,
-      "defenseMagic" : 200
-    },
-    "attributes" : {
-      "npcId" : 12443,
-      "name" : "Kree'arra",
-      "size" : 5
     }
   },
   "10589" : {
@@ -24380,7 +25356,7 @@
         "DEFENCE" : 66,
         "STRENGTH" : 73,
         "HITPOINTS" : 56,
-        "RANGED" : 0,
+        "RANGED" : 1,
         "MAGIC" : 1
       }
     },
@@ -24592,7 +25568,7 @@
     },
     "attributes" : {
       "npcId" : 12224,
-      "name" : "Vardorvis",
+      "name" : "Vardorvis (Lvl 572)",
       "size" : 2
     }
   },
@@ -24680,6 +25656,24 @@
       "name" : "Akkha",
       "size" : 3,
       "accuracyMagic" : 115
+    }
+  },
+  "12977" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 25,
+        "DEFENCE" : 25,
+        "STRENGTH" : 22,
+        "HITPOINTS" : 40,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12977,
+      "name" : "Jaguar cub",
+      "size" : 1
     }
   },
   "528" : {
@@ -24868,7 +25862,6 @@
       "defenseStab" : 17,
       "defenseSlash" : 16,
       "defenseCrush" : 8,
-      "defenseRanged" : 41,
       "defenseMagic" : 35
     },
     "attributes" : {
@@ -25050,12 +26043,12 @@
   "1668" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
+        "ATTACK" : 22,
         "DEFENCE" : 21,
-        "STRENGTH" : 0,
+        "STRENGTH" : 1,
         "HITPOINTS" : 20,
         "RANGED" : 23,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -25163,6 +26156,7 @@
     "attributes" : {
       "npcId" : 6359,
       "name" : "Treus Dayth",
+      "isUndead" : true,
       "size" : 1
     }
   },
@@ -25466,7 +26460,7 @@
     },
     "attributes" : {
       "npcId" : 7513,
-      "name" : "Derwen (Lvl 235)",
+      "name" : "Derwen",
       "size" : 3,
       "accuracyMagic" : 180
     }
@@ -25478,7 +26472,7 @@
         "DEFENCE" : 62,
         "STRENGTH" : 61,
         "HITPOINTS" : 55,
-        "RANGED" : 0,
+        "RANGED" : 1,
         "MAGIC" : 1
       }
     },
@@ -25550,24 +26544,6 @@
       "size" : 1
     }
   },
-  "3178" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 55,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 67,
-        "RANGED" : 89,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 3178,
-      "name" : "Aviansie (Lvl 73)",
-      "size" : 2
-    }
-  },
   "3139" : {
     "skills" : {
       "levels" : {
@@ -25582,8 +26558,7 @@
     "defensiveBonuses" : {
       "defenseStab" : 10,
       "defenseSlash" : 10,
-      "defenseCrush" : 10,
-      "defenseRanged" : 10
+      "defenseCrush" : 10
     },
     "attributes" : {
       "npcId" : 3139,
@@ -25608,6 +26583,31 @@
       "npcId" : 3355,
       "name" : "Imp Champion",
       "size" : 1
+    }
+  },
+  "8583" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 120,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 300,
+        "RANGED" : 150,
+        "MAGIC" : 126
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 60,
+      "defenseSlash" : 20,
+      "defenseCrush" : 60,
+      "defenseRanged" : 80,
+      "defenseMagic" : 80
+    },
+    "attributes" : {
+      "npcId" : 8583,
+      "name" : "Hespori",
+      "size" : 3,
+      "accuracyMagic" : 150
     }
   },
   "4196" : {
@@ -25795,12 +26795,12 @@
   "12289" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
+        "ATTACK" : 190,
+        "DEFENCE" : 40,
+        "STRENGTH" : 70,
         "HITPOINTS" : 40,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 60
       }
     },
     "defensiveBonuses" : { },
@@ -25894,6 +26894,29 @@
       "size" : 1
     }
   },
+  "13013" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 258,
+        "DEFENCE" : 60,
+        "STRENGTH" : 100,
+        "HITPOINTS" : 500,
+        "RANGED" : 1,
+        "MAGIC" : 100
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 100,
+      "defenseSlash" : 100,
+      "defenseRanged" : 500,
+      "defenseMagic" : 500
+    },
+    "attributes" : {
+      "npcId" : 13013,
+      "name" : "Blue Moon",
+      "size" : 5
+    }
+  },
   "9029" : {
     "skills" : {
       "levels" : {
@@ -25910,6 +26933,71 @@
       "npcId" : 9029,
       "name" : "Crystalline Unicorn",
       "size" : 2
+    }
+  },
+  "13467" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 25,
+        "DEFENCE" : 80,
+        "STRENGTH" : 25,
+        "HITPOINTS" : 80,
+        "RANGED" : 80,
+        "MAGIC" : 40
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 5,
+      "defenseCrush" : 20,
+      "defenseMagic" : 60
+    },
+    "attributes" : {
+      "npcId" : 13467,
+      "name" : "Elite Dark Ranger",
+      "size" : 1
+    }
+  },
+  "3178" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 55,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 67,
+        "RANGED" : 89,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 3178,
+      "name" : "Aviansie (Lvl 73)",
+      "size" : 2
+    }
+  },
+  "11763" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 150,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 880,
+        "RANGED" : 150,
+        "MAGIC" : 150
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 40,
+      "defenseSlash" : 40,
+      "defenseCrush" : 20,
+      "defenseRanged" : 20,
+      "defenseMagic" : 20
+    },
+    "attributes" : {
+      "npcId" : 11763,
+      "name" : "Elidinis' Warden (Lvl 544)",
+      "size" : 5,
+      "accuracyMagic" : 230
     }
   },
   "690" : {
@@ -25976,12 +27064,12 @@
   "12290" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
+        "ATTACK" : 190,
+        "DEFENCE" : 40,
+        "STRENGTH" : 70,
         "HITPOINTS" : 50,
         "RANGED" : 0,
-        "MAGIC" : 0
+        "MAGIC" : 60
       }
     },
     "defensiveBonuses" : { },
@@ -26070,28 +27158,6 @@
       "size" : 2
     }
   },
-  "430" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 53,
-        "DEFENCE" : 83,
-        "STRENGTH" : 83,
-        "HITPOINTS" : 76,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseSlash" : 20,
-      "defenseCrush" : 20
-    },
-    "attributes" : {
-      "npcId" : 430,
-      "name" : "Turoth (Lvl 83)",
-      "isLeafy" : true,
-      "size" : 1
-    }
-  },
   "11584" : {
     "skills" : {
       "levels" : {
@@ -26134,6 +27200,50 @@
       "size" : 2
     }
   },
+  "13030" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 31,
+        "DEFENCE" : 39,
+        "STRENGTH" : 52,
+        "HITPOINTS" : 52,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 14,
+      "defenseSlash" : 14,
+      "defenseMagic" : 14
+    },
+    "attributes" : {
+      "npcId" : 13030,
+      "name" : "Moonlight Cockatrice",
+      "size" : 3
+    }
+  },
+  "430" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 53,
+        "DEFENCE" : 83,
+        "STRENGTH" : 83,
+        "HITPOINTS" : 76,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseSlash" : 20,
+      "defenseCrush" : 20
+    },
+    "attributes" : {
+      "npcId" : 430,
+      "name" : "Turoth (Lvl 83)",
+      "isLeafy" : true,
+      "size" : 1
+    }
+  },
   "260" : {
     "skills" : {
       "levels" : {
@@ -26146,10 +27256,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 20,
+      "defenseStab" : 10,
       "defenseSlash" : 40,
       "defenseCrush" : 40,
-      "defenseRanged" : 20,
       "defenseMagic" : 30
     },
     "attributes" : {
@@ -26226,12 +27335,12 @@
   "5758" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
+        "ATTACK" : 27,
         "DEFENCE" : 29,
-        "STRENGTH" : 0,
+        "STRENGTH" : 1,
         "HITPOINTS" : 28,
         "RANGED" : 24,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -26298,7 +27407,6 @@
       "defenseStab" : -10,
       "defenseSlash" : -10,
       "defenseCrush" : -10,
-      "defenseRanged" : -10,
       "defenseMagic" : -10
     },
     "attributes" : {
@@ -26548,12 +27656,12 @@
   "1065" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
+        "ATTACK" : 37,
+        "DEFENCE" : 38,
+        "STRENGTH" : 38,
         "HITPOINTS" : 200,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -26578,6 +27686,29 @@
     "attributes" : {
       "npcId" : 2491,
       "name" : "Wolf (Lvl 11)",
+      "size" : 2
+    }
+  },
+  "13673" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 50,
+        "STRENGTH" : 120,
+        "HITPOINTS" : 58,
+        "RANGED" : 60,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 25,
+      "defenseSlash" : 25,
+      "defenseCrush" : 25,
+      "defenseMagic" : -10
+    },
+    "attributes" : {
+      "npcId" : 13673,
+      "name" : "Ruptura Araxyte",
       "size" : 2
     }
   },
@@ -26620,12 +27751,12 @@
   "12561" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 72,
+        "DEFENCE" : 77,
+        "STRENGTH" : 77,
+        "HITPOINTS" : 77,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -26633,6 +27764,31 @@
       "npcId" : 12561,
       "name" : "Bloodthirst rockslug{{Sic}}",
       "size" : 3
+    }
+  },
+  "13663" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 10,
+        "DEFENCE" : 30,
+        "STRENGTH" : 30,
+        "HITPOINTS" : 1500,
+        "RANGED" : 0,
+        "MAGIC" : 175
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 25,
+      "defenseSlash" : 25,
+      "defenseCrush" : 25,
+      "defenseRanged" : 10,
+      "defenseMagic" : 150
+    },
+    "attributes" : {
+      "npcId" : 13663,
+      "name" : "Magic Mark",
+      "size" : 1,
+      "accuracyMagic" : 100
     }
   },
   "2621" : {
@@ -26747,49 +27903,6 @@
       "size" : 1
     }
   },
-  "8583" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 120,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 300,
-        "RANGED" : 150,
-        "MAGIC" : 126
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 60,
-      "defenseSlash" : 20,
-      "defenseCrush" : 60,
-      "defenseRanged" : 80,
-      "defenseMagic" : 80
-    },
-    "attributes" : {
-      "npcId" : 8583,
-      "name" : "Hespori",
-      "size" : 3,
-      "accuracyMagic" : 150
-    }
-  },
-  "2847" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 2847,
-      "name" : "Yeti",
-      "size" : 3
-    }
-  },
   "70" : {
     "skills" : {
       "levels" : {
@@ -26804,8 +27917,7 @@
     "defensiveBonuses" : {
       "defenseStab" : 5,
       "defenseSlash" : 5,
-      "defenseCrush" : -5,
-      "defenseRanged" : 5
+      "defenseCrush" : -5
     },
     "attributes" : {
       "npcId" : 70,
@@ -26997,15 +28109,21 @@
   "8846" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 95,
+        "DEFENCE" : 80,
+        "STRENGTH" : 95,
+        "HITPOINTS" : 100,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
-    "defensiveBonuses" : { },
+    "defensiveBonuses" : {
+      "defenseStab" : 40,
+      "defenseSlash" : 60,
+      "defenseCrush" : 60,
+      "defenseRanged" : 40,
+      "defenseMagic" : 50
+    },
     "attributes" : {
       "npcId" : 8846,
       "name" : "Mourner (Lvl 106)",
@@ -27042,10 +28160,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 10,
       "defenseSlash" : 70,
       "defenseCrush" : 70,
-      "defenseRanged" : 50,
       "defenseMagic" : 60
     },
     "attributes" : {
@@ -27216,7 +28333,6 @@
       "defenseStab" : 60,
       "defenseSlash" : 80,
       "defenseCrush" : 100,
-      "defenseRanged" : 60,
       "defenseMagic" : 80
     },
     "attributes" : {
@@ -27304,6 +28420,29 @@
     "attributes" : {
       "npcId" : 1556,
       "name" : "Fire wizard",
+      "size" : 1
+    }
+  },
+  "14132" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 220,
+        "DEFENCE" : 150,
+        "STRENGTH" : 220,
+        "HITPOINTS" : 600,
+        "RANGED" : 0,
+        "MAGIC" : 150
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 80,
+      "defenseSlash" : 80,
+      "defenseCrush" : 40,
+      "defenseMagic" : 160
+    },
+    "attributes" : {
+      "npcId" : 14132,
+      "name" : "Arrav",
       "size" : 1
     }
   },
@@ -27598,6 +28737,31 @@
       "size" : 1
     }
   },
+  "11755" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 300,
+        "DEFENCE" : 100,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 4500,
+        "RANGED" : 190,
+        "MAGIC" : 190
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 70,
+      "defenseSlash" : 70,
+      "defenseCrush" : 70,
+      "defenseRanged" : 70,
+      "defenseMagic" : -30
+    },
+    "attributes" : {
+      "npcId" : 11755,
+      "name" : "Elidinis' Warden (Lvl 489)",
+      "size" : 5,
+      "accuracyMagic" : 225
+    }
+  },
   "976" : {
     "skills" : {
       "levels" : {
@@ -27699,15 +28863,21 @@
   "8844" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 12,
+        "DEFENCE" : 12,
+        "STRENGTH" : 16,
+        "HITPOINTS" : 13,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
-    "defensiveBonuses" : { },
+    "defensiveBonuses" : {
+      "defenseStab" : 5,
+      "defenseSlash" : 25,
+      "defenseCrush" : 25,
+      "defenseRanged" : 5,
+      "defenseMagic" : 15
+    },
     "attributes" : {
       "npcId" : 8844,
       "name" : "Mourner (Lvl 24)",
@@ -27795,12 +28965,12 @@
   "9051" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
+        "ATTACK" : 1,
+        "DEFENCE" : 1,
+        "STRENGTH" : 1,
         "HITPOINTS" : 14,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -27808,31 +28978,6 @@
       "npcId" : 9051,
       "name" : "Golem (Lvl 64)",
       "size" : 1
-    }
-  },
-  "9453" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 1,
-        "DEFENCE" : 40,
-        "STRENGTH" : 1,
-        "HITPOINTS" : 40,
-        "RANGED" : 60,
-        "MAGIC" : 60
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 50,
-      "defenseSlash" : 70,
-      "defenseCrush" : 10,
-      "defenseRanged" : 100,
-      "defenseMagic" : 100
-    },
-    "attributes" : {
-      "npcId" : 9453,
-      "name" : "Parasite",
-      "size" : 1,
-      "accuracyMagic" : 12
     }
   },
   "6066" : {
@@ -27915,30 +29060,6 @@
       "size" : 1
     }
   },
-  "4067" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 91,
-        "DEFENCE" : 91,
-        "STRENGTH" : 100,
-        "HITPOINTS" : 142,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 18,
-      "defenseSlash" : 27,
-      "defenseCrush" : 18,
-      "defenseRanged" : 1000,
-      "defenseMagic" : 1000
-    },
-    "attributes" : {
-      "npcId" : 4067,
-      "name" : "Black Knight Titan",
-      "size" : 1
-    }
-  },
   "1730" : {
     "skills" : {
       "levels" : {
@@ -27972,6 +29093,30 @@
     "attributes" : {
       "npcId" : 1038,
       "name" : "Monkey",
+      "size" : 1
+    }
+  },
+  "7265" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 15,
+        "DEFENCE" : 17,
+        "STRENGTH" : 18,
+        "HITPOINTS" : 29,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 5,
+      "defenseSlash" : 5,
+      "defenseCrush" : -5,
+      "defenseRanged" : 5
+    },
+    "attributes" : {
+      "npcId" : 7265,
+      "name" : "Skeleton (Lvl 22) (2)",
+      "isUndead" : true,
       "size" : 1
     }
   },
@@ -28183,6 +29328,50 @@
       "npcId" : 8636,
       "name" : "Third Age Ranger",
       "size" : 1
+    }
+  },
+  "9453" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 40,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 40,
+        "RANGED" : 60,
+        "MAGIC" : 60
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 50,
+      "defenseSlash" : 70,
+      "defenseCrush" : 10,
+      "defenseRanged" : 100,
+      "defenseMagic" : 100
+    },
+    "attributes" : {
+      "npcId" : 9453,
+      "name" : "Parasite",
+      "size" : 1,
+      "accuracyMagic" : 12
+    }
+  },
+  "10776" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 80,
+        "DEFENCE" : 1,
+        "STRENGTH" : 40,
+        "HITPOINTS" : 2,
+        "RANGED" : 80,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 10776,
+      "name" : "Nylocas Hagios EM",
+      "size" : 1,
+      "accuracyMagic" : 505
     }
   },
   "1539" : {
@@ -28581,6 +29770,55 @@
       "size" : 2
     }
   },
+  "4067" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 91,
+        "DEFENCE" : 91,
+        "STRENGTH" : 100,
+        "HITPOINTS" : 142,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 18,
+      "defenseSlash" : 27,
+      "defenseCrush" : 18,
+      "defenseRanged" : 1000,
+      "defenseMagic" : 1000
+    },
+    "attributes" : {
+      "npcId" : 4067,
+      "name" : "Black Knight Titan",
+      "size" : 1
+    }
+  },
+  "11764" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 150,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 880,
+        "RANGED" : 150,
+        "MAGIC" : 150
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 40,
+      "defenseSlash" : 40,
+      "defenseCrush" : 20,
+      "defenseRanged" : 20,
+      "defenseMagic" : 20
+    },
+    "attributes" : {
+      "npcId" : 11764,
+      "name" : "Tumeken's Warden (Lvl 544)",
+      "size" : 5,
+      "accuracyMagic" : 230
+    }
+  },
   "4096" : {
     "skills" : {
       "levels" : {
@@ -28815,6 +30053,29 @@
       "size" : 1
     }
   },
+  "13680" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 260,
+        "DEFENCE" : 100,
+        "STRENGTH" : 260,
+        "HITPOINTS" : 350,
+        "RANGED" : 1,
+        "MAGIC" : 100
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 60,
+      "defenseSlash" : 30,
+      "defenseRanged" : 100,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 13680,
+      "name" : "Dreadborn Araxyte",
+      "size" : 3
+    }
+  },
   "4759" : {
     "skills" : {
       "levels" : {
@@ -28904,25 +30165,6 @@
       "npcId" : 6730,
       "name" : "Rock Golem (Lvl 159)",
       "size" : 1
-    }
-  },
-  "7388" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 45,
-        "DEFENCE" : 14,
-        "STRENGTH" : 42,
-        "HITPOINTS" : 55,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 7388,
-      "name" : "Crushing hand",
-      "isUndead" : true,
-      "size" : 3
     }
   },
   "2593" : {
@@ -29288,6 +30530,29 @@
       "size" : 3
     }
   },
+  "12047" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 160,
+        "DEFENCE" : 120,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 160,
+        "RANGED" : 0,
+        "MAGIC" : 80
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 70,
+      "defenseSlash" : 60,
+      "defenseCrush" : 40,
+      "defenseRanged" : 40
+    },
+    "attributes" : {
+      "npcId" : 12047,
+      "name" : "Evelot",
+      "size" : 1
+    }
+  },
   "6445" : {
     "skills" : {
       "levels" : {
@@ -29449,9 +30714,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 20,
-      "defenseSlash" : 20,
-      "defenseRanged" : 20,
+      "defenseStab" : 50,
+      "defenseSlash" : 60,
+      "defenseCrush" : -20,
       "defenseMagic" : 20
     },
     "attributes" : {
@@ -29562,6 +30827,49 @@
       "size" : 1
     }
   },
+  "13777" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 60,
+        "DEFENCE" : 70,
+        "STRENGTH" : 40,
+        "HITPOINTS" : 40,
+        "RANGED" : 1,
+        "MAGIC" : 70
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 15,
+      "defenseSlash" : 15,
+      "defenseCrush" : 10,
+      "defenseRanged" : 5,
+      "defenseMagic" : 15
+    },
+    "attributes" : {
+      "npcId" : 13777,
+      "name" : "Emissary Conjurer",
+      "size" : 1
+    }
+  },
+  "7388" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 45,
+        "DEFENCE" : 14,
+        "STRENGTH" : 42,
+        "HITPOINTS" : 55,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 7388,
+      "name" : "Crushing hand",
+      "isUndead" : true,
+      "size" : 3
+    }
+  },
   "1708" : {
     "skills" : {
       "levels" : {
@@ -29578,6 +30886,30 @@
       "npcId" : 1708,
       "name" : "Ravager (Lvl 106)",
       "size" : 1
+    }
+  },
+  "14014" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 125,
+        "STRENGTH" : 50,
+        "HITPOINTS" : 400,
+        "RANGED" : 50,
+        "MAGIC" : 50
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 100,
+      "defenseSlash" : 100,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 14014,
+      "name" : "Hueycoatl tail",
+      "isDragon" : true,
+      "size" : 5,
+      "accuracyMagic" : 200
     }
   },
   "2057" : {
@@ -29615,7 +30947,6 @@
       "defenseStab" : 12,
       "defenseSlash" : 14,
       "defenseCrush" : 13,
-      "defenseRanged" : 13,
       "defenseMagic" : 35
     },
     "attributes" : {
@@ -29646,6 +30977,28 @@
       "npcId" : 7937,
       "name" : "Revenant ork",
       "isUndead" : true,
+      "size" : 3
+    }
+  },
+  "13658" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 400,
+        "DEFENCE" : 30,
+        "STRENGTH" : 100,
+        "HITPOINTS" : 2000,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 10,
+      "defenseSlash" : 10,
+      "defenseCrush" : 10
+    },
+    "attributes" : {
+      "npcId" : 13658,
+      "name" : "Bee Swarm",
       "size" : 3
     }
   },
@@ -29703,31 +31056,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 655,
-      "name" : "Goblin (Lvl 5) (1)",
-      "size" : 1
-    }
-  },
-  "1546" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 19,
-        "DEFENCE" : 14,
-        "STRENGTH" : 18,
-        "HITPOINTS" : 22,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 18,
-      "defenseSlash" : 25,
-      "defenseCrush" : 19,
-      "defenseRanged" : 20,
-      "defenseMagic" : -4
-    },
-    "attributes" : {
-      "npcId" : 1546,
-      "name" : "Guard (Lvl 21) (1)",
+      "name" : "Goblin (Lvl 5) (2)",
       "size" : 1
     }
   },
@@ -29743,10 +31072,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 20,
       "defenseSlash" : 70,
       "defenseCrush" : 70,
-      "defenseRanged" : 90,
       "defenseMagic" : 30
     },
     "attributes" : {
@@ -29774,23 +31102,28 @@
       "size" : 1
     }
   },
-  "8344" : {
+  "13814" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 200,
-        "DEFENCE" : 1,
-        "STRENGTH" : 160,
-        "HITPOINTS" : 11,
-        "RANGED" : 200,
-        "MAGIC" : 1
+        "ATTACK" : 140,
+        "DEFENCE" : 100,
+        "STRENGTH" : 110,
+        "HITPOINTS" : 240,
+        "RANGED" : 0,
+        "MAGIC" : 100
       }
     },
-    "defensiveBonuses" : { },
+    "defensiveBonuses" : {
+      "defenseStab" : 30,
+      "defenseSlash" : 20,
+      "defenseCrush" : 50,
+      "defenseMagic" : 80
+    },
     "attributes" : {
-      "npcId" : 8344,
-      "name" : "Nylocas Hagios",
-      "size" : 1,
-      "accuracyMagic" : 1073
+      "npcId" : 13814,
+      "name" : "Minotaur (Lvl 193)",
+      "size" : 2,
+      "accuracyMagic" : 300
     }
   },
   "648" : {
@@ -29830,6 +31163,30 @@
     "attributes" : {
       "npcId" : 7309,
       "name" : "Ancient Wizard (Lvl 112)",
+      "size" : 1
+    }
+  },
+  "12918" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 30,
+        "DEFENCE" : 30,
+        "STRENGTH" : 35,
+        "HITPOINTS" : 25,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 20,
+      "defenseSlash" : 20,
+      "defenseCrush" : 30,
+      "defenseRanged" : 20,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 12918,
+      "name" : "Cultist",
       "size" : 1
     }
   },
@@ -29890,12 +31247,11 @@
       "defenseStab" : 80,
       "defenseSlash" : 80,
       "defenseCrush" : 80,
-      "defenseRanged" : 80,
       "defenseMagic" : 130
     },
     "attributes" : {
       "npcId" : 3129,
-      "name" : "K'ril Tsutsaroth (Lvl 650)",
+      "name" : "K'ril Tsutsaroth",
       "isDemon" : true,
       "size" : 5
     }
@@ -30075,10 +31431,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 10,
       "defenseSlash" : 70,
       "defenseCrush" : 70,
-      "defenseRanged" : 50,
       "defenseMagic" : 60
     },
     "attributes" : {
@@ -30103,7 +31458,6 @@
       "defenseStab" : 25,
       "defenseSlash" : 200,
       "defenseCrush" : 100,
-      "defenseRanged" : 230,
       "defenseMagic" : 150
     },
     "attributes" : {
@@ -30128,6 +31482,96 @@
       "npcId" : 1870,
       "name" : "Evil Chicken",
       "size" : 1
+    }
+  },
+  "12811" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 100,
+        "DEFENCE" : 90,
+        "STRENGTH" : 90,
+        "HITPOINTS" : 125,
+        "RANGED" : 160,
+        "MAGIC" : 220
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 30,
+      "defenseSlash" : 30,
+      "defenseCrush" : 30,
+      "defenseRanged" : 50,
+      "defenseMagic" : 15
+    },
+    "attributes" : {
+      "npcId" : 12811,
+      "name" : "Serpent shaman",
+      "size" : 1,
+      "accuracyMagic" : 50
+    }
+  },
+  "1546" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 19,
+        "DEFENCE" : 14,
+        "STRENGTH" : 18,
+        "HITPOINTS" : 22,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 18,
+      "defenseSlash" : 25,
+      "defenseCrush" : 19,
+      "defenseRanged" : 20,
+      "defenseMagic" : -4
+    },
+    "attributes" : {
+      "npcId" : 1546,
+      "name" : "Guard (Lvl 21) (1)",
+      "size" : 1
+    }
+  },
+  "8344" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 200,
+        "DEFENCE" : 1,
+        "STRENGTH" : 160,
+        "HITPOINTS" : 11,
+        "RANGED" : 200,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 8344,
+      "name" : "Nylocas Hagios",
+      "size" : 1,
+      "accuracyMagic" : 1073
+    }
+  },
+  "13528" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 275,
+        "DEFENCE" : 275,
+        "STRENGTH" : 286,
+        "HITPOINTS" : 750,
+        "RANGED" : 275,
+        "MAGIC" : 275
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 5,
+      "defenseCrush" : -40,
+      "defenseMagic" : -40
+    },
+    "attributes" : {
+      "npcId" : 13528,
+      "name" : "Balance Elemental",
+      "size" : 3
     }
   },
   "1861" : {
@@ -30193,19 +31637,19 @@
     },
     "attributes" : {
       "npcId" : 2266,
-      "name" : "Dagannoth Prime (Lvl 303)",
+      "name" : "Dagannoth Prime",
       "size" : 3
     }
   },
   "12567" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 1,
+        "DEFENCE" : 175,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 175,
+        "RANGED" : 1,
+        "MAGIC" : 175
       }
     },
     "defensiveBonuses" : { },
@@ -30346,7 +31790,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 9181,
-      "name" : "Dire Wolf (Lvl 72)",
+      "name" : "Dire Wolf (0)",
       "size" : 2
     }
   },
@@ -30378,12 +31822,12 @@
   "12538" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 45,
+        "DEFENCE" : 14,
+        "STRENGTH" : 42,
+        "HITPOINTS" : 55,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -30560,7 +32004,6 @@
       "defenseStab" : 90,
       "defenseSlash" : 90,
       "defenseCrush" : 5,
-      "defenseRanged" : 90,
       "defenseMagic" : 90
     },
     "attributes" : {
@@ -30616,7 +32059,7 @@
     },
     "attributes" : {
       "npcId" : 130,
-      "name" : "Skeleton (Lvl 22) (2)",
+      "name" : "Skeleton (Lvl 22) (3)",
       "size" : 1
     }
   },
@@ -30671,7 +32114,6 @@
       "defenseStab" : 15,
       "defenseSlash" : 250,
       "defenseCrush" : 30,
-      "defenseRanged" : 50,
       "defenseMagic" : 75
     },
     "attributes" : {
@@ -30765,6 +32207,29 @@
       "size" : 2
     }
   },
+  "13535" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 110,
+        "STRENGTH" : 150,
+        "HITPOINTS" : 110,
+        "RANGED" : 1,
+        "MAGIC" : 40
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 110,
+      "defenseSlash" : 80,
+      "defenseCrush" : 80,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 13535,
+      "name" : "Mercenary axeman",
+      "size" : 1
+    }
+  },
   "4210" : {
     "skills" : {
       "levels" : {
@@ -30784,31 +32249,6 @@
       "npcId" : 4210,
       "name" : "Possessed Priest",
       "size" : 1
-    }
-  },
-  "272" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 165,
-        "DEFENCE" : 165,
-        "STRENGTH" : 165,
-        "HITPOINTS" : 165,
-        "RANGED" : 1,
-        "MAGIC" : 100
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 50,
-      "defenseSlash" : 70,
-      "defenseCrush" : 70,
-      "defenseRanged" : 90,
-      "defenseMagic" : 30
-    },
-    "attributes" : {
-      "npcId" : 272,
-      "name" : "Iron dragon (Lvl 189)",
-      "isDragon" : true,
-      "size" : 4
     }
   },
   "6329" : {
@@ -30925,42 +32365,6 @@
       "size" : 1
     }
   },
-  "4819" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 19,
-        "DEFENCE" : 26,
-        "STRENGTH" : 20,
-        "HITPOINTS" : 19,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 4819,
-      "name" : "Crab (Lvl 23)",
-      "size" : 2
-    }
-  },
-  "2912" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 2,
-        "DEFENCE" : 2,
-        "STRENGTH" : 2,
-        "HITPOINTS" : 1,
-        "RANGED" : 2,
-        "MAGIC" : 2
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 2912,
-      "name" : "Black chinchompa",
-      "size" : 1
-    }
-  },
   "7793" : {
     "skills" : {
       "levels" : {
@@ -30984,6 +32388,52 @@
       "name" : "Taloned Wyvern",
       "isDragon" : true,
       "size" : 3
+    }
+  },
+  "272" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 165,
+        "DEFENCE" : 165,
+        "STRENGTH" : 165,
+        "HITPOINTS" : 165,
+        "RANGED" : 1,
+        "MAGIC" : 100
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 20,
+      "defenseSlash" : 70,
+      "defenseCrush" : 70,
+      "defenseMagic" : 30
+    },
+    "attributes" : {
+      "npcId" : 272,
+      "name" : "Iron dragon (Lvl 189)",
+      "isDragon" : true,
+      "size" : 4
+    }
+  },
+  "14118" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 106,
+        "DEFENCE" : 68,
+        "STRENGTH" : 94,
+        "HITPOINTS" : 110,
+        "RANGED" : 94,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 20,
+      "defenseSlash" : 20
+    },
+    "attributes" : {
+      "npcId" : 14118,
+      "name" : "Armoured zombie (Lvl 109) (0)",
+      "isUndead" : true,
+      "size" : 1
     }
   },
   "882" : {
@@ -31252,30 +32702,6 @@
       "size" : 1
     }
   },
-  "12452" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 150,
-        "DEFENCE" : 250,
-        "STRENGTH" : 150,
-        "HITPOINTS" : 750,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : -15,
-      "defenseSlash" : -15,
-      "defenseCrush" : -15,
-      "defenseRanged" : -15,
-      "defenseMagic" : -15
-    },
-    "attributes" : {
-      "npcId" : 12452,
-      "name" : "Giant goblin",
-      "size" : 2
-    }
-  },
   "6504" : {
     "skills" : {
       "levels" : {
@@ -31342,7 +32768,7 @@
         "ATTACK" : 250,
         "DEFENCE" : 215,
         "STRENGTH" : 280,
-        "HITPOINTS" : 200,
+        "HITPOINTS" : 330,
         "RANGED" : 0,
         "MAGIC" : 230
       }
@@ -31351,7 +32777,6 @@
       "defenseStab" : 210,
       "defenseSlash" : 30,
       "defenseCrush" : 160,
-      "defenseRanged" : 300,
       "defenseMagic" : 400
     },
     "attributes" : {
@@ -31360,6 +32785,30 @@
       "isDemon" : true,
       "size" : 7,
       "accuracyMagic" : 150
+    }
+  },
+  "13004" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 6,
+        "DEFENCE" : 1,
+        "STRENGTH" : 6,
+        "HITPOINTS" : 20,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : -21,
+      "defenseSlash" : -21,
+      "defenseCrush" : -21,
+      "defenseRanged" : -21,
+      "defenseMagic" : -21
+    },
+    "attributes" : {
+      "npcId" : 13004,
+      "name" : "Buffalo",
+      "size" : 2
     }
   },
   "4043" : {
@@ -31378,6 +32827,30 @@
       "npcId" : 4043,
       "name" : "Pirate (Lvl 57)",
       "size" : 1
+    }
+  },
+  "6492" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 300,
+        "DEFENCE" : 260,
+        "STRENGTH" : 200,
+        "HITPOINTS" : 255,
+        "RANGED" : 380,
+        "MAGIC" : 200
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 180,
+      "defenseSlash" : 180,
+      "defenseCrush" : 180,
+      "defenseRanged" : 200,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 6492,
+      "name" : "Kree'arra",
+      "size" : 5
     }
   },
   "1875" : {
@@ -31484,6 +32957,7 @@
     "attributes" : {
       "npcId" : 911,
       "name" : "Agrith Naar",
+      "isDemon" : true,
       "size" : 3
     }
   },
@@ -31502,6 +32976,47 @@
     "attributes" : {
       "npcId" : 3603,
       "name" : "Swordchick",
+      "size" : 1
+    }
+  },
+  "4819" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 19,
+        "DEFENCE" : 26,
+        "STRENGTH" : 20,
+        "HITPOINTS" : 19,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 4819,
+      "name" : "Crab (Lvl 23)",
+      "size" : 2
+    }
+  },
+  "13514" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 50,
+        "DEFENCE" : 70,
+        "STRENGTH" : 70,
+        "HITPOINTS" : 275,
+        "RANGED" : 110,
+        "MAGIC" : 30
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 10,
+      "defenseSlash" : 10,
+      "defenseCrush" : 15,
+      "defenseMagic" : 30
+    },
+    "attributes" : {
+      "npcId" : 13514,
+      "name" : "Assassin (Lvl 167)",
       "size" : 1
     }
   },
@@ -31604,7 +33119,7 @@
     },
     "attributes" : {
       "npcId" : 7697,
-      "name" : "Jal-ImKot (Lvl 240)",
+      "name" : "Jal-ImKot",
       "size" : 4
     }
   },
@@ -31680,7 +33195,7 @@
         "ATTACK" : 400,
         "DEFENCE" : 200,
         "STRENGTH" : 400,
-        "HITPOINTS" : 3250,
+        "HITPOINTS" : 3500,
         "RANGED" : 400,
         "MAGIC" : 400
       }
@@ -31697,6 +33212,72 @@
       "name" : "Verzik Vitur (P2/Vampyre)",
       "size" : 3,
       "accuracyMagic" : 80
+    }
+  },
+  "2912" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 2,
+        "DEFENCE" : 2,
+        "STRENGTH" : 2,
+        "HITPOINTS" : 1,
+        "RANGED" : 2,
+        "MAGIC" : 2
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 2912,
+      "name" : "Black chinchompa",
+      "size" : 1
+    }
+  },
+  "13476" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 160,
+        "DEFENCE" : 62,
+        "STRENGTH" : 180,
+        "HITPOINTS" : 54,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 25,
+      "defenseSlash" : 20,
+      "defenseCrush" : 25,
+      "defenseMagic" : 10
+    },
+    "attributes" : {
+      "npcId" : 13476,
+      "name" : "Skeleton (Lvl 132) (2)",
+      "isUndead" : true,
+      "size" : 1
+    }
+  },
+  "13773" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 90,
+        "DEFENCE" : 70,
+        "STRENGTH" : 50,
+        "HITPOINTS" : 35,
+        "RANGED" : 1,
+        "MAGIC" : 15
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 30,
+      "defenseSlash" : 30,
+      "defenseCrush" : 20,
+      "defenseRanged" : 30,
+      "defenseMagic" : 5
+    },
+    "attributes" : {
+      "npcId" : 13773,
+      "name" : "Emissary Brawler (Lvl 74)",
+      "size" : 1
     }
   },
   "240" : {
@@ -31784,24 +33365,6 @@
       "size" : 1
     }
   },
-  "1072" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 38,
-        "DEFENCE" : 39,
-        "STRENGTH" : 36,
-        "HITPOINTS" : 25,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 1072,
-      "name" : "Hopeless creature (Lvl 40)",
-      "size" : 2
-    }
-  },
   "7392" : {
     "skills" : {
       "levels" : {
@@ -31836,24 +33399,6 @@
       "npcId" : 1139,
       "name" : "Woman (Lvl 4) (0)",
       "size" : 1
-    }
-  },
-  "6339" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 187,
-        "DEFENCE" : 80,
-        "STRENGTH" : 176,
-        "HITPOINTS" : 176,
-        "RANGED" : 0,
-        "MAGIC" : 0
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 6339,
-      "name" : "Nazastarool (hard) (Lvl 181)",
-      "size" : 2
     }
   },
   "3423" : {
@@ -31963,30 +33508,6 @@
       "size" : 2
     }
   },
-  "74" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 17,
-        "DEFENCE" : 17,
-        "STRENGTH" : 17,
-        "HITPOINTS" : 24,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 5,
-      "defenseSlash" : 5,
-      "defenseCrush" : -5,
-      "defenseRanged" : 5
-    },
-    "attributes" : {
-      "npcId" : 74,
-      "name" : "Skeleton (Lvl 21)",
-      "isUndead" : true,
-      "size" : 1
-    }
-  },
   "6291" : {
     "skills" : {
       "levels" : {
@@ -32054,12 +33575,12 @@
   "3316" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
+        "ATTACK" : 1,
+        "DEFENCE" : 1,
+        "STRENGTH" : 1,
         "HITPOINTS" : 3,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -32306,7 +33827,6 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseRanged" : 50,
       "defenseMagic" : -45
     },
     "attributes" : {
@@ -32314,6 +33834,48 @@
       "name" : "Zulrah (Serpentine/Ranged)",
       "size" : 5,
       "accuracyMagic" : 50
+    }
+  },
+  "13659" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 230,
+        "DEFENCE" : 150,
+        "STRENGTH" : 220,
+        "HITPOINTS" : 500,
+        "RANGED" : 310,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 30,
+      "defenseSlash" : 12,
+      "defenseCrush" : 20,
+      "defenseRanged" : 300,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 13659,
+      "name" : "Thermonuclear smoke devil (Lvl 313)",
+      "size" : 4
+    }
+  },
+  "1072" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 38,
+        "DEFENCE" : 39,
+        "STRENGTH" : 36,
+        "HITPOINTS" : 25,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 1072,
+      "name" : "Hopeless creature (Lvl 40)",
+      "size" : 2
     }
   },
   "10694" : {
@@ -32399,6 +33961,29 @@
       "size" : 2
     }
   },
+  "13482" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 160,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 450,
+        "RANGED" : 1,
+        "MAGIC" : 160
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 30,
+      "defenseSlash" : 20,
+      "defenseCrush" : 40
+    },
+    "attributes" : {
+      "npcId" : 13482,
+      "name" : "Surok Magis",
+      "size" : 1,
+      "accuracyMagic" : 85
+    }
+  },
   "4310" : {
     "skills" : {
       "levels" : {
@@ -32465,15 +34050,51 @@
       "size" : 1
     }
   },
+  "6339" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 187,
+        "DEFENCE" : 80,
+        "STRENGTH" : 176,
+        "HITPOINTS" : 176,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 6339,
+      "name" : "Nazastarool (hard) (Lvl 181)",
+      "size" : 2
+    }
+  },
+  "13021" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 40,
+        "DEFENCE" : 28,
+        "STRENGTH" : 40,
+        "HITPOINTS" : 100,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 13021,
+      "name" : "Blood jaguar",
+      "size" : 2
+    }
+  },
   "1061" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
+        "ATTACK" : 37,
+        "DEFENCE" : 38,
+        "STRENGTH" : 38,
         "HITPOINTS" : 200,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -32553,12 +34174,12 @@
   "5763" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
+        "ATTACK" : 63,
         "DEFENCE" : 61,
-        "STRENGTH" : 0,
+        "STRENGTH" : 1,
         "HITPOINTS" : 50,
         "RANGED" : 62,
-        "MAGIC" : 0
+        "MAGIC" : 1
       }
     },
     "defensiveBonuses" : { },
@@ -32624,7 +34245,6 @@
       "defenseStab" : 200,
       "defenseSlash" : 150,
       "defenseCrush" : 180,
-      "defenseRanged" : 30,
       "defenseMagic" : 220
     },
     "attributes" : {
@@ -32655,6 +34275,47 @@
     "attributes" : {
       "npcId" : 2843,
       "name" : "Otherworldly being",
+      "size" : 1
+    }
+  },
+  "74" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 17,
+        "DEFENCE" : 17,
+        "STRENGTH" : 17,
+        "HITPOINTS" : 24,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 5,
+      "defenseSlash" : 5,
+      "defenseCrush" : -5
+    },
+    "attributes" : {
+      "npcId" : 74,
+      "name" : "Skeleton (Lvl 21)",
+      "isUndead" : true,
+      "size" : 1
+    }
+  },
+  "13799" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 95,
+        "DEFENCE" : 70,
+        "STRENGTH" : 90,
+        "HITPOINTS" : 140,
+        "RANGED" : 1,
+        "MAGIC" : 95
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 13799,
+      "name" : "Chilled jelly",
       "size" : 1
     }
   },
@@ -32726,7 +34387,7 @@
         "ATTACK" : 0,
         "DEFENCE" : 0,
         "STRENGTH" : 0,
-        "HITPOINTS" : 0,
+        "HITPOINTS" : 50,
         "RANGED" : 0,
         "MAGIC" : 0
       }
@@ -32758,6 +34419,28 @@
     "attributes" : {
       "npcId" : 6272,
       "name" : "Large mosquito",
+      "size" : 1
+    }
+  },
+  "13531" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 80,
+        "DEFENCE" : 80,
+        "STRENGTH" : 88,
+        "HITPOINTS" : 85,
+        "RANGED" : 1,
+        "MAGIC" : 30
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 44,
+      "defenseSlash" : 38,
+      "defenseCrush" : 30
+    },
+    "attributes" : {
+      "npcId" : 13531,
+      "name" : "Elite Khazard Guard",
       "size" : 1
     }
   },
@@ -32915,10 +34598,10 @@
   "5656" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 12,
+        "ATTACK" : 87,
+        "DEFENCE" : 11,
+        "STRENGTH" : 6,
+        "HITPOINTS" : 11,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -33059,6 +34742,28 @@
       "size" : 1
     }
   },
+  "14113" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 106,
+        "DEFENCE" : 68,
+        "STRENGTH" : 94,
+        "HITPOINTS" : 110,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 20,
+      "defenseSlash" : 20
+    },
+    "attributes" : {
+      "npcId" : 14113,
+      "name" : "Armoured zombie (Lvl 109) (1)",
+      "isUndead" : true,
+      "size" : 1
+    }
+  },
   "4107" : {
     "skills" : {
       "levels" : {
@@ -33135,7 +34840,6 @@
       "defenseStab" : 20,
       "defenseSlash" : 10,
       "defenseCrush" : 10,
-      "defenseRanged" : -10,
       "defenseMagic" : 50
     },
     "attributes" : {
@@ -33207,7 +34911,7 @@
     "defensiveBonuses" : { },
     "attributes" : {
       "npcId" : 5213,
-      "name" : "Jonny the beard",
+      "name" : "Jonny the Beard",
       "size" : 1
     }
   },
@@ -33383,7 +35087,7 @@
         "ATTACK" : 0,
         "DEFENCE" : 80,
         "STRENGTH" : 0,
-        "HITPOINTS" : 80,
+        "HITPOINTS" : 150,
         "RANGED" : 0,
         "MAGIC" : 125
       }
@@ -33392,12 +35096,11 @@
       "defenseStab" : 60,
       "defenseSlash" : 300,
       "defenseCrush" : 100,
-      "defenseRanged" : 300,
       "defenseMagic" : 200
     },
     "attributes" : {
       "npcId" : 11719,
-      "name" : "Kephri",
+      "name" : "Kephri (Lvl 341)",
       "isKalphite" : true,
       "size" : 5,
       "accuracyMagic" : 125
@@ -33434,10 +35137,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 10,
       "defenseSlash" : 70,
       "defenseCrush" : 70,
-      "defenseRanged" : 50,
       "defenseMagic" : 60
     },
     "attributes" : {
@@ -33491,7 +35193,7 @@
         "DEFENCE" : 52,
         "STRENGTH" : 55,
         "HITPOINTS" : 50,
-        "RANGED" : 0,
+        "RANGED" : 1,
         "MAGIC" : 1
       }
     },
@@ -33537,10 +35239,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 50,
+      "defenseStab" : 20,
       "defenseSlash" : 70,
       "defenseCrush" : 70,
-      "defenseRanged" : 90,
       "defenseMagic" : 30
     },
     "attributes" : {
@@ -33562,10 +35263,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 30,
+      "defenseStab" : 10,
       "defenseSlash" : 50,
       "defenseCrush" : 50,
-      "defenseRanged" : 30,
       "defenseMagic" : 40
     },
     "attributes" : {
@@ -33573,6 +35273,30 @@
       "name" : "Baby black dragon",
       "isDragon" : true,
       "size" : 2
+    }
+  },
+  "14135" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 106,
+        "DEFENCE" : 10,
+        "STRENGTH" : 94,
+        "HITPOINTS" : 10,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 5,
+      "defenseSlash" : 5,
+      "defenseCrush" : 5,
+      "defenseMagic" : -50
+    },
+    "attributes" : {
+      "npcId" : 14135,
+      "name" : "Armoured zombie (Lvl 70)",
+      "isUndead" : true,
+      "size" : 1
     }
   },
   "11088" : {
@@ -33614,12 +35338,11 @@
       "defenseStab" : 5,
       "defenseSlash" : 5,
       "defenseCrush" : 5,
-      "defenseRanged" : 5,
       "defenseMagic" : -5
     },
     "attributes" : {
       "npcId" : 85,
-      "name" : "Ghost (Lvl 19)",
+      "name" : "Ghost (Lvl 19) (1)",
       "isUndead" : true,
       "size" : 1
     }
@@ -33814,13 +35537,31 @@
       "size" : 1
     }
   },
+  "13968" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 4,
+        "DEFENCE" : 2,
+        "STRENGTH" : 5,
+        "HITPOINTS" : 5,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 13968,
+      "name" : "Porcupine",
+      "size" : 1
+    }
+  },
   "11714" : {
     "skills" : {
       "levels" : {
         "ATTACK" : 60,
         "DEFENCE" : 20,
         "STRENGTH" : 60,
-        "HITPOINTS" : 6,
+        "HITPOINTS" : 25,
         "RANGED" : 40,
         "MAGIC" : 60
       }
@@ -33919,12 +35660,29 @@
       "defenseStab" : 23,
       "defenseSlash" : 25,
       "defenseCrush" : 13,
-      "defenseRanged" : 35,
       "defenseMagic" : 35
     },
     "attributes" : {
       "npcId" : 3166,
       "name" : "Spiritual warrior (Lvl 123)",
+      "size" : 2
+    }
+  },
+  "13813" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 75,
+        "DEFENCE" : 70,
+        "STRENGTH" : 75,
+        "HITPOINTS" : 10,
+        "RANGED" : 20,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 13813,
+      "name" : "Dire Wolf (1)",
       "size" : 2
     }
   },
@@ -34035,31 +35793,6 @@
       "size" : 2
     }
   },
-  "12453" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 150,
-        "DEFENCE" : 250,
-        "STRENGTH" : 200,
-        "HITPOINTS" : 750,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 18,
-      "defenseSlash" : 18,
-      "defenseCrush" : 18,
-      "defenseRanged" : 18,
-      "defenseMagic" : 150
-    },
-    "attributes" : {
-      "npcId" : 12453,
-      "name" : "Flaming pyrelord (Lvl 363)",
-      "isDemon" : true,
-      "size" : 3
-    }
-  },
   "6459" : {
     "skills" : {
       "levels" : {
@@ -34081,6 +35814,30 @@
       "name" : "Zombie (Lvl 80)",
       "isUndead" : true,
       "size" : 1
+    }
+  },
+  "2207" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 100,
+        "DEFENCE" : 120,
+        "STRENGTH" : 101,
+        "HITPOINTS" : 146,
+        "RANGED" : 1,
+        "MAGIC" : 150
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 12,
+      "defenseSlash" : 14,
+      "defenseCrush" : 14,
+      "defenseRanged" : 5,
+      "defenseMagic" : 18
+    },
+    "attributes" : {
+      "npcId" : 2207,
+      "name" : "Growler",
+      "size" : 3
     }
   },
   "11292" : {
@@ -34107,6 +35864,24 @@
       "accuracyMagic" : 52
     }
   },
+  "13483" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 25,
+        "DEFENCE" : 80,
+        "STRENGTH" : 25,
+        "HITPOINTS" : 30,
+        "RANGED" : 80,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 13483,
+      "name" : "Agile Warrior",
+      "size" : 1
+    }
+  },
   "4483" : {
     "skills" : {
       "levels" : {
@@ -34131,25 +35906,6 @@
       "size" : 1
     }
   },
-  "10791" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 200,
-        "DEFENCE" : 1,
-        "STRENGTH" : 160,
-        "HITPOINTS" : 11,
-        "RANGED" : 200,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 10791,
-      "name" : "Nylocas Ischyros HM",
-      "size" : 1,
-      "accuracyMagic" : 1073
-    }
-  },
   "7404" : {
     "skills" : {
       "levels" : {
@@ -34165,6 +35921,29 @@
     "attributes" : {
       "npcId" : 7404,
       "name" : "Choke devil",
+      "size" : 2
+    }
+  },
+  "13675" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 50,
+        "STRENGTH" : 120,
+        "HITPOINTS" : 58,
+        "RANGED" : 60,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 25,
+      "defenseSlash" : 25,
+      "defenseCrush" : 25,
+      "defenseMagic" : -10
+    },
+    "attributes" : {
+      "npcId" : 13675,
+      "name" : "Acidic Araxyte",
       "size" : 2
     }
   },
@@ -34187,71 +35966,6 @@
       "npcId" : 2085,
       "name" : "Ice giant (Lvl 53)",
       "size" : 2
-    }
-  },
-  "926" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 60,
-        "DEFENCE" : 60,
-        "STRENGTH" : 110,
-        "HITPOINTS" : 135,
-        "RANGED" : 0,
-        "MAGIC" : 0
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 30,
-      "defenseSlash" : 30,
-      "defenseCrush" : 50,
-      "defenseRanged" : 200,
-      "defenseMagic" : 200
-    },
-    "attributes" : {
-      "npcId" : 926,
-      "name" : "Stick",
-      "size" : 2
-    }
-  },
-  "7312" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 130,
-        "DEFENCE" : 100,
-        "STRENGTH" : 105,
-        "HITPOINTS" : 160,
-        "RANGED" : 1,
-        "MAGIC" : 95
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 20,
-      "defenseSlash" : 20,
-      "defenseCrush" : 20
-    },
-    "attributes" : {
-      "npcId" : 7312,
-      "name" : "Double agent (Lvl 141)",
-      "size" : 1
-    }
-  },
-  "3707" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 55,
-        "DEFENCE" : 60,
-        "STRENGTH" : 30,
-        "HITPOINTS" : 80,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 3707,
-      "name" : "Feral Vampyre (Lvl 64)",
-      "isVampyre1" : true,
-      "size" : 1
     }
   },
   "7806" : {
@@ -34341,54 +36055,6 @@
       "name" : "Parasite (Lvl 86)",
       "size" : 1,
       "accuracyMagic" : 20
-    }
-  },
-  "12441" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 255,
-        "DEFENCE" : 128,
-        "STRENGTH" : 255,
-        "HITPOINTS" : 750,
-        "RANGED" : 255,
-        "MAGIC" : 255
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 10,
-      "defenseSlash" : 10,
-      "defenseCrush" : 10,
-      "defenseRanged" : 550,
-      "defenseMagic" : 255
-    },
-    "attributes" : {
-      "npcId" : 12441,
-      "name" : "Dagannoth Supreme (Lvl 385)",
-      "size" : 3
-    }
-  },
-  "2207" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 100,
-        "DEFENCE" : 120,
-        "STRENGTH" : 101,
-        "HITPOINTS" : 146,
-        "RANGED" : 1,
-        "MAGIC" : 150
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 12,
-      "defenseSlash" : 14,
-      "defenseCrush" : 14,
-      "defenseRanged" : 5,
-      "defenseMagic" : 18
-    },
-    "attributes" : {
-      "npcId" : 2207,
-      "name" : "Growler",
-      "size" : 3
     }
   },
   "11998" : {
@@ -34499,6 +36165,50 @@
       "size" : 1
     }
   },
+  "6495" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 340,
+        "DEFENCE" : 270,
+        "STRENGTH" : 300,
+        "HITPOINTS" : 255,
+        "RANGED" : 1,
+        "MAGIC" : 200
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 80,
+      "defenseSlash" : 80,
+      "defenseCrush" : 80,
+      "defenseRanged" : 80,
+      "defenseMagic" : 130
+    },
+    "attributes" : {
+      "npcId" : 6495,
+      "name" : "K'ril Tsutsaroth (Lvl 650)",
+      "isDemon" : true,
+      "size" : 5
+    }
+  },
+  "10791" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 200,
+        "DEFENCE" : 1,
+        "STRENGTH" : 160,
+        "HITPOINTS" : 11,
+        "RANGED" : 200,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 10791,
+      "name" : "Nylocas Ischyros HM",
+      "size" : 1,
+      "accuracyMagic" : 1073
+    }
+  },
   "2218" : {
     "skills" : {
       "levels" : {
@@ -34576,7 +36286,7 @@
     },
     "attributes" : {
       "npcId" : 7865,
-      "name" : "Lesser demon (Lvl 94) (1)",
+      "name" : "Lesser demon (Lvl 94) (2)",
       "isDemon" : true,
       "size" : 2
     }
@@ -34602,6 +36312,94 @@
     "attributes" : {
       "npcId" : 1800,
       "name" : "White Knight (Lvl 39)",
+      "size" : 1
+    }
+  },
+  "926" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 60,
+        "DEFENCE" : 60,
+        "STRENGTH" : 110,
+        "HITPOINTS" : 135,
+        "RANGED" : 0,
+        "MAGIC" : 0
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 30,
+      "defenseSlash" : 30,
+      "defenseCrush" : 50,
+      "defenseRanged" : 200,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 926,
+      "name" : "Stick",
+      "size" : 2
+    }
+  },
+  "14125" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 170,
+        "DEFENCE" : 100,
+        "STRENGTH" : 170,
+        "HITPOINTS" : 150,
+        "RANGED" : 0,
+        "MAGIC" : 170
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 180,
+      "defenseSlash" : 200,
+      "defenseCrush" : 20,
+      "defenseMagic" : 40
+    },
+    "attributes" : {
+      "npcId" : 14125,
+      "name" : "Golem guard",
+      "size" : 2
+    }
+  },
+  "13661" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 350,
+        "DEFENCE" : 200,
+        "STRENGTH" : 350,
+        "HITPOINTS" : 5000,
+        "RANGED" : 450,
+        "MAGIC" : 450
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 13661,
+      "name" : "TzTok-Jad (Lvl 1527)",
+      "size" : 5,
+      "accuracyMagic" : 50
+    }
+  },
+  "7312" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 130,
+        "DEFENCE" : 100,
+        "STRENGTH" : 105,
+        "HITPOINTS" : 160,
+        "RANGED" : 1,
+        "MAGIC" : 95
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 20,
+      "defenseSlash" : 20,
+      "defenseCrush" : 20
+    },
+    "attributes" : {
+      "npcId" : 7312,
+      "name" : "Double agent (Lvl 141)",
       "size" : 1
     }
   },
@@ -34769,6 +36567,43 @@
       "size" : 1
     }
   },
+  "3707" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 55,
+        "DEFENCE" : 60,
+        "STRENGTH" : 30,
+        "HITPOINTS" : 80,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 3707,
+      "name" : "Feral Vampyre (Lvl 64)",
+      "isVampyre1" : true,
+      "size" : 1
+    }
+  },
+  "4383" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 1,
+        "DEFENCE" : 1,
+        "STRENGTH" : 1,
+        "HITPOINTS" : 1,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 4383,
+      "name" : "Ogre shaman (Lvl 113)",
+      "size" : 2
+    }
+  },
   "1676" : {
     "skills" : {
       "levels" : {
@@ -34783,8 +36618,7 @@
     "defensiveBonuses" : {
       "defenseStab" : 221,
       "defenseSlash" : 235,
-      "defenseCrush" : 222,
-      "defenseRanged" : 221
+      "defenseCrush" : 222
     },
     "attributes" : {
       "npcId" : 1676,
@@ -34872,6 +36706,7 @@
     "defensiveBonuses" : {
       "defenseStab" : 30,
       "defenseSlash" : 30,
+      "defenseCrush" : -15,
       "defenseMagic" : 30
     },
     "attributes" : {
@@ -34925,15 +36760,21 @@
   "8845" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 0,
-        "RANGED" : 0,
-        "MAGIC" : 0
+        "ATTACK" : 40,
+        "DEFENCE" : 30,
+        "STRENGTH" : 50,
+        "HITPOINTS" : 29,
+        "RANGED" : 1,
+        "MAGIC" : 1
       }
     },
-    "defensiveBonuses" : { },
+    "defensiveBonuses" : {
+      "defenseStab" : 20,
+      "defenseSlash" : 40,
+      "defenseCrush" : 40,
+      "defenseRanged" : 20,
+      "defenseMagic" : 30
+    },
     "attributes" : {
       "npcId" : 8845,
       "name" : "Mourner (Lvl 51)",
@@ -35136,7 +36977,7 @@
     },
     "attributes" : {
       "npcId" : 8072,
-      "name" : "Skeleton (Lvl 132) (2)",
+      "name" : "Skeleton (Lvl 132) (3)",
       "isUndead" : true,
       "size" : 1,
       "accuracyMagic" : 20
@@ -35215,50 +37056,13 @@
       "size" : 5
     }
   },
-  "12288" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 0,
-        "DEFENCE" : 0,
-        "STRENGTH" : 0,
-        "HITPOINTS" : 100,
-        "RANGED" : 0,
-        "MAGIC" : 0
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 12288,
-      "name" : "Strangled Bear",
-      "size" : 3
-    }
-  },
-  "2501" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 25,
-        "DEFENCE" : 20,
-        "STRENGTH" : 29,
-        "HITPOINTS" : 30,
-        "RANGED" : 1,
-        "MAGIC" : 1
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 2501,
-      "name" : "Zombie (Lvl 30)",
-      "isUndead" : true,
-      "size" : 1
-    }
-  },
   "8366" : {
     "skills" : {
       "levels" : {
         "ATTACK" : 100,
         "DEFENCE" : 100,
         "STRENGTH" : 100,
-        "HITPOINTS" : 0,
+        "HITPOINTS" : 100,
         "RANGED" : 100,
         "MAGIC" : 100
       }
@@ -35332,6 +37136,51 @@
       "size" : 2
     }
   },
+  "2955" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 100,
+        "DEFENCE" : 80,
+        "STRENGTH" : 80,
+        "HITPOINTS" : 120,
+        "RANGED" : 1,
+        "MAGIC" : 80
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseMagic" : 30
+    },
+    "attributes" : {
+      "npcId" : 2955,
+      "name" : "Saradomin wizard",
+      "size" : 1
+    }
+  },
+  "13664" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 10,
+        "DEFENCE" : 100,
+        "STRENGTH" : 30,
+        "HITPOINTS" : 1500,
+        "RANGED" : 150,
+        "MAGIC" : 15
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 100,
+      "defenseSlash" : 100,
+      "defenseCrush" : 100,
+      "defenseRanged" : 100,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 13664,
+      "name" : "Ranging Ro",
+      "size" : 1,
+      "accuracyMagic" : 100
+    }
+  },
   "1119" : {
     "skills" : {
       "levels" : {
@@ -35354,24 +37203,28 @@
       "size" : 1
     }
   },
-  "2955" : {
+  "12817" : {
     "skills" : {
       "levels" : {
-        "ATTACK" : 100,
-        "DEFENCE" : 80,
-        "STRENGTH" : 80,
-        "HITPOINTS" : 120,
-        "RANGED" : 1,
-        "MAGIC" : 80
+        "ATTACK" : 200,
+        "DEFENCE" : 190,
+        "STRENGTH" : 300,
+        "HITPOINTS" : 220,
+        "RANGED" : 360,
+        "MAGIC" : 225
       }
     },
     "defensiveBonuses" : {
-      "defenseMagic" : 30
+      "defenseStab" : 15,
+      "defenseSlash" : 15,
+      "defenseCrush" : 15,
+      "defenseRanged" : 30,
+      "defenseMagic" : 20
     },
     "attributes" : {
-      "npcId" : 2955,
-      "name" : "Saradomin wizard",
-      "size" : 1
+      "npcId" : 12817,
+      "name" : "Javelin Colossus",
+      "size" : 3
     }
   },
   "6470" : {
@@ -35410,10 +37263,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 20,
+      "defenseStab" : 10,
       "defenseSlash" : 50,
       "defenseCrush" : 50,
-      "defenseRanged" : 20,
       "defenseMagic" : 50
     },
     "attributes" : {
@@ -35463,6 +37315,29 @@
       "npcId" : 7887,
       "name" : "Dusk (Lvl 328)",
       "size" : 6
+    }
+  },
+  "13744" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 120,
+        "DEFENCE" : 90,
+        "STRENGTH" : 110,
+        "HITPOINTS" : 80,
+        "RANGED" : 1,
+        "MAGIC" : 40
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 30,
+      "defenseSlash" : 30,
+      "defenseCrush" : 50,
+      "defenseMagic" : 20
+    },
+    "attributes" : {
+      "npcId" : 13744,
+      "name" : "Emissary Ascended",
+      "size" : 1
     }
   },
   "3354" : {
@@ -35588,30 +37463,6 @@
       "size" : 2
     }
   },
-  "12444" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 280,
-        "DEFENCE" : 250,
-        "STRENGTH" : 350,
-        "HITPOINTS" : 1000,
-        "RANGED" : 350,
-        "MAGIC" : 80
-      }
-    },
-    "defensiveBonuses" : {
-      "defenseStab" : 90,
-      "defenseSlash" : 90,
-      "defenseCrush" : 90,
-      "defenseRanged" : 90,
-      "defenseMagic" : 201
-    },
-    "attributes" : {
-      "npcId" : 12444,
-      "name" : "General Graardor (Lvl 624)",
-      "size" : 4
-    }
-  },
   "5741" : {
     "skills" : {
       "levels" : {
@@ -35619,7 +37470,7 @@
         "DEFENCE" : 34,
         "STRENGTH" : 32,
         "HITPOINTS" : 32,
-        "RANGED" : 0,
+        "RANGED" : 1,
         "MAGIC" : 1
       }
     },
@@ -35929,13 +37780,99 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : -10,
+      "defenseStab" : -20,
       "defenseSlash" : 25
     },
     "attributes" : {
       "npcId" : 6914,
       "name" : "Lizardman (Lvl 53)",
       "size" : 1
+    }
+  },
+  "14017" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 150,
+        "DEFENCE" : 125,
+        "STRENGTH" : 50,
+        "HITPOINTS" : 250,
+        "RANGED" : 50,
+        "MAGIC" : 50
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 100,
+      "defenseSlash" : 100,
+      "defenseMagic" : 200
+    },
+    "attributes" : {
+      "npcId" : 14017,
+      "name" : "Hueycoatl body",
+      "isDragon" : true,
+      "size" : 1,
+      "accuracyMagic" : 200
+    }
+  },
+  "12288" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 190,
+        "DEFENCE" : 40,
+        "STRENGTH" : 70,
+        "HITPOINTS" : 100,
+        "RANGED" : 0,
+        "MAGIC" : 60
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 12288,
+      "name" : "Strangled Bear",
+      "size" : 3
+    }
+  },
+  "2501" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 25,
+        "DEFENCE" : 20,
+        "STRENGTH" : 29,
+        "HITPOINTS" : 30,
+        "RANGED" : 1,
+        "MAGIC" : 1
+      }
+    },
+    "defensiveBonuses" : { },
+    "attributes" : {
+      "npcId" : 2501,
+      "name" : "Zombie (Lvl 30)",
+      "isUndead" : true,
+      "size" : 1
+    }
+  },
+  "13031" : {
+    "skills" : {
+      "levels" : {
+        "ATTACK" : 20,
+        "DEFENCE" : 40,
+        "STRENGTH" : 30,
+        "HITPOINTS" : 65,
+        "RANGED" : 15,
+        "MAGIC" : 60
+      }
+    },
+    "defensiveBonuses" : {
+      "defenseStab" : 20,
+      "defenseSlash" : 50,
+      "defenseCrush" : 50,
+      "defenseRanged" : 20,
+      "defenseMagic" : 50
+    },
+    "attributes" : {
+      "npcId" : 13031,
+      "name" : "Wyrmling",
+      "isDragon" : true,
+      "size" : 2
     }
   },
   "529" : {
@@ -36019,7 +37956,7 @@
         "ATTACK" : 23,
         "DEFENCE" : 28,
         "STRENGTH" : 23,
-        "HITPOINTS" : 27,
+        "HITPOINTS" : 30,
         "RANGED" : 1,
         "MAGIC" : 1
       }
@@ -36028,7 +37965,6 @@
       "defenseStab" : 5,
       "defenseSlash" : 5,
       "defenseCrush" : 5,
-      "defenseRanged" : 5,
       "defenseMagic" : -5
     },
     "attributes" : {
@@ -36092,10 +38028,9 @@
       }
     },
     "defensiveBonuses" : {
-      "defenseStab" : 70,
+      "defenseStab" : 60,
       "defenseSlash" : 90,
       "defenseCrush" : 90,
-      "defenseRanged" : 70,
       "defenseMagic" : 80
     },
     "attributes" : {
@@ -36122,24 +38057,6 @@
       "name" : "Nylocas Prinkipas",
       "size" : 3,
       "accuracyMagic" : 300
-    }
-  },
-  "12457" : {
-    "skills" : {
-      "levels" : {
-        "ATTACK" : 200,
-        "DEFENCE" : 250,
-        "STRENGTH" : 250,
-        "HITPOINTS" : 500,
-        "RANGED" : 1,
-        "MAGIC" : 180
-      }
-    },
-    "defensiveBonuses" : { },
-    "attributes" : {
-      "npcId" : 12457,
-      "name" : "Vitreous warped Jelly (Lvl 333)",
-      "size" : 3
     }
   },
   "1714" : {
@@ -36175,7 +38092,6 @@
       "defenseStab" : 180,
       "defenseSlash" : 180,
       "defenseCrush" : 180,
-      "defenseRanged" : 200,
       "defenseMagic" : 200
     },
     "attributes" : {
